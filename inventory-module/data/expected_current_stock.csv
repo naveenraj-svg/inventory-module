@@ -1,0 +1,70 @@
+item_code,item_name,warehouse_name,quantity,uom,reorder_level,status
+FAB001,Single Jersey 160 GSM White,Fabric Store,2520.0,KG,1200,NORMAL
+FAB002,Single Jersey 180 GSM Navy,Fabric Store,3635.0,KG,1200,NORMAL
+FAB003,Single Jersey 180 GSM Black,Fabric Store,1767.5,KG,1200,NORMAL
+FAB004,Single Jersey 200 GSM Grey Melange,Fabric Store,575.0,KG,1000,LOW
+FAB005,1x1 Rib 220 GSM White,Fabric Store,280.0,KG,600,LOW
+FAB006,1x1 Rib 220 GSM Black,Fabric Store,0.0,KG,600,LOW
+FAB007,Pique 220 GSM Navy,Fabric Store,1542.5,KG,800,NORMAL
+FAB008,Pique 220 GSM White,Fabric Store,2247.5,KG,800,NORMAL
+FAB009,Fleece 280 GSM Grey Melange,Fabric Store,2195.0,KG,1000,NORMAL
+FAB010,Fleece 300 GSM Black,Fabric Store,2270.0,KG,1000,NORMAL
+FAB011,French Terry 240 GSM Navy,Fabric Store,2822.5,KG,900,NORMAL
+FAB012,Interlock 200 GSM White,Fabric Store,2087.5,KG,700,NORMAL
+FAB013,Lycra Jersey 190 GSM Black,Fabric Store,1115.0,KG,800,NORMAL
+FAB014,Denim 10 oz Indigo,Fabric Store,3760.0,MTR,3000,NORMAL
+FAB015,Denim 12 oz Black,Fabric Store,6637.5,MTR,3000,NORMAL
+FAB016,Poplin Shirting 110 GSM White,Fabric Store,8222.5,MTR,2500,NORMAL
+FAB017,Twill 180 GSM Khaki,Fabric Store,2840.0,MTR,2000,NORMAL
+FAB018,Viscose Rayon Printed,Fabric Store,490.0,MTR,2000,LOW
+FAB019,Waffle Knit 200 GSM Beige,Fabric Store,1530.0,KG,500,NORMAL
+FAB020,Sherpa Fleece 320 GSM Off-White,Fabric Store,755.0,KG,400,NORMAL
+FG001,Men's Round Neck T-Shirt White,Finished Goods Store,1140,PCS,3000,LOW
+FG002,Men's Polo T-Shirt Navy,Finished Goods Store,1560,PCS,2000,LOW
+FG003,Women's Leggings Black,Finished Goods Store,4580,PCS,2500,NORMAL
+FG004,Kids Hoodie Grey,Finished Goods Store,1930,PCS,1200,NORMAL
+FG005,Men's Jogger Track Pant Black,Finished Goods Store,310,PCS,1500,LOW
+FG006,Men's Denim Jeans Indigo,Finished Goods Store,1360,PCS,1200,NORMAL
+FG007,Women's Kurti Cotton Printed,Finished Goods Store,2140,PCS,1000,NORMAL
+FG008,Unisex Sweatshirt Navy,Finished Goods Store,4850,PCS,1500,NORMAL
+PKG001,Poly Bag 10 x 14 inch,Finished Goods Store,10050,PCS,20000,LOW
+PKG001,Poly Bag 10 x 14 inch,Packing Store,18050,PCS,20000,LOW
+PKG002,Poly Bag 12 x 16 inch,Packing Store,40100,PCS,15000,NORMAL
+PKG003,Carton 5-Ply 24 x 16 x 12 inch,Finished Goods Store,2350,PCS,1500,NORMAL
+PKG003,Carton 5-Ply 24 x 16 x 12 inch,Packing Store,3870,PCS,1500,NORMAL
+PKG004,Carton 7-Ply 30 x 20 x 14 inch,Packing Store,530,PCS,800,LOW
+PKG005,Hang Tag Printed,Finished Goods Store,22650,PCS,20000,NORMAL
+PKG005,Hang Tag Printed,Packing Store,16800,PCS,20000,LOW
+PKG006,Price Sticker Roll,Packing Store,130,ROLL,200,LOW
+PKG007,Tissue Paper Sheet,Packing Store,29050,PCS,10000,NORMAL
+PKG008,Collar Support Insert,Packing Store,25800,PCS,12000,NORMAL
+PKG009,Packing Tape 2 inch,Packing Store,561,ROLL,300,NORMAL
+PKG010,Silica Gel Sachet,Packing Store,24950,PCS,15000,NORMAL
+TRM001,Sewing Thread 40/2 White,Trims Store,1125,CONE,400,NORMAL
+TRM002,Sewing Thread 40/2 Black,Trims Store,900,CONE,400,NORMAL
+TRM003,Sewing Thread 40/2 Navy,Trims Store,409,CONE,300,NORMAL
+TRM004,Overlock Thread 150D White,Trims Store,956,CONE,300,NORMAL
+TRM005,Nylon Zipper 6 inch Black,Trims Store,10790,PCS,5000,NORMAL
+TRM006,Nylon Zipper 8 inch Navy,Trims Store,6750,PCS,3000,NORMAL
+TRM007,Metal Zipper 5 inch Brass (Jeans),Trims Store,1620,PCS,4000,LOW
+TRM008,Poly Button 4-Hole 18L White,Trims Store,16650,PCS,30000,LOW
+TRM009,Poly Button 4-Hole 24L Black,Trims Store,38300,PCS,20000,NORMAL
+TRM010,Metal Jeans Button 17 mm,Trims Store,11150,PCS,15000,LOW
+TRM011,Elastic 25 mm Black,Trims Store,0.0,MTR,5000,LOW
+TRM012,Cotton Drawcord 8 mm,Trims Store,162.5,MTR,6000,LOW
+TRM013,Woven Main Label,Trims Store,71200,PCS,25000,NORMAL
+TRM014,Satin Care Label,Trims Store,38200,PCS,25000,NORMAL
+TRM015,Size Label (S-XXL),Trims Store,44900,PCS,20000,NORMAL
+TRM016,Fusible Interlining 90 cm,Trims Store,8475.0,MTR,3000,NORMAL
+TRM017,Velcro Tape 20 mm,Trims Store,6630.0,MTR,2000,NORMAL
+TRM018,Snap Button 15 mm,Trims Store,16250,PCS,10000,NORMAL
+YRN001,Cotton Combed Yarn 30s,Yarn Store,3570.0,KG,1500,NORMAL
+YRN002,Cotton Combed Yarn 40s,Yarn Store,2845.0,KG,1200,NORMAL
+YRN003,Cotton Carded Yarn 20s,Yarn Store,6715.0,KG,2000,NORMAL
+YRN004,Cotton Compact Yarn 34s,Yarn Store,3025.0,KG,1000,NORMAL
+YRN005,Polyester Yarn 150D,Yarn Store,1257.5,KG,800,NORMAL
+YRN006,Viscose Yarn 30s,Yarn Store,1147.5,KG,600,NORMAL
+YRN007,Lycra Spandex Yarn 40D,Yarn Store,377.5,KG,150,NORMAL
+YRN008,Cotton Slub Yarn 24s,Yarn Store,1507.5,KG,800,NORMAL
+YRN009,Cotton Melange Yarn 30s Grey,Yarn Store,1727.5,KG,900,NORMAL
+YRN010,Organic Cotton Yarn 30s,Yarn Store,1010.0,KG,500,NORMAL

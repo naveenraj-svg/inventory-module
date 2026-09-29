@@ -1,0 +1,7 @@
+name,location,is_active
+Yarn Store,"Spinning Yard, Block A, Tirupur",true
+Fabric Store,"Knitting & Processing, Block B, Tirupur",true
+Trims Store,"Cutting Section, Block C, Tirupur",true
+Packing Store,"Packing Hall, Block D, Tirupur",true
+Finished Goods Store,"Dispatch Yard, Tirupur",true
+Old Godown (Closed),"Kangayam Road, Tirupur",false

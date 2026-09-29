@@ -1,0 +1,68 @@
+code,name,category,uom,reorder_level,unit_cost,is_active
+FAB001,Single Jersey 160 GSM White,Fabric,KG,1200,345.00,true
+FAB002,Single Jersey 180 GSM Navy,Fabric,KG,1200,362.00,true
+FAB003,Single Jersey 180 GSM Black,Fabric,KG,1200,368.00,true
+FAB004,Single Jersey 200 GSM Grey Melange,Fabric,KG,1000,355.00,true
+FAB005,1x1 Rib 220 GSM White,Fabric,KG,600,372.00,true
+FAB006,1x1 Rib 220 GSM Black,Fabric,KG,600,380.00,true
+FAB007,Pique 220 GSM Navy,Fabric,KG,800,385.00,true
+FAB008,Pique 220 GSM White,Fabric,KG,800,375.00,true
+FAB009,Fleece 280 GSM Grey Melange,Fabric,KG,1000,395.00,true
+FAB010,Fleece 300 GSM Black,Fabric,KG,1000,410.00,true
+FAB011,French Terry 240 GSM Navy,Fabric,KG,900,390.00,true
+FAB012,Interlock 200 GSM White,Fabric,KG,700,365.00,true
+FAB013,Lycra Jersey 190 GSM Black,Fabric,KG,800,430.00,true
+FAB014,Denim 10 oz Indigo,Fabric,MTR,3000,215.00,true
+FAB015,Denim 12 oz Black,Fabric,MTR,3000,245.00,true
+FAB016,Poplin Shirting 110 GSM White,Fabric,MTR,2500,128.00,true
+FAB017,Twill 180 GSM Khaki,Fabric,MTR,2000,165.00,true
+FAB018,Viscose Rayon Printed,Fabric,MTR,2000,142.00,true
+FAB019,Waffle Knit 200 GSM Beige,Fabric,KG,500,398.00,true
+FAB020,Sherpa Fleece 320 GSM Off-White,Fabric,KG,400,465.00,true
+FAB099,Poplin Shirting 90 GSM Pink (Discontinued),Fabric,MTR,0,118.00,false
+FG001,Men's Round Neck T-Shirt White,Finished Goods,PCS,3000,118.00,true
+FG002,Men's Polo T-Shirt Navy,Finished Goods,PCS,2000,205.00,true
+FG003,Women's Leggings Black,Finished Goods,PCS,2500,135.00,true
+FG004,Kids Hoodie Grey,Finished Goods,PCS,1200,260.00,true
+FG005,Men's Jogger Track Pant Black,Finished Goods,PCS,1500,240.00,true
+FG006,Men's Denim Jeans Indigo,Finished Goods,PCS,1200,420.00,true
+FG007,Women's Kurti Cotton Printed,Finished Goods,PCS,1000,190.00,true
+FG008,Unisex Sweatshirt Navy,Finished Goods,PCS,1500,285.00,true
+PKG001,Poly Bag 10 x 14 inch,Packing,PCS,20000,1.40,true
+PKG002,Poly Bag 12 x 16 inch,Packing,PCS,15000,1.90,true
+PKG003,Carton 5-Ply 24 x 16 x 12 inch,Packing,PCS,1500,42.00,true
+PKG004,Carton 7-Ply 30 x 20 x 14 inch,Packing,PCS,800,68.00,true
+PKG005,Hang Tag Printed,Packing,PCS,20000,0.90,true
+PKG006,Price Sticker Roll,Packing,ROLL,200,65.00,true
+PKG007,Tissue Paper Sheet,Packing,PCS,10000,0.60,true
+PKG008,Collar Support Insert,Packing,PCS,12000,0.45,true
+PKG009,Packing Tape 2 inch,Packing,ROLL,300,48.00,true
+PKG010,Silica Gel Sachet,Packing,PCS,15000,0.35,true
+TRM001,Sewing Thread 40/2 White,Trims,CONE,400,92.00,true
+TRM002,Sewing Thread 40/2 Black,Trims,CONE,400,92.00,true
+TRM003,Sewing Thread 40/2 Navy,Trims,CONE,300,94.00,true
+TRM004,Overlock Thread 150D White,Trims,CONE,300,78.00,true
+TRM005,Nylon Zipper 6 inch Black,Trims,PCS,5000,11.00,true
+TRM006,Nylon Zipper 8 inch Navy,Trims,PCS,3000,13.00,true
+TRM007,Metal Zipper 5 inch Brass (Jeans),Trims,PCS,4000,16.00,true
+TRM008,Poly Button 4-Hole 18L White,Trims,PCS,30000,0.55,true
+TRM009,Poly Button 4-Hole 24L Black,Trims,PCS,20000,0.75,true
+TRM010,Metal Jeans Button 17 mm,Trims,PCS,15000,3.20,true
+TRM011,Elastic 25 mm Black,Trims,MTR,5000,9.50,true
+TRM012,Cotton Drawcord 8 mm,Trims,MTR,6000,4.20,true
+TRM013,Woven Main Label,Trims,PCS,25000,0.85,true
+TRM014,Satin Care Label,Trims,PCS,25000,0.35,true
+TRM015,Size Label (S-XXL),Trims,PCS,20000,0.30,true
+TRM016,Fusible Interlining 90 cm,Trims,MTR,3000,38.00,true
+TRM017,Velcro Tape 20 mm,Trims,MTR,2000,14.00,true
+TRM018,Snap Button 15 mm,Trims,PCS,10000,1.80,true
+YRN001,Cotton Combed Yarn 30s,Yarn,KG,1500,285.00,true
+YRN002,Cotton Combed Yarn 40s,Yarn,KG,1200,305.00,true
+YRN003,Cotton Carded Yarn 20s,Yarn,KG,2000,240.00,true
+YRN004,Cotton Compact Yarn 34s,Yarn,KG,1000,298.00,true
+YRN005,Polyester Yarn 150D,Yarn,KG,800,118.00,true
+YRN006,Viscose Yarn 30s,Yarn,KG,600,265.00,true
+YRN007,Lycra Spandex Yarn 40D,Yarn,KG,150,720.00,true
+YRN008,Cotton Slub Yarn 24s,Yarn,KG,800,268.00,true
+YRN009,Cotton Melange Yarn 30s Grey,Yarn,KG,900,232.00,true
+YRN010,Organic Cotton Yarn 30s,Yarn,KG,500,340.00,true

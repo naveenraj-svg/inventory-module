@@ -1,0 +1,1613 @@
+transaction_date,transaction_type,item_code,warehouse_name,quantity,unit_cost,supplier,remarks
+2026-07-01,IN,PKG001,Finished Goods Store,39500,1.45,Kaveri Packaging Industries,Opening stock - GRN-2026-0001
+2026-07-01,IN,PKG001,Packing Store,74500,1.44,Bharath Poly Products,Opening stock - GRN-2026-0002
+2026-07-01,IN,TRM006,Trims Store,8600,12.60,Universal Zipper Co,Opening stock - GRN-2026-0003
+2026-07-01,IN,TRM012,Trims Store,20920.0,4.28,Tirupur Trims & Accessories,Opening stock - GRN-2026-0004
+2026-07-01,IN,YRN001,Yarn Store,4180.0,296.46,Annai Spinning Mills,Opening stock - GRN-2026-0005
+2026-07-01,IN,YRN010,Yarn Store,1240.0,342.07,Vel Organic Fibres,Opening stock - GRN-2026-0006
+2026-07-02,IN,FAB018,Fabric Store,8710.0,148.06,Om Sai Fabrics,Opening stock - GRN-2026-0007
+2026-07-02,IN,FAB019,Fabric Store,1580.0,410.50,Sakthi Dyeing & Processing,Opening stock - GRN-2026-0008
+2026-07-02,IN,FG002,Finished Goods Store,3000,200.86,In-house Production - Unit 2,Finished lot received from production - GRN-2026-0009
+2026-07-02,IN,FG003,Finished Goods Store,3000,137.88,In-house Production - Unit 2,Finished lot received from production - GRN-2026-0010
+2026-07-02,IN,FG005,Finished Goods Store,3500,238.90,In-house Production - Unit 2,Finished lot received from production - GRN-2026-0011
+2026-07-02,IN,FG007,Finished Goods Store,2100,191.41,In-house Production - Unit 2,Finished lot received from production - GRN-2026-0012
+2026-07-02,IN,PKG003,Packing Store,5500,40.87,Bharath Poly Products,Opening stock - GRN-2026-0013
+2026-07-02,IN,TRM002,Trims Store,1550,89.30,Ganesh Thread House,Opening stock - GRN-2026-0014
+2026-07-02,IN,TRM013,Trims Store,81500,0.84,Sri Vinayaga Labels,Opening stock - GRN-2026-0015
+2026-07-02,IN,YRN006,Yarn Store,2120.0,277.32,Annai Spinning Mills,Opening stock - GRN-2026-0016
+2026-07-03,IN,FAB003,Fabric Store,4070.0,355.60,Sakthi Dyeing & Processing,Opening stock - GRN-2026-0017
+2026-07-03,IN,FAB017,Fabric Store,5800.0,164.88,Om Sai Fabrics,Opening stock - GRN-2026-0018
+2026-07-03,IN,FG004,Finished Goods Store,1300,271.49,In-house Production - Unit 2,Finished lot received from production - GRN-2026-0019
+2026-07-03,IN,PKG008,Packing Store,46500,0.45,Kaveri Packaging Industries,Opening stock - GRN-2026-0020
+2026-07-03,IN,TRM003,Trims Store,890,92.25,Ganesh Thread House,Opening stock - GRN-2026-0021
+2026-07-03,IN,TRM008,Trims Store,172500,0.57,Tirupur Trims & Accessories,Opening stock - GRN-2026-0022
+2026-07-03,IN,TRM010,Trims Store,35500,3.08,Tirupur Trims & Accessories,Opening stock - GRN-2026-0023
+2026-07-03,IN,YRN004,Yarn Store,4580.0,307.33,Kongu Cotton Yarn Traders,Opening stock - GRN-2026-0024
+2026-07-03,IN,YRN007,Yarn Store,390.0,754.20,Kongu Cotton Yarn Traders,Opening stock - GRN-2026-0025
+2026-07-03,OUT,FAB018,Fabric Store,585.0,,,Issued to Cutting - ISS-2026-0001
+2026-07-03,OUT,FAB018,Fabric Store,775.0,,,Issued to Cutting - ISS-2026-0002
+2026-07-03,OUT,PKG003,Packing Store,740,,,Issued to Packing Section - ISS-2026-0003
+2026-07-03,OUT,TRM006,Trims Store,670,,,Issued to Stitching Line 4 - ISS-2026-0004
+2026-07-03,OUT,TRM013,Trims Store,13300,,,Issued to Stitching Line 3 - ISS-2026-0005
+2026-07-03,OUT,YRN006,Yarn Store,460.0,,,Issued to Knitting - ISS-2026-0006
+2026-07-04,IN,FAB008,Fabric Store,2450.0,385.20,Perumal Knit Fabrics,Opening stock - GRN-2026-0026
+2026-07-04,IN,FAB012,Fabric Store,2490.0,378.91,Sakthi Dyeing & Processing,Opening stock - GRN-2026-0027
+2026-07-04,IN,FAB020,Fabric Store,1270.0,465.84,Perumal Knit Fabrics,Opening stock - GRN-2026-0028
+2026-07-04,IN,FG008,Finished Goods Store,1800,280.10,In-house Production - Unit 1,Finished lot received from production - GRN-2026-0029
+2026-07-04,IN,PKG005,Packing Store,63500,0.92,Srinivasa Carton Works,Opening stock - GRN-2026-0030
+2026-07-04,IN,TRM001,Trims Store,1520,95.04,Ganesh Thread House,Opening stock - GRN-2026-0031
+2026-07-04,IN,TRM014,Trims Store,89500,0.35,Sri Vinayaga Labels,Opening stock - GRN-2026-0032
+2026-07-04,IN,YRN002,Yarn Store,2680.0,317.02,Annai Spinning Mills,Opening stock - GRN-2026-0033
+2026-07-04,IN,YRN003,Yarn Store,7340.0,251.11,Annai Spinning Mills,Opening stock - GRN-2026-0034
+2026-07-04,IN,YRN008,Yarn Store,2630.0,278.93,Annai Spinning Mills,Opening stock - GRN-2026-0035
+2026-07-04,OUT,FG004,Finished Goods Store,920,,,Dispatch to Kidz Corner Stores - DC-2026-0007
+2026-07-04,OUT,PKG003,Packing Store,780,,,Issued to Packing Section - ISS-2026-0008
+2026-07-04,OUT,PKG003,Packing Store,760,,,Issued to Packing Section - ISS-2026-0009
+2026-07-04,OUT,TRM006,Trims Store,1280,,,Issued to Stitching Line 4 - ISS-2026-0010
+2026-07-04,OUT,TRM010,Trims Store,5000,,,Issued to Stitching Line 5 - ISS-2026-0011
+2026-07-04,OUT,TRM012,Trims Store,3115.0,,,Issued to Stitching Line 1 - ISS-2026-0012
+2026-07-04,OUT,YRN007,Yarn Store,100.0,,,Issued to Knitting - ISS-2026-0013
+2026-07-05,IN,FAB001,Fabric Store,3410.0,356.52,Perumal Knit Fabrics,Opening stock - GRN-2026-0036
+2026-07-05,IN,FG001,Finished Goods Store,5200,114.13,In-house Production - Unit 1,Finished lot received from production - GRN-2026-0037
+2026-07-05,IN,PKG006,Packing Store,790,64.34,Kaveri Packaging Industries,Opening stock - GRN-2026-0038
+2026-07-05,IN,PKG010,Packing Store,58500,0.34,Bharath Poly Products,Opening stock - GRN-2026-0039
+2026-07-05,IN,TRM004,Trims Store,690,77.20,Ganesh Thread House,Opening stock - GRN-2026-0040
+2026-07-05,IN,TRM005,Trims Store,13500,10.77,Universal Zipper Co,Opening stock - GRN-2026-0041
+2026-07-05,IN,TRM011,Trims Store,17270.0,9.77,Tirupur Trims & Accessories,Opening stock - GRN-2026-0042
+2026-07-05,IN,TRM017,Trims Store,5820.0,13.49,Tirupur Trims & Accessories,Opening stock - GRN-2026-0043
+2026-07-05,IN,TRM018,Trims Store,19000,1.86,Tirupur Trims & Accessories,Opening stock - GRN-2026-0044
+2026-07-05,OUT,FAB020,Fabric Store,107.5,,,Issued to Cutting - ISS-2026-0014
+2026-07-05,OUT,PKG001,Finished Goods Store,15850,,,Issued to Packing Section - ISS-2026-0015
+2026-07-05,OUT,PKG008,Packing Store,2350,,,Issued to Packing Section - ISS-2026-0016
+2026-07-05,OUT,TRM003,Trims Store,137,,,Issued to Stitching Line 8 - ISS-2026-0017
+2026-07-05,OUT,TRM008,Trims Store,23500,,,Issued to Stitching Line 4 - ISS-2026-0018
+2026-07-05,OUT,TRM012,Trims Store,5302.5,,,Issued to Stitching Line 5 - ISS-2026-0019
+2026-07-05,OUT,YRN001,Yarn Store,1792.5,,,Issued to Knitting - ISS-2026-0020
+2026-07-05,OUT,YRN001,Yarn Store,1430.0,,,Issued to Knitting - ISS-2026-0021
+2026-07-05,OUT,YRN006,Yarn Store,327.5,,,Issued to Knitting - ISS-2026-0022
+2026-07-05,OUT,YRN010,Yarn Store,382.5,,,Issued to Knitting - ISS-2026-0023
+2026-07-06,IN,FAB009,Fabric Store,3240.0,391.92,Sakthi Dyeing & Processing,Opening stock - GRN-2026-0045
+2026-07-06,IN,FAB013,Fabric Store,2460.0,415.42,Sakthi Dyeing & Processing,Opening stock - GRN-2026-0046
+2026-07-06,IN,FAB014,Fabric Store,4570.0,207.39,Coimbatore Denim Works,Opening stock - GRN-2026-0047
+2026-07-06,IN,FG006,Finished Goods Store,1200,410.80,In-house Production - Unit 1,Finished lot received from production - GRN-2026-0048
+2026-07-06,IN,PKG003,Finished Goods Store,4100,42.06,Srinivasa Carton Works,Opening stock - GRN-2026-0049
+2026-07-06,IN,TRM007,Trims Store,14500,16.41,Universal Zipper Co,Opening stock - GRN-2026-0050
+2026-07-06,IN,TRM015,Trims Store,73000,0.30,Sri Vinayaga Labels,Opening stock - GRN-2026-0051
+2026-07-06,IN,TRM016,Trims Store,8510.0,38.74,Tirupur Trims & Accessories,Opening stock - GRN-2026-0052
+2026-07-06,IN,YRN009,Yarn Store,2300.0,239.24,Annai Spinning Mills,Opening stock - GRN-2026-0053
+2026-07-06,OUT,FAB001,Fabric Store,427.5,,,Issued to Cutting - ISS-2026-0024
+2026-07-06,OUT,FAB012,Fabric Store,120.0,,,Issued to Cutting - ISS-2026-0025
+2026-07-06,OUT,FG008,Finished Goods Store,480,,,Dispatch to Northwind Apparel Exports - DC-2026-0026
+2026-07-06,OUT,YRN002,Yarn Store,362.5,,,Issued to Knitting - ISS-2026-0027
+2026-07-06,OUT,YRN008,Yarn Store,280.0,,,Issued to Knitting - ISS-2026-0028
+2026-07-07,IN,FAB002,Fabric Store,2560.0,364.97,Sakthi Dyeing & Processing,Opening stock - GRN-2026-0054
+2026-07-07,IN,FAB004,Fabric Store,4830.0,359.33,Sakthi Dyeing & Processing,Opening stock - GRN-2026-0055
+2026-07-07,IN,FAB005,Fabric Store,1670.0,370.29,Perumal Knit Fabrics,Opening stock - GRN-2026-0056
+2026-07-07,IN,FAB006,Fabric Store,1610.0,369.13,Sakthi Dyeing & Processing,Opening stock - GRN-2026-0057
+2026-07-07,IN,FAB007,Fabric Store,2810.0,384.46,Sakthi Dyeing & Processing,Opening stock - GRN-2026-0058
+2026-07-07,IN,FAB010,Fabric Store,3460.0,403.56,Sakthi Dyeing & Processing,Opening stock - GRN-2026-0059
+2026-07-07,IN,FAB011,Fabric Store,3540.0,406.77,Sakthi Dyeing & Processing,Opening stock - GRN-2026-0060
+2026-07-07,IN,FAB015,Fabric Store,8280.0,236.13,Coimbatore Denim Works,Opening stock - GRN-2026-0061
+2026-07-07,IN,FAB016,Fabric Store,6540.0,128.84,Om Sai Fabrics,Opening stock - GRN-2026-0062
+2026-07-07,IN,PKG002,Packing Store,56000,1.93,Srinivasa Carton Works,Opening stock - GRN-2026-0063
+2026-07-07,IN,PKG004,Packing Store,2620,70.74,Srinivasa Carton Works,Opening stock - GRN-2026-0064
+2026-07-07,IN,PKG005,Finished Goods Store,37500,0.93,Kaveri Packaging Industries,Opening stock - GRN-2026-0065
+2026-07-07,IN,PKG007,Packing Store,35000,0.62,Srinivasa Carton Works,Opening stock - GRN-2026-0066
+2026-07-07,IN,PKG009,Packing Store,880,47.29,Bharath Poly Products,Opening stock - GRN-2026-0067
+2026-07-07,IN,TRM009,Trims Store,60000,0.73,Tirupur Trims & Accessories,Opening stock - GRN-2026-0068
+2026-07-07,IN,YRN005,Yarn Store,3180.0,119.59,Balaji Polyester Yarns,Opening stock - GRN-2026-0069
+2026-07-07,OUT,FAB014,Fabric Store,452.5,,,Issued to Cutting - ISS-2026-0029
+2026-07-07,OUT,FAB014,Fabric Store,580.0,,,Issued to Cutting - ISS-2026-0030
+2026-07-07,OUT,FAB020,Fabric Store,57.5,,,Issued to Cutting - ISS-2026-0031
+2026-07-07,OUT,PKG001,Finished Goods Store,14350,,,Issued to Packing Section - ISS-2026-0032
+2026-07-07,OUT,PKG006,Packing Store,134,,,Issued to Packing Section - ISS-2026-0033
+2026-07-07,OUT,TRM002,Trims Store,462,,,Issued to Stitching Line 5 - ISS-2026-0034
+2026-07-07,OUT,TRM011,Trims Store,2340.0,,,Issued to Stitching Line 2 - ISS-2026-0035
+2026-07-07,OUT,YRN003,Yarn Store,565.0,,,Issued to Knitting - ISS-2026-0036
+2026-07-07,OUT,YRN006,Yarn Store,362.5,,,Issued to Knitting - ISS-2026-0037
+2026-07-07,OUT,YRN007,Yarn Store,105.0,,,Issued to Knitting - ISS-2026-0038
+2026-07-08,OUT,FAB005,Fabric Store,270.0,,,Issued to Cutting - ISS-2026-0039
+2026-07-08,OUT,FAB007,Fabric Store,272.5,,,Issued to Cutting - ISS-2026-0040
+2026-07-08,OUT,PKG003,Finished Goods Store,1010,,,Issued to Packing Section - ISS-2026-0041
+2026-07-08,OUT,PKG003,Packing Store,620,,,Issued to Packing Section - ISS-2026-0042
+2026-07-08,OUT,TRM010,Trims Store,4250,,,Issued to Stitching Line 6 - ISS-2026-0043
+2026-07-08,OUT,TRM015,Trims Store,2800,,,Issued to Stitching Line 5 - ISS-2026-0044
+2026-07-08,OUT,TRM017,Trims Store,532.5,,,Issued to Stitching Line 7 - ISS-2026-0045
+2026-07-08,OUT,YRN006,Yarn Store,462.5,,,Issued to Knitting - ISS-2026-0046
+2026-07-09,OUT,FAB001,Fabric Store,612.5,,,Issued to Cutting - ISS-2026-0047
+2026-07-09,OUT,FAB003,Fabric Store,562.5,,,Issued to Cutting - ISS-2026-0048
+2026-07-09,OUT,FAB008,Fabric Store,150.0,,,Issued to Cutting - ISS-2026-0049
+2026-07-09,OUT,FAB010,Fabric Store,267.5,,,Issued to Cutting - ISS-2026-0050
+2026-07-09,OUT,FAB011,Fabric Store,115.0,,,Issued to Cutting - ISS-2026-0051
+2026-07-09,OUT,FAB019,Fabric Store,335.0,,,Issued to Cutting - ISS-2026-0052
+2026-07-09,OUT,FAB020,Fabric Store,120.0,,,Issued to Cutting - ISS-2026-0053
+2026-07-09,OUT,FG003,Finished Goods Store,860,,,Dispatch to Northwind Apparel Exports - DC-2026-0054
+2026-07-09,OUT,FG008,Finished Goods Store,190,,,Dispatch to Sunrise Fashion Hub - DC-2026-0055
+2026-07-09,OUT,PKG005,Packing Store,15150,,,Issued to Packing Section - ISS-2026-0056
+2026-07-09,OUT,PKG007,Packing Store,2000,,,Issued to Packing Section - ISS-2026-0057
+2026-07-09,OUT,PKG008,Packing Store,2300,,,Issued to Packing Section - ISS-2026-0058
+2026-07-09,OUT,TRM013,Trims Store,9300,,,Issued to Stitching Line 3 - ISS-2026-0059
+2026-07-09,OUT,YRN003,Yarn Store,622.5,,,Issued to Knitting - ISS-2026-0060
+2026-07-10,OUT,FAB005,Fabric Store,175.0,,,Issued to Cutting - ISS-2026-0061
+2026-07-10,OUT,FAB014,Fabric Store,297.5,,,Issued to Cutting - ISS-2026-0062
+2026-07-10,OUT,FAB015,Fabric Store,2097.5,,,Issued to Cutting - ISS-2026-0063
+2026-07-10,OUT,FAB020,Fabric Store,127.5,,,Issued to Cutting - ISS-2026-0064
+2026-07-10,OUT,PKG003,Packing Store,480,,,Issued to Packing Section - ISS-2026-0065
+2026-07-10,OUT,PKG004,Packing Store,450,,,Issued to Packing Section - ISS-2026-0066
+2026-07-10,OUT,PKG006,Packing Store,95,,,Issued to Packing Section - ISS-2026-0067
+2026-07-10,OUT,YRN005,Yarn Store,497.5,,,Issued to Knitting - ISS-2026-0068
+2026-07-10,OUT,YRN009,Yarn Store,267.5,,,Issued to Knitting - ISS-2026-0069
+2026-07-11,IN,FG002,Finished Goods Store,2100,202.77,In-house Production - Unit 1,Finished lot received from production - GRN-2026-0070
+2026-07-11,IN,TRM003,Trims Store,910,93.40,Ganesh Thread House,GRN-2026-0071 against PO-1376
+2026-07-11,OUT,FAB005,Fabric Store,172.5,,,Issued to Cutting - ISS-2026-0070
+2026-07-11,OUT,FAB006,Fabric Store,160.0,,,Issued to Cutting - ISS-2026-0071
+2026-07-11,OUT,FAB010,Fabric Store,427.5,,,Issued to Cutting - ISS-2026-0072
+2026-07-11,OUT,FAB014,Fabric Store,350.0,,,Issued to Cutting - ISS-2026-0073
+2026-07-11,OUT,FAB014,Fabric Store,280.0,,,Issued to Cutting - ISS-2026-0074
+2026-07-11,OUT,FAB016,Fabric Store,1537.5,,,Issued to Cutting - ISS-2026-0075
+2026-07-11,OUT,FG007,Finished Goods Store,650,,,Dispatch to Kidz Corner Stores - DC-2026-0076
+2026-07-11,OUT,PKG002,Packing Store,4150,,,Issued to Packing Section - ISS-2026-0077
+2026-07-11,OUT,PKG005,Packing Store,7700,,,Issued to Packing Section - ISS-2026-0078
+2026-07-11,OUT,PKG007,Packing Store,2850,,,Issued to Packing Section - ISS-2026-0079
+2026-07-11,OUT,PKG010,Packing Store,14150,,,Issued to Packing Section - ISS-2026-0080
+2026-07-11,OUT,TRM014,Trims Store,54900,,,Issued to Stitching Line 5 - ISS-2026-0081
+2026-07-11,OUT,YRN003,Yarn Store,852.5,,,Issued to Knitting - ISS-2026-0082
+2026-07-11,OUT,YRN004,Yarn Store,1150.0,,,Issued to Knitting - ISS-2026-0083
+2026-07-12,IN,FAB007,Fabric Store,2550.0,397.32,Sakthi Dyeing & Processing,GRN-2026-0072 against PO-1039
+2026-07-12,IN,FG003,Finished Goods Store,2500,139.08,In-house Production - Unit 2,Finished lot received from production - GRN-2026-0073
+2026-07-12,IN,YRN002,Yarn Store,2870.0,318.24,Annai Spinning Mills,GRN-2026-0074 against PO-1383
+2026-07-12,OUT,FAB004,Fabric Store,697.5,,,Issued to Cutting - ISS-2026-0084
+2026-07-12,OUT,FAB004,Fabric Store,830.0,,,Issued to Cutting - ISS-2026-0085
+2026-07-12,OUT,FAB004,Fabric Store,1412.5,,,Issued to Cutting - ISS-2026-0086
+2026-07-12,OUT,FAB018,Fabric Store,485.0,,,Issued to Cutting - ISS-2026-0087
+2026-07-12,OUT,FAB019,Fabric Store,327.5,,,Issued to Cutting - ISS-2026-0088
+2026-07-12,OUT,FG005,Finished Goods Store,1210,,,Dispatch to Northwind Apparel Exports - DC-2026-0089
+2026-07-12,OUT,PKG002,Packing Store,10650,,,Issued to Packing Section - ISS-2026-0090
+2026-07-12,OUT,PKG002,Packing Store,4150,,,Issued to Packing Section - ISS-2026-0091
+2026-07-12,OUT,PKG004,Packing Store,690,,,Issued to Packing Section - ISS-2026-0092
+2026-07-12,OUT,PKG004,Packing Store,510,,,Issued to Packing Section - ISS-2026-0093
+2026-07-12,OUT,TRM002,Trims Store,221,,,Issued to Stitching Line 8 - ISS-2026-0094
+2026-07-12,OUT,TRM003,Trims Store,132,,,Issued to Stitching Line 4 - ISS-2026-0095
+2026-07-12,OUT,TRM011,Trims Store,3165.0,,,Issued to Stitching Line 8 - ISS-2026-0096
+2026-07-12,OUT,TRM015,Trims Store,5000,,,Issued to Stitching Line 5 - ISS-2026-0097
+2026-07-12,OUT,TRM016,Trims Store,1870.0,,,Issued to Stitching Line 1 - ISS-2026-0098
+2026-07-12,OUT,TRM017,Trims Store,1197.5,,,Issued to Stitching Line 1 - ISS-2026-0099
+2026-07-12,OUT,TRM018,Trims Store,1850,,,Issued to Stitching Line 3 - ISS-2026-0100
+2026-07-12,OUT,YRN004,Yarn Store,722.5,,,Issued to Knitting - ISS-2026-0101
+2026-07-12,OUT,YRN007,Yarn Store,65.0,,,Issued to Knitting - ISS-2026-0102
+2026-07-13,IN,FAB014,Fabric Store,3260.0,224.65,Coimbatore Denim Works,GRN-2026-0075 against PO-1309
+2026-07-13,IN,YRN009,Yarn Store,1510.0,230.42,Kongu Cotton Yarn Traders,GRN-2026-0076 against PO-1033
+2026-07-13,OUT,FAB003,Fabric Store,565.0,,,Issued to Cutting - ISS-2026-0103
+2026-07-13,OUT,FAB009,Fabric Store,427.5,,,Issued to Cutting - ISS-2026-0104
+2026-07-13,OUT,FAB009,Fabric Store,495.0,,,Issued to Cutting - ISS-2026-0105
+2026-07-13,OUT,FAB014,Fabric Store,540.0,,,Issued to Cutting - ISS-2026-0106
+2026-07-13,OUT,FG002,Finished Goods Store,840,,,Dispatch to Kidz Corner Stores - DC-2026-0107
+2026-07-13,OUT,PKG004,Packing Store,580,,,Issued to Packing Section - ISS-2026-0108
+2026-07-13,OUT,PKG004,Packing Store,340,,,Issued to Packing Section - ISS-2026-0109
+2026-07-13,OUT,PKG007,Packing Store,2400,,,Issued to Packing Section - ISS-2026-0110
+2026-07-13,OUT,PKG008,Packing Store,3700,,,Issued to Packing Section - ISS-2026-0111
+2026-07-13,OUT,TRM001,Trims Store,255,,,Issued to Stitching Line 5 - ISS-2026-0112
+2026-07-13,OUT,TRM003,Trims Store,267,,,Issued to Stitching Line 1 - ISS-2026-0113
+2026-07-13,OUT,TRM012,Trims Store,3695.0,,,Issued to Stitching Line 8 - ISS-2026-0114
+2026-07-13,OUT,TRM012,Trims Store,3417.5,,,Issued to Stitching Line 5 - ISS-2026-0115
+2026-07-13,OUT,YRN003,Yarn Store,937.5,,,Issued to Knitting - ISS-2026-0116
+2026-07-13,OUT,YRN006,Yarn Store,255.0,,,Issued to Knitting - ISS-2026-0117
+2026-07-13,OUT,YRN007,Yarn Store,65.0,,,Issued to Knitting - ISS-2026-0118
+2026-07-14,IN,PKG002,Packing Store,29000,1.99,Srinivasa Carton Works,GRN-2026-0077 against PO-1099
+2026-07-14,IN,PKG009,Packing Store,530,48.67,Bharath Poly Products,GRN-2026-0078 against PO-1093
+2026-07-14,IN,TRM005,Trims Store,10200,10.92,Universal Zipper Co,GRN-2026-0079 against PO-1201
+2026-07-14,IN,TRM008,Trims Store,100500,0.56,Tirupur Trims & Accessories,GRN-2026-0080 against PO-1592
+2026-07-14,IN,TRM015,Trims Store,57500,0.31,Sri Vinayaga Labels,GRN-2026-0081 against PO-1498
+2026-07-14,OUT,FAB002,Fabric Store,780.0,,,Issued to Cutting - ISS-2026-0119
+2026-07-14,OUT,FAB008,Fabric Store,130.0,,,Issued to Cutting - ISS-2026-0120
+2026-07-14,OUT,FAB011,Fabric Store,310.0,,,Issued to Cutting - ISS-2026-0121
+2026-07-14,OUT,FG003,Finished Goods Store,1060,,,Dispatch to Kidz Corner Stores - DC-2026-0122
+2026-07-14,OUT,PKG006,Packing Store,104,,,Issued to Packing Section - ISS-2026-0123
+2026-07-14,OUT,PKG007,Packing Store,2300,,,Issued to Packing Section - ISS-2026-0124
+2026-07-14,OUT,TRM001,Trims Store,155,,,Issued to Stitching Line 2 - ISS-2026-0125
+2026-07-14,OUT,TRM013,Trims Store,7050,,,Issued to Stitching Line 6 - ISS-2026-0126
+2026-07-14,OUT,TRM017,Trims Store,902.5,,,Issued to Stitching Line 1 - ISS-2026-0127
+2026-07-15,IN,FAB003,Fabric Store,2860.0,366.09,Sakthi Dyeing & Processing,GRN-2026-0082 against PO-1991
+2026-07-15,IN,FG007,Finished Goods Store,900,191.27,In-house Production - Unit 1,Finished lot received from production - GRN-2026-0083
+2026-07-15,IN,TRM017,Trims Store,7040.0,14.21,Tirupur Trims & Accessories,GRN-2026-0084 against PO-1655
+2026-07-15,IN,YRN002,Yarn Store,3040.0,299.94,Annai Spinning Mills,GRN-2026-0085 against PO-1323
+2026-07-15,IN,YRN005,Yarn Store,2040.0,120.45,Balaji Polyester Yarns,GRN-2026-0086 against PO-1896
+2026-07-15,IN,YRN006,Yarn Store,1260.0,266.80,Annai Spinning Mills,GRN-2026-0087 against PO-1013
+2026-07-15,OUT,FAB008,Fabric Store,152.5,,,Issued to Cutting - ISS-2026-0128
+2026-07-15,OUT,FAB009,Fabric Store,760.0,,,Issued to Cutting - ISS-2026-0129
+2026-07-15,OUT,FAB011,Fabric Store,245.0,,,Issued to Cutting - ISS-2026-0130
+2026-07-15,OUT,FAB015,Fabric Store,2412.5,,,Issued to Cutting - ISS-2026-0131
+2026-07-15,OUT,FAB016,Fabric Store,1647.5,,,Issued to Cutting - ISS-2026-0132
+2026-07-15,OUT,PKG001,Packing Store,22450,,,Issued to Packing Section - ISS-2026-0133
+2026-07-15,OUT,PKG002,Packing Store,4000,,,Issued to Packing Section - ISS-2026-0134
+2026-07-15,OUT,PKG003,Packing Store,320,,,Issued to Packing Section - ISS-2026-0135
+2026-07-15,OUT,PKG010,Packing Store,11250,,,Issued to Packing Section - ISS-2026-0136
+2026-07-15,OUT,TRM001,Trims Store,195,,,Issued to Stitching Line 2 - ISS-2026-0137
+2026-07-15,OUT,TRM002,Trims Store,378,,,Issued to Stitching Line 8 - ISS-2026-0138
+2026-07-15,OUT,TRM005,Trims Store,4160,,,Issued to Stitching Line 2 - ISS-2026-0139
+2026-07-15,OUT,TRM008,Trims Store,19650,,,Issued to Stitching Line 5 - ISS-2026-0140
+2026-07-15,OUT,TRM009,Trims Store,9700,,,Issued to Stitching Line 2 - ISS-2026-0141
+2026-07-15,OUT,TRM013,Trims Store,12050,,,Issued to Stitching Line 8 - ISS-2026-0142
+2026-07-15,OUT,TRM017,Trims Store,512.5,,,Issued to Stitching Line 7 - ISS-2026-0143
+2026-07-15,OUT,YRN001,Yarn Store,652.5,,,Issued to Knitting - ISS-2026-0144
+2026-07-15,OUT,YRN002,Yarn Store,677.5,,,Issued to Knitting - ISS-2026-0145
+2026-07-15,OUT,YRN003,Yarn Store,792.5,,,Issued to Knitting - ISS-2026-0146
+2026-07-15,OUT,YRN005,Yarn Store,585.0,,,Issued to Knitting - ISS-2026-0147
+2026-07-15,OUT,YRN006,Yarn Store,477.5,,,Issued to Knitting - ISS-2026-0148
+2026-07-16,IN,FAB012,Fabric Store,1700.0,373.83,Sakthi Dyeing & Processing,GRN-2026-0088 against PO-1342
+2026-07-16,IN,FAB013,Fabric Store,1940.0,432.58,Sakthi Dyeing & Processing,GRN-2026-0089 against PO-1720
+2026-07-16,IN,FAB015,Fabric Store,6980.0,252.45,Coimbatore Denim Works,GRN-2026-0090 against PO-1685
+2026-07-16,IN,FG003,Finished Goods Store,2200,132.58,In-house Production - Unit 1,Finished lot received from production - GRN-2026-0091
+2026-07-16,IN,PKG009,Packing Store,450,46.26,Bharath Poly Products,GRN-2026-0092 against PO-1581
+2026-07-16,OUT,FAB004,Fabric Store,755.0,,,Issued to Cutting - ISS-2026-0149
+2026-07-16,OUT,FAB007,Fabric Store,577.5,,,Issued to Cutting - ISS-2026-0150
+2026-07-16,OUT,FAB009,Fabric Store,810.0,,,Issued to Cutting - ISS-2026-0151
+2026-07-16,OUT,FAB013,Fabric Store,772.5,,,Issued to Cutting - ISS-2026-0152
+2026-07-16,OUT,FAB018,Fabric Store,737.5,,,Issued to Cutting - ISS-2026-0153
+2026-07-16,OUT,FG001,Finished Goods Store,2820,,,Dispatch to Urban Threads Retail - DC-2026-0154
+2026-07-16,OUT,PKG001,Packing Store,16100,,,Issued to Packing Section - ISS-2026-0155
+2026-07-16,OUT,PKG001,Packing Store,10100,,,Issued to Packing Section - ISS-2026-0156
+2026-07-16,OUT,PKG001,Packing Store,24550,,,Issued to Packing Section - ISS-2026-0157
+2026-07-16,OUT,PKG005,Packing Store,13250,,,Issued to Packing Section - ISS-2026-0158
+2026-07-16,OUT,PKG008,Packing Store,2300,,,Issued to Packing Section - ISS-2026-0159
+2026-07-16,OUT,PKG008,Packing Store,2900,,,Issued to Packing Section - ISS-2026-0160
+2026-07-16,OUT,PKG009,Packing Store,100,,,Issued to Packing Section - ISS-2026-0161
+2026-07-16,OUT,TRM005,Trims Store,5710,,,Issued to Stitching Line 2 - ISS-2026-0162
+2026-07-16,OUT,TRM006,Trims Store,990,,,Issued to Stitching Line 5 - ISS-2026-0163
+2026-07-16,OUT,TRM007,Trims Store,5890,,,Issued to Stitching Line 5 - ISS-2026-0164
+2026-07-16,OUT,TRM009,Trims Store,8300,,,Issued to Stitching Line 5 - ISS-2026-0165
+2026-07-16,OUT,TRM017,Trims Store,537.5,,,Issued to Stitching Line 3 - ISS-2026-0166
+2026-07-16,OUT,TRM017,Trims Store,685.0,,,Issued to Stitching Line 6 - ISS-2026-0167
+2026-07-16,OUT,YRN001,Yarn Store,207.5,,,Issued to Knitting - ISS-2026-0168
+2026-07-17,IN,FAB005,Fabric Store,1210.0,357.64,Sakthi Dyeing & Processing,GRN-2026-0093 against PO-1365
+2026-07-17,IN,FAB012,Fabric Store,2300.0,359.09,Perumal Knit Fabrics,GRN-2026-0094 against PO-1148
+2026-07-17,IN,TRM001,Trims Store,830,90.53,Ganesh Thread House,GRN-2026-0095 against PO-1678
+2026-07-17,OUT,FAB003,Fabric Store,402.5,,,Issued to Cutting - ISS-2026-0169
+2026-07-17,OUT,FAB010,Fabric Store,265.0,,,Issued to Cutting - ISS-2026-0170
+2026-07-17,OUT,FAB010,Fabric Store,417.5,,,Issued to Cutting - ISS-2026-0171
+2026-07-17,OUT,FAB011,Fabric Store,212.5,,,Issued to Cutting - ISS-2026-0172
+2026-07-17,OUT,FAB014,Fabric Store,202.5,,,Issued to Cutting - ISS-2026-0173
+2026-07-17,OUT,FAB017,Fabric Store,697.5,,,Issued to Cutting - ISS-2026-0174
+2026-07-17,OUT,FAB018,Fabric Store,1167.5,,,Issued to Cutting - ISS-2026-0175
+2026-07-17,OUT,FG004,Finished Goods Store,210,,,Dispatch to Sunrise Fashion Hub - DC-2026-0176
+2026-07-17,OUT,PKG001,Packing Store,1100,,,Issued to Packing Section - ISS-2026-0177
+2026-07-17,OUT,PKG004,Packing Store,30,,,Issued to Packing Section - ISS-2026-0178
+2026-07-17,OUT,PKG006,Packing Store,85,,,Issued to Packing Section - ISS-2026-0179
+2026-07-17,OUT,PKG007,Packing Store,2750,,,Issued to Packing Section - ISS-2026-0180
+2026-07-17,OUT,TRM009,Trims Store,7850,,,Issued to Stitching Line 5 - ISS-2026-0181
+2026-07-17,OUT,TRM012,Trims Store,3482.5,,,Issued to Stitching Line 2 - ISS-2026-0182
+2026-07-17,OUT,TRM017,Trims Store,1405.0,,,Issued to Stitching Line 7 - ISS-2026-0183
+2026-07-17,OUT,YRN001,Yarn Store,85.0,,,Issued to Knitting - ISS-2026-0184
+2026-07-17,OUT,YRN004,Yarn Store,920.0,,,Issued to Knitting - ISS-2026-0185
+2026-07-17,OUT,YRN009,Yarn Store,372.5,,,Issued to Knitting - ISS-2026-0186
+2026-07-18,IN,FAB008,Fabric Store,1680.0,374.44,Perumal Knit Fabrics,GRN-2026-0096 against PO-1555
+2026-07-18,IN,TRM004,Trims Store,580,80.43,Ganesh Thread House,GRN-2026-0097 against PO-1220
+2026-07-18,OUT,FAB003,Fabric Store,490.0,,,Issued to Cutting - ISS-2026-0187
+2026-07-18,OUT,FAB007,Fabric Store,677.5,,,Issued to Cutting - ISS-2026-0188
+2026-07-18,OUT,FAB013,Fabric Store,682.5,,,Issued to Cutting - ISS-2026-0189
+2026-07-18,OUT,FAB014,Fabric Store,550.0,,,Issued to Cutting - ISS-2026-0190
+2026-07-18,OUT,FAB018,Fabric Store,522.5,,,Issued to Cutting - ISS-2026-0191
+2026-07-18,OUT,FG001,Finished Goods Store,1690,,,Dispatch to Sunrise Fashion Hub - DC-2026-0192
+2026-07-18,OUT,FG005,Finished Goods Store,560,,,Dispatch to Urban Threads Retail - DC-2026-0193
+2026-07-18,OUT,PKG006,Packing Store,81,,,Issued to Packing Section - ISS-2026-0194
+2026-07-18,OUT,PKG007,Packing Store,1600,,,Issued to Packing Section - ISS-2026-0195
+2026-07-18,OUT,PKG009,Packing Store,171,,,Issued to Packing Section - ISS-2026-0196
+2026-07-18,OUT,TRM003,Trims Store,259,,,Issued to Stitching Line 4 - ISS-2026-0197
+2026-07-18,OUT,TRM004,Trims Store,83,,,Issued to Stitching Line 7 - ISS-2026-0198
+2026-07-18,OUT,TRM006,Trims Store,1150,,,Issued to Stitching Line 5 - ISS-2026-0199
+2026-07-18,OUT,TRM010,Trims Store,5900,,,Issued to Stitching Line 3 - ISS-2026-0200
+2026-07-18,OUT,TRM015,Trims Store,6250,,,Issued to Stitching Line 6 - ISS-2026-0201
+2026-07-18,OUT,TRM016,Trims Store,3180.0,,,Issued to Stitching Line 8 - ISS-2026-0202
+2026-07-18,OUT,TRM017,Trims Store,545.0,,,Issued to Stitching Line 3 - ISS-2026-0203
+2026-07-18,OUT,YRN001,Yarn Store,10.0,,,Issued to Knitting - ISS-2026-0204
+2026-07-19,IN,PKG003,Finished Goods Store,1800,40.43,Bharath Poly Products,GRN-2026-0098 against PO-1642
+2026-07-19,OUT,FAB004,Fabric Store,647.5,,,Issued to Cutting - ISS-2026-0205
+2026-07-19,OUT,FAB005,Fabric Store,302.5,,,Issued to Cutting - ISS-2026-0206
+2026-07-19,OUT,FAB010,Fabric Store,240.0,,,Issued to Cutting - ISS-2026-0207
+2026-07-19,OUT,FAB011,Fabric Store,297.5,,,Issued to Cutting - ISS-2026-0208
+2026-07-19,OUT,FAB014,Fabric Store,557.5,,,Issued to Cutting - ISS-2026-0209
+2026-07-19,OUT,FAB020,Fabric Store,55.0,,,Issued to Cutting - ISS-2026-0210
+2026-07-19,OUT,FG006,Finished Goods Store,670,,,Dispatch to Kidz Corner Stores - DC-2026-0211
+2026-07-19,OUT,FG008,Finished Goods Store,490,,,Dispatch to Kidz Corner Stores - DC-2026-0212
+2026-07-19,OUT,PKG007,Packing Store,3150,,,Issued to Packing Section - ISS-2026-0213
+2026-07-19,OUT,PKG007,Packing Store,1250,,,Issued to Packing Section - ISS-2026-0214
+2026-07-19,OUT,TRM001,Trims Store,231,,,Issued to Stitching Line 8 - ISS-2026-0215
+2026-07-19,OUT,TRM008,Trims Store,43850,,,Issued to Stitching Line 1 - ISS-2026-0216
+2026-07-19,OUT,TRM008,Trims Store,18250,,,Issued to Stitching Line 3 - ISS-2026-0217
+2026-07-19,OUT,TRM014,Trims Store,25700,,,Issued to Stitching Line 7 - ISS-2026-0218
+2026-07-19,OUT,TRM015,Trims Store,5450,,,Issued to Stitching Line 6 - ISS-2026-0219
+2026-07-19,OUT,TRM016,Trims Store,3032.5,,,Issued to Stitching Line 5 - ISS-2026-0220
+2026-07-19,OUT,YRN007,Yarn Store,37.5,,,Issued to Knitting - ISS-2026-0221
+2026-07-20,IN,FAB018,Fabric Store,6350.0,137.24,Om Sai Fabrics,GRN-2026-0099 against PO-1252
+2026-07-20,IN,PKG007,Packing Store,28000,0.59,Bharath Poly Products,GRN-2026-0100 against PO-1754
+2026-07-20,IN,TRM012,Trims Store,15790.0,4.20,Tirupur Trims & Accessories,GRN-2026-0101 against PO-1135
+2026-07-20,OUT,FAB006,Fabric Store,165.0,,,Issued to Cutting - ISS-2026-0222
+2026-07-20,OUT,FAB007,Fabric Store,417.5,,,Issued to Cutting - ISS-2026-0223
+2026-07-20,OUT,FAB007,Fabric Store,647.5,,,Issued to Cutting - ISS-2026-0224
+2026-07-20,OUT,FAB009,Fabric Store,742.5,,,Issued to Cutting - ISS-2026-0225
+2026-07-20,OUT,FAB014,Fabric Store,322.5,,,Issued to Cutting - ISS-2026-0226
+2026-07-20,OUT,FAB015,Fabric Store,1822.5,,,Issued to Cutting - ISS-2026-0227
+2026-07-20,OUT,PKG004,Packing Store,10,,,Issued to Packing Section - ISS-2026-0228
+2026-07-20,OUT,TRM010,Trims Store,2700,,,Issued to Stitching Line 5 - ISS-2026-0229
+2026-07-20,OUT,TRM011,Trims Store,4505.0,,,Issued to Stitching Line 6 - ISS-2026-0230
+2026-07-20,OUT,YRN006,Yarn Store,385.0,,,Issued to Knitting - ISS-2026-0231
+2026-07-20,OUT,YRN007,Yarn Store,12.5,,,Issued to Knitting - ISS-2026-0232
+2026-07-20,OUT,YRN008,Yarn Store,280.0,,,Issued to Knitting - ISS-2026-0233
+2026-07-21,IN,FAB003,Fabric Store,2940.0,371.20,Perumal Knit Fabrics,GRN-2026-0102 against PO-1664
+2026-07-21,IN,FAB015,Fabric Store,7250.0,254.21,Coimbatore Denim Works,GRN-2026-0103 against PO-1103
+2026-07-21,IN,TRM014,Trims Store,65000,0.34,Sri Vinayaga Labels,GRN-2026-0104 against PO-1379
+2026-07-21,IN,YRN001,Yarn Store,4680.0,278.99,Annai Spinning Mills,GRN-2026-0105 against PO-1374
+2026-07-21,OUT,FAB002,Fabric Store,705.0,,,Issued to Cutting - ISS-2026-0234
+2026-07-21,OUT,FAB006,Fabric Store,250.0,,,Issued to Cutting - ISS-2026-0235
+2026-07-21,OUT,FAB007,Fabric Store,607.5,,,Issued to Cutting - ISS-2026-0236
+2026-07-21,OUT,FAB012,Fabric Store,252.5,,,Issued to Cutting - ISS-2026-0237
+2026-07-21,OUT,FAB018,Fabric Store,605.0,,,Issued to Cutting - ISS-2026-0238
+2026-07-21,OUT,FAB020,Fabric Store,145.0,,,Issued to Cutting - ISS-2026-0239
+2026-07-21,OUT,PKG002,Packing Store,9850,,,Issued to Packing Section - ISS-2026-0240
+2026-07-21,OUT,PKG003,Packing Store,660,,,Issued to Packing Section - ISS-2026-0241
+2026-07-21,OUT,PKG007,Packing Store,1300,,,Issued to Packing Section - ISS-2026-0242
+2026-07-21,OUT,PKG008,Packing Store,2450,,,Issued to Packing Section - ISS-2026-0243
+2026-07-21,OUT,PKG010,Packing Store,6900,,,Issued to Packing Section - ISS-2026-0244
+2026-07-21,OUT,PKG010,Packing Store,8600,,,Issued to Packing Section - ISS-2026-0245
+2026-07-21,OUT,TRM018,Trims Store,3750,,,Issued to Stitching Line 8 - ISS-2026-0246
+2026-07-21,OUT,YRN008,Yarn Store,340.0,,,Issued to Knitting - ISS-2026-0247
+2026-07-22,IN,FG008,Finished Goods Store,1100,298.99,In-house Production - Unit 2,Finished lot received from production - GRN-2026-0106
+2026-07-22,IN,PKG001,Finished Goods Store,23000,1.41,Bharath Poly Products,GRN-2026-0107 against PO-1969
+2026-07-22,IN,TRM002,Trims Store,1070,90.58,Ganesh Thread House,GRN-2026-0108 against PO-1395
+2026-07-22,IN,TRM008,Trims Store,120000,0.54,Tirupur Trims & Accessories,GRN-2026-0109 against PO-1061
+2026-07-22,IN,TRM010,Trims Store,36500,3.08,Tirupur Trims & Accessories,GRN-2026-0110 against PO-1286
+2026-07-22,IN,TRM011,Trims Store,10290.0,9.47,Tirupur Trims & Accessories,GRN-2026-0111 against PO-1942
+2026-07-22,IN,YRN006,Yarn Store,1020.0,274.46,Kongu Cotton Yarn Traders,GRN-2026-0112 against PO-1750
+2026-07-22,OUT,FAB001,Fabric Store,732.5,,,Issued to Cutting - ISS-2026-0248
+2026-07-22,OUT,FAB002,Fabric Store,365.0,,,Issued to Cutting - ISS-2026-0249
+2026-07-22,OUT,FAB007,Fabric Store,327.5,,,Issued to Cutting - ISS-2026-0250
+2026-07-22,OUT,PKG003,Packing Store,580,,,Issued to Packing Section - ISS-2026-0251
+2026-07-22,OUT,PKG005,Packing Store,7350,,,Issued to Packing Section - ISS-2026-0252
+2026-07-22,OUT,PKG005,Packing Store,14000,,,Issued to Packing Section - ISS-2026-0253
+2026-07-22,OUT,PKG009,Packing Store,152,,,Issued to Packing Section - ISS-2026-0254
+2026-07-22,OUT,PKG009,Packing Store,129,,,Issued to Packing Section - ISS-2026-0255
+2026-07-22,OUT,TRM012,Trims Store,3920.0,,,Issued to Stitching Line 7 - ISS-2026-0256
+2026-07-22,OUT,TRM014,Trims Store,21250,,,Issued to Stitching Line 5 - ISS-2026-0257
+2026-07-22,OUT,YRN002,Yarn Store,637.5,,,Issued to Knitting - ISS-2026-0258
+2026-07-22,OUT,YRN003,Yarn Store,592.5,,,Issued to Knitting - ISS-2026-0259
+2026-07-22,OUT,YRN005,Yarn Store,317.5,,,Issued to Knitting - ISS-2026-0260
+2026-07-22,OUT,YRN006,Yarn Store,312.5,,,Issued to Knitting - ISS-2026-0261
+2026-07-23,IN,FAB010,Fabric Store,2620.0,399.18,Sakthi Dyeing & Processing,GRN-2026-0113 against PO-1885
+2026-07-23,IN,FAB016,Fabric Store,5160.0,132.25,Om Sai Fabrics,GRN-2026-0114 against PO-1936
+2026-07-23,IN,FG004,Finished Goods Store,900,267.46,In-house Production - Unit 1,Finished lot received from production - GRN-2026-0115
+2026-07-23,IN,YRN001,Yarn Store,3840.0,299.22,Annai Spinning Mills,GRN-2026-0116 against PO-1182
+2026-07-23,OUT,FAB007,Fabric Store,437.5,,,Issued to Cutting - ISS-2026-0262
+2026-07-23,OUT,FAB007,Fabric Store,267.5,,,Issued to Cutting - ISS-2026-0263
+2026-07-23,OUT,FAB008,Fabric Store,157.5,,,Issued to Cutting - ISS-2026-0264
+2026-07-23,OUT,FAB010,Fabric Store,275.0,,,Issued to Cutting - ISS-2026-0265
+2026-07-23,OUT,FAB013,Fabric Store,467.5,,,Issued to Cutting - ISS-2026-0266
+2026-07-23,OUT,FAB015,Fabric Store,1562.5,,,Issued to Cutting - ISS-2026-0267
+2026-07-23,OUT,FAB015,Fabric Store,1142.5,,,Issued to Cutting - ISS-2026-0268
+2026-07-23,OUT,FAB016,Fabric Store,1247.5,,,Issued to Cutting - ISS-2026-0269
+2026-07-23,OUT,FAB019,Fabric Store,322.5,,,Issued to Cutting - ISS-2026-0270
+2026-07-23,OUT,FG002,Finished Goods Store,1270,,,Dispatch to Sunrise Fashion Hub - DC-2026-0271
+2026-07-23,OUT,FG008,Finished Goods Store,390,,,Dispatch to Sunrise Fashion Hub - DC-2026-0272
+2026-07-23,OUT,PKG005,Packing Store,4700,,,Issued to Packing Section - ISS-2026-0273
+2026-07-23,OUT,PKG007,Packing Store,2400,,,Issued to Packing Section - ISS-2026-0274
+2026-07-23,OUT,PKG007,Packing Store,1900,,,Issued to Packing Section - ISS-2026-0275
+2026-07-23,OUT,PKG008,Packing Store,2500,,,Issued to Packing Section - ISS-2026-0276
+2026-07-23,OUT,TRM006,Trims Store,1340,,,Issued to Stitching Line 6 - ISS-2026-0277
+2026-07-23,OUT,TRM016,Trims Store,225.0,,,Issued to Stitching Line 2 - ISS-2026-0278
+2026-07-23,OUT,YRN005,Yarn Store,380.0,,,Issued to Knitting - ISS-2026-0279
+2026-07-23,OUT,YRN005,Yarn Store,295.0,,,Issued to Knitting - ISS-2026-0280
+2026-07-23,OUT,YRN006,Yarn Store,357.5,,,Issued to Knitting - ISS-2026-0281
+2026-07-23,OUT,YRN008,Yarn Store,387.5,,,Issued to Knitting - ISS-2026-0282
+2026-07-24,IN,FAB009,Fabric Store,2070.0,391.68,Sakthi Dyeing & Processing,GRN-2026-0117 against PO-1358
+2026-07-24,IN,FG004,Finished Goods Store,1000,270.32,In-house Production - Unit 1,Finished lot received from production - GRN-2026-0118
+2026-07-24,OUT,FAB005,Fabric Store,305.0,,,Issued to Cutting - ISS-2026-0283
+2026-07-24,OUT,FAB006,Fabric Store,247.5,,,Issued to Cutting - ISS-2026-0284
+2026-07-24,OUT,FAB006,Fabric Store,212.5,,,Issued to Cutting - ISS-2026-0285
+2026-07-24,OUT,FG007,Finished Goods Store,610,,,Dispatch to Urban Threads Retail - DC-2026-0286
+2026-07-24,OUT,FG008,Finished Goods Store,390,,,Dispatch to Sunrise Fashion Hub - DC-2026-0287
+2026-07-24,OUT,PKG005,Packing Store,850,,,Issued to Packing Section - ISS-2026-0288
+2026-07-24,OUT,PKG006,Packing Store,64,,,Issued to Packing Section - ISS-2026-0289
+2026-07-24,OUT,PKG006,Packing Store,70,,,Issued to Packing Section - ISS-2026-0290
+2026-07-24,OUT,PKG010,Packing Store,8200,,,Issued to Packing Section - ISS-2026-0291
+2026-07-24,OUT,TRM007,Trims Store,6160,,,Issued to Stitching Line 5 - ISS-2026-0292
+2026-07-24,OUT,TRM011,Trims Store,2567.5,,,Issued to Stitching Line 8 - ISS-2026-0293
+2026-07-24,OUT,TRM015,Trims Store,4100,,,Issued to Stitching Line 3 - ISS-2026-0294
+2026-07-24,OUT,YRN005,Yarn Store,490.0,,,Issued to Knitting - ISS-2026-0295
+2026-07-24,OUT,YRN010,Yarn Store,497.5,,,Issued to Knitting - ISS-2026-0296
+2026-07-25,IN,FG007,Finished Goods Store,1200,184.96,In-house Production - Unit 2,Finished lot received from production - GRN-2026-0119
+2026-07-25,IN,FG008,Finished Goods Store,1300,295.80,In-house Production - Unit 1,Finished lot received from production - GRN-2026-0120
+2026-07-25,IN,TRM003,Trims Store,560,96.72,Ganesh Thread House,GRN-2026-0121 against PO-1483
+2026-07-25,IN,TRM003,Trims Store,550,96.27,Ganesh Thread House,GRN-2026-0122 against PO-1471
+2026-07-25,IN,TRM008,Trims Store,109500,0.55,Tirupur Trims & Accessories,GRN-2026-0123 against PO-1539
+2026-07-25,IN,YRN001,Yarn Store,4990.0,299.25,Kongu Cotton Yarn Traders,GRN-2026-0124 against PO-1355
+2026-07-25,OUT,FAB003,Fabric Store,465.0,,,Issued to Cutting - ISS-2026-0297
+2026-07-25,OUT,FAB010,Fabric Store,207.5,,,Issued to Cutting - ISS-2026-0298
+2026-07-25,OUT,FAB016,Fabric Store,1440.0,,,Issued to Cutting - ISS-2026-0299
+2026-07-25,OUT,FAB017,Fabric Store,650.0,,,Issued to Cutting - ISS-2026-0300
+2026-07-25,OUT,FG005,Finished Goods Store,1140,,,Dispatch to Northwind Apparel Exports - DC-2026-0301
+2026-07-25,OUT,PKG001,Packing Store,100,,,Issued to Packing Section - ISS-2026-0302
+2026-07-25,OUT,PKG005,Packing Store,350,,,Issued to Packing Section - ISS-2026-0303
+2026-07-25,OUT,TRM009,Trims Store,12400,,,Issued to Stitching Line 3 - ISS-2026-0304
+2026-07-25,OUT,TRM010,Trims Store,2700,,,Issued to Stitching Line 3 - ISS-2026-0305
+2026-07-25,OUT,YRN004,Yarn Store,552.5,,,Issued to Knitting - ISS-2026-0306
+2026-07-26,IN,PKG004,Packing Store,1910,69.57,Bharath Poly Products,GRN-2026-0125 against PO-1861
+2026-07-26,IN,TRM009,Trims Store,56000,0.78,Tirupur Trims & Accessories,GRN-2026-0126 against PO-1757
+2026-07-26,OUT,FAB002,Fabric Store,625.0,,,Issued to Cutting - ISS-2026-0307
+2026-07-26,OUT,FAB008,Fabric Store,72.5,,,Issued to Cutting - ISS-2026-0308
+2026-07-26,OUT,FAB009,Fabric Store,415.0,,,Issued to Cutting - ISS-2026-0309
+2026-07-26,OUT,FAB020,Fabric Store,145.0,,,Issued to Cutting - ISS-2026-0310
+2026-07-26,OUT,FAB020,Fabric Store,150.0,,,Issued to Cutting - ISS-2026-0311
+2026-07-26,OUT,FG008,Finished Goods Store,500,,,Dispatch to Sunrise Fashion Hub - DC-2026-0312
+2026-07-26,OUT,PKG001,Finished Goods Store,17350,,,Issued to Packing Section - ISS-2026-0313
+2026-07-26,OUT,PKG007,Packing Store,2200,,,Issued to Packing Section - ISS-2026-0314
+2026-07-26,OUT,TRM001,Trims Store,279,,,Issued to Stitching Line 6 - ISS-2026-0315
+2026-07-26,OUT,TRM010,Trims Store,5000,,,Issued to Stitching Line 2 - ISS-2026-0316
+2026-07-26,OUT,TRM011,Trims Store,2885.0,,,Issued to Stitching Line 4 - ISS-2026-0317
+2026-07-26,OUT,TRM012,Trims Store,3672.5,,,Issued to Stitching Line 6 - ISS-2026-0318
+2026-07-26,OUT,TRM015,Trims Store,4350,,,Issued to Stitching Line 1 - ISS-2026-0319
+2026-07-26,OUT,TRM016,Trims Store,100.0,,,Issued to Stitching Line 5 - ISS-2026-0320
+2026-07-26,OUT,YRN003,Yarn Store,585.0,,,Issued to Knitting - ISS-2026-0321
+2026-07-27,IN,FAB010,Fabric Store,2050.0,423.16,Sakthi Dyeing & Processing,GRN-2026-0127 against PO-1482
+2026-07-27,IN,FAB014,Fabric Store,4420.0,207.39,Coimbatore Denim Works,GRN-2026-0128 against PO-1802
+2026-07-27,IN,FG007,Finished Goods Store,1400,198.85,In-house Production - Unit 1,Finished lot received from production - GRN-2026-0129
+2026-07-27,IN,TRM018,Trims Store,15000,1.85,Tirupur Trims & Accessories,GRN-2026-0130 against PO-1831
+2026-07-27,OUT,FAB003,Fabric Store,422.5,,,Issued to Cutting - ISS-2026-0322
+2026-07-27,OUT,FAB005,Fabric Store,245.0,,,Issued to Cutting - ISS-2026-0323
+2026-07-27,OUT,FAB007,Fabric Store,440.0,,,Issued to Cutting - ISS-2026-0324
+2026-07-27,OUT,FAB012,Fabric Store,170.0,,,Issued to Cutting - ISS-2026-0325
+2026-07-27,OUT,FAB012,Fabric Store,137.5,,,Issued to Cutting - ISS-2026-0326
+2026-07-27,OUT,FAB016,Fabric Store,1217.5,,,Issued to Cutting - ISS-2026-0327
+2026-07-27,OUT,FAB016,Fabric Store,630.0,,,Issued to Cutting - ISS-2026-0328
+2026-07-27,OUT,FG002,Finished Goods Store,1830,,,Dispatch to Northwind Apparel Exports - DC-2026-0329
+2026-07-27,OUT,PKG003,Packing Store,370,,,Issued to Packing Section - ISS-2026-0330
+2026-07-27,OUT,PKG007,Packing Store,2750,,,Issued to Packing Section - ISS-2026-0331
+2026-07-27,OUT,PKG008,Packing Store,1750,,,Issued to Packing Section - ISS-2026-0332
+2026-07-27,OUT,TRM009,Trims Store,7500,,,Issued to Stitching Line 4 - ISS-2026-0333
+2026-07-27,OUT,TRM013,Trims Store,8150,,,Issued to Stitching Line 8 - ISS-2026-0334
+2026-07-27,OUT,TRM013,Trims Store,10900,,,Issued to Stitching Line 4 - ISS-2026-0335
+2026-07-27,OUT,TRM013,Trims Store,5850,,,Issued to Stitching Line 4 - ISS-2026-0336
+2026-07-27,OUT,TRM014,Trims Store,33750,,,Issued to Stitching Line 6 - ISS-2026-0337
+2026-07-27,OUT,TRM018,Trims Store,3550,,,Issued to Stitching Line 6 - ISS-2026-0338
+2026-07-27,OUT,YRN003,Yarn Store,487.5,,,Issued to Knitting - ISS-2026-0339
+2026-07-27,OUT,YRN003,Yarn Store,740.0,,,Issued to Knitting - ISS-2026-0340
+2026-07-27,OUT,YRN004,Yarn Store,1045.0,,,Issued to Knitting - ISS-2026-0341
+2026-07-28,IN,FAB015,Fabric Store,6030.0,235.64,Coimbatore Denim Works,GRN-2026-0131 against PO-1906
+2026-07-28,IN,FG008,Finished Goods Store,1000,293.15,In-house Production - Unit 2,Finished lot received from production - GRN-2026-0132
+2026-07-28,IN,PKG006,Packing Store,515,65.81,Bharath Poly Products,GRN-2026-0133 against PO-1232
+2026-07-28,IN,TRM016,Trims Store,8790.0,36.57,Tirupur Trims & Accessories,GRN-2026-0134 against PO-1316
+2026-07-28,OUT,FAB012,Fabric Store,110.0,,,Issued to Cutting - ISS-2026-0342
+2026-07-28,OUT,FAB016,Fabric Store,1047.5,,,Issued to Cutting - ISS-2026-0343
+2026-07-28,OUT,FAB016,Fabric Store,1222.5,,,Issued to Cutting - ISS-2026-0344
+2026-07-28,OUT,FAB017,Fabric Store,1065.0,,,Issued to Cutting - ISS-2026-0345
+2026-07-28,OUT,FG005,Finished Goods Store,430,,,Dispatch to Northwind Apparel Exports - DC-2026-0346
+2026-07-28,OUT,FG006,Finished Goods Store,290,,,Dispatch to Urban Threads Retail - DC-2026-0347
+2026-07-28,OUT,PKG010,Packing Store,7050,,,Issued to Packing Section - ISS-2026-0348
+2026-07-28,OUT,TRM008,Trims Store,26700,,,Issued to Stitching Line 3 - ISS-2026-0349
+2026-07-28,OUT,TRM014,Trims Store,9950,,,Issued to Stitching Line 6 - ISS-2026-0350
+2026-07-28,OUT,TRM017,Trims Store,537.5,,,Issued to Stitching Line 6 - ISS-2026-0351
+2026-07-28,OUT,TRM018,Trims Store,1500,,,Issued to Stitching Line 1 - ISS-2026-0352
+2026-07-28,OUT,YRN002,Yarn Store,895.0,,,Issued to Knitting - ISS-2026-0353
+2026-07-28,OUT,YRN003,Yarn Store,797.5,,,Issued to Knitting - ISS-2026-0354
+2026-07-28,OUT,YRN003,Yarn Store,322.5,,,Issued to Knitting - ISS-2026-0355
+2026-07-28,OUT,YRN006,Yarn Store,277.5,,,Issued to Knitting - ISS-2026-0356
+2026-07-28,OUT,YRN009,Yarn Store,420.0,,,Issued to Knitting - ISS-2026-0357
+2026-07-28,OUT,YRN010,Yarn Store,217.5,,,Issued to Knitting - ISS-2026-0358
+2026-07-29,IN,FAB001,Fabric Store,3690.0,358.08,Sakthi Dyeing & Processing,GRN-2026-0135 against PO-1180
+2026-07-29,IN,FG008,Finished Goods Store,1700,295.32,In-house Production - Unit 1,Finished lot received from production - GRN-2026-0136
+2026-07-29,IN,PKG005,Finished Goods Store,24000,0.91,Kaveri Packaging Industries,GRN-2026-0137 against PO-1780
+2026-07-29,IN,TRM001,Trims Store,700,92.18,Ganesh Thread House,GRN-2026-0138 against PO-1134
+2026-07-29,OUT,FAB001,Fabric Store,912.5,,,Issued to Cutting - ISS-2026-0359
+2026-07-29,OUT,FAB001,Fabric Store,902.5,,,Issued to Cutting - ISS-2026-0360
+2026-07-29,OUT,FAB004,Fabric Store,245.0,,,Issued to Cutting - ISS-2026-0361
+2026-07-29,OUT,FAB004,Fabric Store,180.0,,,Issued to Cutting - ISS-2026-0362
+2026-07-29,OUT,FAB005,Fabric Store,200.0,,,Issued to Cutting - ISS-2026-0363
+2026-07-29,OUT,FAB012,Fabric Store,237.5,,,Issued to Cutting - ISS-2026-0364
+2026-07-29,OUT,FAB013,Fabric Store,545.0,,,Issued to Cutting - ISS-2026-0365
+2026-07-29,OUT,FAB015,Fabric Store,1267.5,,,Issued to Cutting - ISS-2026-0366
+2026-07-29,OUT,FAB016,Fabric Store,1285.0,,,Issued to Cutting - ISS-2026-0367
+2026-07-29,OUT,FG002,Finished Goods Store,650,,,Dispatch to Northwind Apparel Exports - DC-2026-0368
+2026-07-29,OUT,FG005,Finished Goods Store,130,,,Dispatch to Sunrise Fashion Hub - DC-2026-0369
+2026-07-29,OUT,PKG006,Packing Store,92,,,Issued to Packing Section - ISS-2026-0370
+2026-07-29,OUT,PKG009,Packing Store,128,,,Issued to Packing Section - ISS-2026-0371
+2026-07-29,OUT,TRM008,Trims Store,18850,,,Issued to Stitching Line 8 - ISS-2026-0372
+2026-07-29,OUT,TRM011,Trims Store,3955.0,,,Issued to Stitching Line 8 - ISS-2026-0373
+2026-07-29,OUT,TRM018,Trims Store,4100,,,Issued to Stitching Line 8 - ISS-2026-0374
+2026-07-29,OUT,YRN003,Yarn Store,37.5,,,Issued to Knitting - ISS-2026-0375
+2026-07-29,OUT,YRN010,Yarn Store,120.0,,,Issued to Knitting - ISS-2026-0376
+2026-07-30,IN,FAB001,Fabric Store,3670.0,360.42,Perumal Knit Fabrics,GRN-2026-0139 against PO-1391
+2026-07-30,IN,FG005,Finished Goods Store,2400,247.25,In-house Production - Unit 1,Finished lot received from production - GRN-2026-0140
+2026-07-30,IN,PKG005,Packing Store,31000,0.88,Srinivasa Carton Works,GRN-2026-0141 against PO-1351
+2026-07-30,IN,TRM012,Trims Store,18740.0,4.28,Tirupur Trims & Accessories,GRN-2026-0142 against PO-1415
+2026-07-30,IN,TRM018,Trims Store,11000,1.77,Tirupur Trims & Accessories,GRN-2026-0143 against PO-1886
+2026-07-30,IN,YRN003,Yarn Store,6980.0,231.50,Annai Spinning Mills,GRN-2026-0144 against PO-1926
+2026-07-30,OUT,FAB005,Fabric Store,250.0,,,Issued to Cutting - ISS-2026-0377
+2026-07-30,OUT,FAB008,Fabric Store,155.0,,,Issued to Cutting - ISS-2026-0378
+2026-07-30,OUT,FAB010,Fabric Store,442.5,,,Issued to Cutting - ISS-2026-0379
+2026-07-30,OUT,FAB012,Fabric Store,112.5,,,Issued to Cutting - ISS-2026-0380
+2026-07-30,OUT,FAB015,Fabric Store,1952.5,,,Issued to Cutting - ISS-2026-0381
+2026-07-30,OUT,FAB016,Fabric Store,300.0,,,Issued to Cutting - ISS-2026-0382
+2026-07-30,OUT,FAB018,Fabric Store,542.5,,,Issued to Cutting - ISS-2026-0383
+2026-07-30,OUT,FAB018,Fabric Store,705.0,,,Issued to Cutting - ISS-2026-0384
+2026-07-30,OUT,FAB018,Fabric Store,1330.0,,,Issued to Cutting - ISS-2026-0385
+2026-07-30,OUT,FG004,Finished Goods Store,660,,,Dispatch to Kidz Corner Stores - DC-2026-0386
+2026-07-30,OUT,PKG003,Packing Store,150,,,Issued to Packing Section - ISS-2026-0387
+2026-07-30,OUT,PKG007,Packing Store,3450,,,Issued to Packing Section - ISS-2026-0388
+2026-07-30,OUT,PKG009,Packing Store,115,,,Issued to Packing Section - ISS-2026-0389
+2026-07-30,OUT,TRM005,Trims Store,4710,,,Issued to Stitching Line 6 - ISS-2026-0390
+2026-07-30,OUT,TRM007,Trims Store,1420,,,Issued to Stitching Line 5 - ISS-2026-0391
+2026-07-30,OUT,TRM010,Trims Store,5600,,,Issued to Stitching Line 8 - ISS-2026-0392
+2026-07-30,OUT,TRM017,Trims Store,945.0,,,Issued to Stitching Line 3 - ISS-2026-0393
+2026-07-30,OUT,TRM018,Trims Store,1950,,,Issued to Stitching Line 3 - ISS-2026-0394
+2026-07-30,OUT,YRN002,Yarn Store,457.5,,,Issued to Knitting - ISS-2026-0395
+2026-07-31,IN,FAB006,Fabric Store,1180.0,396.95,Perumal Knit Fabrics,GRN-2026-0145 against PO-1697
+2026-07-31,IN,FG007,Finished Goods Store,1300,196.59,In-house Production - Unit 2,Finished lot received from production - GRN-2026-0146
+2026-07-31,IN,YRN004,Yarn Store,2260.0,305.27,Kongu Cotton Yarn Traders,GRN-2026-0147 against PO-1799
+2026-07-31,OUT,FAB012,Fabric Store,150.0,,,Issued to Cutting - ISS-2026-0396
+2026-07-31,OUT,FG002,Finished Goods Store,350,,,Dispatch to Kidz Corner Stores - DC-2026-0397
+2026-07-31,OUT,FG005,Finished Goods Store,900,,,Dispatch to Sunrise Fashion Hub - DC-2026-0398
+2026-07-31,OUT,FG005,Finished Goods Store,1300,,,Dispatch to Sunrise Fashion Hub - DC-2026-0399
+2026-07-31,OUT,FG007,Finished Goods Store,450,,,Dispatch to Northwind Apparel Exports - DC-2026-0400
+2026-07-31,OUT,PKG005,Packing Store,13500,,,Issued to Packing Section - ISS-2026-0401
+2026-07-31,OUT,PKG009,Packing Store,89,,,Issued to Packing Section - ISS-2026-0402
+2026-07-31,OUT,PKG009,Packing Store,153,,,Issued to Packing Section - ISS-2026-0403
+2026-07-31,OUT,TRM001,Trims Store,177,,,Issued to Stitching Line 2 - ISS-2026-0404
+2026-07-31,OUT,TRM016,Trims Store,2667.5,,,Issued to Stitching Line 8 - ISS-2026-0405
+2026-07-31,OUT,TRM017,Trims Store,635.0,,,Issued to Stitching Line 8 - ISS-2026-0406
+2026-07-31,OUT,TRM018,Trims Store,3200,,,Issued to Stitching Line 1 - ISS-2026-0407
+2026-07-31,OUT,YRN005,Yarn Store,497.5,,,Issued to Knitting - ISS-2026-0408
+2026-07-31,OUT,YRN007,Yarn Store,2.5,,,Issued to Knitting - ISS-2026-0409
+2026-08-01,IN,FAB002,Fabric Store,2250.0,362.47,Sakthi Dyeing & Processing,GRN-2026-0148 against PO-1068
+2026-08-01,IN,FAB020,Fabric Store,810.0,485.00,Sakthi Dyeing & Processing,GRN-2026-0149 against PO-1933
+2026-08-01,IN,FG001,Finished Goods Store,4600,118.07,In-house Production - Unit 2,Finished lot received from production - GRN-2026-0150
+2026-08-01,IN,FG006,Finished Goods Store,1300,414.88,In-house Production - Unit 1,Finished lot received from production - GRN-2026-0151
+2026-08-01,IN,PKG001,Finished Goods Store,28500,1.38,Bharath Poly Products,GRN-2026-0152 against PO-1132
+2026-08-01,IN,PKG006,Packing Store,625,63.54,Bharath Poly Products,GRN-2026-0153 against PO-1861
+2026-08-01,IN,TRM011,Trims Store,13610.0,9.71,Tirupur Trims & Accessories,GRN-2026-0154 against PO-1380
+2026-08-01,OUT,FAB004,Fabric Store,30.0,,,Issued to Cutting - ISS-2026-0410
+2026-08-01,OUT,FAB007,Fabric Store,627.5,,,Issued to Cutting - ISS-2026-0411
+2026-08-01,OUT,FAB010,Fabric Store,297.5,,,Issued to Cutting - ISS-2026-0412
+2026-08-01,OUT,FAB010,Fabric Store,325.0,,,Issued to Cutting - ISS-2026-0413
+2026-08-01,OUT,FAB012,Fabric Store,185.0,,,Issued to Cutting - ISS-2026-0414
+2026-08-01,OUT,FAB012,Fabric Store,212.5,,,Issued to Cutting - ISS-2026-0415
+2026-08-01,OUT,FAB014,Fabric Store,587.5,,,Issued to Cutting - ISS-2026-0416
+2026-08-01,OUT,FAB014,Fabric Store,502.5,,,Issued to Cutting - ISS-2026-0417
+2026-08-01,OUT,FAB015,Fabric Store,1255.0,,,Issued to Cutting - ISS-2026-0418
+2026-08-01,OUT,FAB017,Fabric Store,647.5,,,Issued to Cutting - ISS-2026-0419
+2026-08-01,OUT,FG005,Finished Goods Store,190,,,Dispatch to Urban Threads Retail - DC-2026-0420
+2026-08-01,OUT,FG006,Finished Goods Store,410,,,Dispatch to Northwind Apparel Exports - DC-2026-0421
+2026-08-01,OUT,PKG005,Finished Goods Store,2700,,,Issued to Packing Section - ISS-2026-0422
+2026-08-01,OUT,PKG005,Packing Store,8350,,,Issued to Packing Section - ISS-2026-0423
+2026-08-01,OUT,TRM001,Trims Store,336,,,Issued to Stitching Line 4 - ISS-2026-0424
+2026-08-01,OUT,TRM005,Trims Store,2990,,,Issued to Stitching Line 4 - ISS-2026-0425
+2026-08-01,OUT,TRM007,Trims Store,640,,,Issued to Stitching Line 6 - ISS-2026-0426
+2026-08-01,OUT,TRM007,Trims Store,240,,,Issued to Stitching Line 2 - ISS-2026-0427
+2026-08-01,OUT,TRM008,Trims Store,19900,,,Issued to Stitching Line 8 - ISS-2026-0428
+2026-08-01,OUT,TRM013,Trims Store,10500,,,Issued to Stitching Line 8 - ISS-2026-0429
+2026-08-01,OUT,TRM017,Trims Store,560.0,,,Issued to Stitching Line 7 - ISS-2026-0430
+2026-08-01,OUT,YRN003,Yarn Store,655.0,,,Issued to Knitting - ISS-2026-0431
+2026-08-01,OUT,YRN006,Yarn Store,337.5,,,Issued to Knitting - ISS-2026-0432
+2026-08-01,OUT,YRN008,Yarn Store,237.5,,,Issued to Knitting - ISS-2026-0433
+2026-08-02,IN,FAB017,Fabric Store,4260.0,173.07,Om Sai Fabrics,GRN-2026-0155 against PO-1549
+2026-08-02,IN,PKG004,Packing Store,1820,69.11,Srinivasa Carton Works,GRN-2026-0156 against PO-1456
+2026-08-02,IN,YRN006,Yarn Store,1360.0,277.53,Kongu Cotton Yarn Traders,GRN-2026-0157 against PO-1291
+2026-08-02,OUT,FAB006,Fabric Store,180.0,,,Issued to Cutting - ISS-2026-0434
+2026-08-02,OUT,FAB008,Fabric Store,122.5,,,Issued to Cutting - ISS-2026-0435
+2026-08-02,OUT,FAB011,Fabric Store,312.5,,,Issued to Cutting - ISS-2026-0436
+2026-08-02,OUT,FAB011,Fabric Store,225.0,,,Issued to Cutting - ISS-2026-0437
+2026-08-02,OUT,FAB012,Fabric Store,275.0,,,Issued to Cutting - ISS-2026-0438
+2026-08-02,OUT,PKG002,Packing Store,5950,,,Issued to Packing Section - ISS-2026-0439
+2026-08-02,OUT,PKG006,Packing Store,132,,,Issued to Packing Section - ISS-2026-0440
+2026-08-02,OUT,PKG008,Packing Store,4300,,,Issued to Packing Section - ISS-2026-0441
+2026-08-02,OUT,PKG009,Packing Store,74,,,Issued to Packing Section - ISS-2026-0442
+2026-08-02,OUT,PKG009,Packing Store,121,,,Issued to Packing Section - ISS-2026-0443
+2026-08-02,OUT,TRM010,Trims Store,2300,,,Issued to Stitching Line 6 - ISS-2026-0444
+2026-08-02,OUT,TRM010,Trims Store,5750,,,Issued to Stitching Line 7 - ISS-2026-0445
+2026-08-02,OUT,TRM013,Trims Store,3750,,,Issued to Stitching Line 6 - ISS-2026-0446
+2026-08-02,OUT,YRN009,Yarn Store,385.0,,,Issued to Knitting - ISS-2026-0447
+2026-08-03,IN,TRM016,Trims Store,7750.0,38.21,Tirupur Trims & Accessories,GRN-2026-0158 against PO-1846
+2026-08-03,OUT,FAB003,Fabric Store,370.0,,,Issued to Cutting - ISS-2026-0448
+2026-08-03,OUT,FAB009,Fabric Store,302.5,,,Issued to Cutting - ISS-2026-0449
+2026-08-03,OUT,FG004,Finished Goods Store,610,,,Dispatch to Urban Threads Retail - DC-2026-0450
+2026-08-03,OUT,FG005,Finished Goods Store,30,,,Dispatch to Urban Threads Retail - DC-2026-0451
+2026-08-03,OUT,PKG003,Finished Goods Store,1230,,,Issued to Packing Section - ISS-2026-0452
+2026-08-03,OUT,PKG003,Packing Store,20,,,Issued to Packing Section - ISS-2026-0453
+2026-08-03,OUT,TRM005,Trims Store,4790,,,Issued to Stitching Line 2 - ISS-2026-0454
+2026-08-03,OUT,TRM010,Trims Store,4200,,,Issued to Stitching Line 6 - ISS-2026-0455
+2026-08-03,OUT,TRM011,Trims Store,1927.5,,,Issued to Stitching Line 4 - ISS-2026-0456
+2026-08-03,OUT,YRN008,Yarn Store,302.5,,,Issued to Knitting - ISS-2026-0457
+2026-08-04,IN,FG003,Finished Goods Store,2500,139.12,In-house Production - Unit 2,Finished lot received from production - GRN-2026-0159
+2026-08-04,IN,FG005,Finished Goods Store,2000,239.04,In-house Production - Unit 1,Finished lot received from production - GRN-2026-0160
+2026-08-04,IN,TRM002,Trims Store,1090,89.07,Ganesh Thread House,GRN-2026-0161 against PO-1594
+2026-08-04,IN,TRM007,Trims Store,9100,16.34,Universal Zipper Co,GRN-2026-0162 against PO-1491
+2026-08-04,IN,TRM011,Trims Store,12180.0,9.13,Tirupur Trims & Accessories,GRN-2026-0163 against PO-1384
+2026-08-04,OUT,FAB012,Fabric Store,235.0,,,Issued to Cutting - ISS-2026-0458
+2026-08-04,OUT,FAB013,Fabric Store,467.5,,,Issued to Cutting - ISS-2026-0459
+2026-08-04,OUT,FAB019,Fabric Store,185.0,,,Issued to Cutting - ISS-2026-0460
+2026-08-04,OUT,FG005,Finished Goods Store,820,,,Dispatch to Urban Threads Retail - DC-2026-0461
+2026-08-04,OUT,PKG001,Packing Store,50,,,Issued to Packing Section - ISS-2026-0462
+2026-08-04,OUT,PKG004,Packing Store,410,,,Issued to Packing Section - ISS-2026-0463
+2026-08-04,OUT,TRM003,Trims Store,269,,,Issued to Stitching Line 2 - ISS-2026-0464
+2026-08-04,OUT,YRN001,Yarn Store,1785.0,,,Issued to Knitting - ISS-2026-0465
+2026-08-05,IN,TRM009,Trims Store,39500,0.75,Tirupur Trims & Accessories,GRN-2026-0164 against PO-1581
+2026-08-05,IN,TRM014,Trims Store,53500,0.36,Sri Vinayaga Labels,GRN-2026-0165 against PO-1086
+2026-08-05,IN,TRM017,Trims Store,6900.0,14.68,Tirupur Trims & Accessories,GRN-2026-0166 against PO-1646
+2026-08-05,IN,YRN002,Yarn Store,2380.0,313.84,Annai Spinning Mills,GRN-2026-0167 against PO-1065
+2026-08-05,IN,YRN003,Yarn Store,6160.0,250.58,Kongu Cotton Yarn Traders,GRN-2026-0168 against PO-1719
+2026-08-05,IN,YRN010,Yarn Store,1100.0,335.72,Vel Organic Fibres,GRN-2026-0169 against PO-1183
+2026-08-05,OUT,FAB003,Fabric Store,232.5,,,Issued to Cutting - ISS-2026-0466
+2026-08-05,OUT,FAB009,Fabric Store,365.0,,,Issued to Cutting - ISS-2026-0467
+2026-08-05,OUT,FAB009,Fabric Store,332.5,,,Issued to Cutting - ISS-2026-0468
+2026-08-05,OUT,FAB010,Fabric Store,215.0,,,Issued to Cutting - ISS-2026-0469
+2026-08-05,OUT,FAB010,Fabric Store,297.5,,,Issued to Cutting - ISS-2026-0470
+2026-08-05,OUT,FAB011,Fabric Store,117.5,,,Issued to Cutting - ISS-2026-0471
+2026-08-05,OUT,FAB016,Fabric Store,95.0,,,Issued to Cutting - ISS-2026-0472
+2026-08-05,OUT,FAB020,Fabric Store,145.0,,,Issued to Cutting - ISS-2026-0473
+2026-08-05,OUT,FAB020,Fabric Store,117.5,,,Issued to Cutting - ISS-2026-0474
+2026-08-05,OUT,FAB020,Fabric Store,135.0,,,Issued to Cutting - ISS-2026-0475
+2026-08-05,OUT,FG004,Finished Goods Store,430,,,Dispatch to Sunrise Fashion Hub - DC-2026-0476
+2026-08-05,OUT,FG005,Finished Goods Store,1060,,,Dispatch to Northwind Apparel Exports - DC-2026-0477
+2026-08-05,OUT,FG008,Finished Goods Store,370,,,Dispatch to Urban Threads Retail - DC-2026-0478
+2026-08-05,OUT,PKG003,Finished Goods Store,1160,,,Issued to Packing Section - ISS-2026-0479
+2026-08-05,OUT,PKG005,Finished Goods Store,3350,,,Issued to Packing Section - ISS-2026-0480
+2026-08-05,OUT,TRM002,Trims Store,312,,,Issued to Stitching Line 6 - ISS-2026-0481
+2026-08-05,OUT,TRM006,Trims Store,1030,,,Issued to Stitching Line 4 - ISS-2026-0482
+2026-08-05,OUT,TRM011,Trims Store,2910.0,,,Issued to Stitching Line 2 - ISS-2026-0483
+2026-08-05,OUT,TRM017,Trims Store,997.5,,,Issued to Stitching Line 2 - ISS-2026-0484
+2026-08-05,OUT,YRN004,Yarn Store,515.0,,,Issued to Knitting - ISS-2026-0485
+2026-08-05,OUT,YRN004,Yarn Store,835.0,,,Issued to Knitting - ISS-2026-0486
+2026-08-05,OUT,YRN005,Yarn Store,610.0,,,Issued to Knitting - ISS-2026-0487
+2026-08-05,OUT,YRN009,Yarn Store,517.5,,,Issued to Knitting - ISS-2026-0488
+2026-08-06,IN,PKG007,Packing Store,25500,0.60,Bharath Poly Products,GRN-2026-0170 against PO-1219
+2026-08-06,OUT,FAB006,Fabric Store,300.0,,,Issued to Cutting - ISS-2026-0489
+2026-08-06,OUT,FAB008,Fabric Store,145.0,,,Issued to Cutting - ISS-2026-0490
+2026-08-06,OUT,FAB014,Fabric Store,342.5,,,Issued to Cutting - ISS-2026-0491
+2026-08-06,OUT,FAB014,Fabric Store,577.5,,,Issued to Cutting - ISS-2026-0492
+2026-08-06,OUT,FAB018,Fabric Store,647.5,,,Issued to Cutting - ISS-2026-0493
+2026-08-06,OUT,FG003,Finished Goods Store,1520,,,Dispatch to Urban Threads Retail - DC-2026-0494
+2026-08-06,OUT,PKG002,Packing Store,6150,,,Issued to Packing Section - ISS-2026-0495
+2026-08-06,OUT,PKG005,Packing Store,5500,,,Issued to Packing Section - ISS-2026-0496
+2026-08-06,OUT,PKG008,Packing Store,1650,,,Issued to Packing Section - ISS-2026-0497
+2026-08-06,OUT,TRM006,Trims Store,1170,,,Issued to Stitching Line 6 - ISS-2026-0498
+2026-08-06,OUT,TRM017,Trims Store,702.5,,,Issued to Stitching Line 8 - ISS-2026-0499
+2026-08-06,OUT,TRM018,Trims Store,3150,,,Issued to Stitching Line 2 - ISS-2026-0500
+2026-08-07,IN,FAB002,Fabric Store,2230.0,379.09,Sakthi Dyeing & Processing,GRN-2026-0171 against PO-1483
+2026-08-07,IN,FAB019,Fabric Store,1360.0,383.71,Perumal Knit Fabrics,GRN-2026-0172 against PO-1546
+2026-08-07,IN,FG006,Finished Goods Store,1300,432.85,In-house Production - Unit 2,Finished lot received from production - GRN-2026-0173
+2026-08-07,IN,PKG004,Packing Store,1800,67.87,Kaveri Packaging Industries,GRN-2026-0174 against PO-1424
+2026-08-07,IN,TRM005,Trims Store,9700,11.25,Universal Zipper Co,GRN-2026-0175 against PO-1376
+2026-08-07,IN,TRM009,Trims Store,51500,0.77,Tirupur Trims & Accessories,GRN-2026-0176 against PO-1659
+2026-08-07,OUT,FAB001,Fabric Store,632.5,,,Issued to Cutting - ISS-2026-0501
+2026-08-07,OUT,FAB007,Fabric Store,40.0,,,Issued to Cutting - ISS-2026-0502
+2026-08-07,OUT,FAB008,Fabric Store,100.0,,,Issued to Cutting - ISS-2026-0503
+2026-08-07,OUT,FG005,Finished Goods Store,90,,,Dispatch to Sunrise Fashion Hub - DC-2026-0504
+2026-08-07,OUT,PKG006,Packing Store,140,,,Issued to Packing Section - ISS-2026-0505
+2026-08-07,OUT,PKG009,Packing Store,89,,,Issued to Packing Section - ISS-2026-0506
+2026-08-07,OUT,PKG009,Packing Store,143,,,Issued to Packing Section - ISS-2026-0507
+2026-08-07,OUT,TRM008,Trims Store,25700,,,Issued to Stitching Line 2 - ISS-2026-0508
+2026-08-07,OUT,TRM010,Trims Store,2950,,,Issued to Stitching Line 1 - ISS-2026-0509
+2026-08-07,OUT,TRM015,Trims Store,5300,,,Issued to Stitching Line 1 - ISS-2026-0510
+2026-08-07,OUT,TRM018,Trims Store,2950,,,Issued to Stitching Line 7 - ISS-2026-0511
+2026-08-07,OUT,YRN003,Yarn Store,865.0,,,Issued to Knitting - ISS-2026-0512
+2026-08-07,OUT,YRN005,Yarn Store,610.0,,,Issued to Knitting - ISS-2026-0513
+2026-08-07,OUT,YRN006,Yarn Store,267.5,,,Issued to Knitting - ISS-2026-0514
+2026-08-08,IN,FAB002,Fabric Store,2500.0,365.73,Sakthi Dyeing & Processing,GRN-2026-0177 against PO-1439
+2026-08-08,IN,FAB007,Fabric Store,1920.0,395.36,Perumal Knit Fabrics,GRN-2026-0178 against PO-1189
+2026-08-08,IN,FAB011,Fabric Store,2030.0,390.35,Perumal Knit Fabrics,GRN-2026-0179 against PO-1936
+2026-08-08,IN,FG001,Finished Goods Store,4100,117.80,In-house Production - Unit 2,Finished lot received from production - GRN-2026-0180
+2026-08-08,IN,PKG002,Packing Store,44000,1.84,Bharath Poly Products,GRN-2026-0181 against PO-1751
+2026-08-08,IN,TRM002,Trims Store,960,95.72,Ganesh Thread House,GRN-2026-0182 against PO-1203
+2026-08-08,OUT,FAB004,Fabric Store,27.5,,,Issued to Cutting - ISS-2026-0515
+2026-08-08,OUT,FAB005,Fabric Store,272.5,,,Issued to Cutting - ISS-2026-0516
+2026-08-08,OUT,FAB009,Fabric Store,270.0,,,Issued to Cutting - ISS-2026-0517
+2026-08-08,OUT,FAB019,Fabric Store,340.0,,,Issued to Cutting - ISS-2026-0518
+2026-08-08,OUT,PKG001,Finished Goods Store,14500,,,Issued to Packing Section - ISS-2026-0519
+2026-08-08,OUT,PKG003,Packing Store,10,,,Issued to Packing Section - ISS-2026-0520
+2026-08-08,OUT,PKG006,Packing Store,135,,,Issued to Packing Section - ISS-2026-0521
+2026-08-08,OUT,PKG010,Packing Store,1650,,,Issued to Packing Section - ISS-2026-0522
+2026-08-08,OUT,TRM002,Trims Store,349,,,Issued to Stitching Line 4 - ISS-2026-0523
+2026-08-08,OUT,TRM008,Trims Store,24050,,,Issued to Stitching Line 5 - ISS-2026-0524
+2026-08-08,OUT,TRM008,Trims Store,21000,,,Issued to Stitching Line 6 - ISS-2026-0525
+2026-08-08,OUT,TRM015,Trims Store,4100,,,Issued to Stitching Line 6 - ISS-2026-0526
+2026-08-08,OUT,TRM015,Trims Store,7450,,,Issued to Stitching Line 2 - ISS-2026-0527
+2026-08-08,OUT,TRM016,Trims Store,3572.5,,,Issued to Stitching Line 3 - ISS-2026-0528
+2026-08-08,OUT,TRM017,Trims Store,1280.0,,,Issued to Stitching Line 8 - ISS-2026-0529
+2026-08-08,OUT,YRN002,Yarn Store,857.5,,,Issued to Knitting - ISS-2026-0530
+2026-08-08,OUT,YRN004,Yarn Store,992.5,,,Issued to Knitting - ISS-2026-0531
+2026-08-08,OUT,YRN009,Yarn Store,345.0,,,Issued to Knitting - ISS-2026-0532
+2026-08-09,IN,PKG003,Packing Store,5100,40.55,Kaveri Packaging Industries,GRN-2026-0183 against PO-1791
+2026-08-09,IN,PKG009,Packing Store,450,47.86,Bharath Poly Products,GRN-2026-0184 against PO-1161
+2026-08-09,IN,TRM018,Trims Store,14000,1.80,Tirupur Trims & Accessories,GRN-2026-0185 against PO-1046
+2026-08-09,OUT,FAB002,Fabric Store,800.0,,,Issued to Cutting - ISS-2026-0533
+2026-08-09,OUT,FAB005,Fabric Store,152.5,,,Issued to Cutting - ISS-2026-0534
+2026-08-09,OUT,FAB010,Fabric Store,182.5,,,Issued to Cutting - ISS-2026-0535
+2026-08-09,OUT,FAB011,Fabric Store,230.0,,,Issued to Cutting - ISS-2026-0536
+2026-08-09,OUT,PKG008,Packing Store,1550,,,Issued to Packing Section - ISS-2026-0537
+2026-08-09,OUT,PKG009,Packing Store,118,,,Issued to Packing Section - ISS-2026-0538
+2026-08-09,OUT,TRM003,Trims Store,347,,,Issued to Stitching Line 4 - ISS-2026-0539
+2026-08-09,OUT,TRM005,Trims Store,2310,,,Issued to Stitching Line 1 - ISS-2026-0540
+2026-08-09,OUT,TRM012,Trims Store,5062.5,,,Issued to Stitching Line 3 - ISS-2026-0541
+2026-08-09,OUT,TRM016,Trims Store,2897.5,,,Issued to Stitching Line 4 - ISS-2026-0542
+2026-08-09,OUT,TRM017,Trims Store,852.5,,,Issued to Stitching Line 3 - ISS-2026-0543
+2026-08-09,OUT,TRM018,Trims Store,3350,,,Issued to Stitching Line 6 - ISS-2026-0544
+2026-08-09,OUT,YRN003,Yarn Store,1180.0,,,Issued to Knitting - ISS-2026-0545
+2026-08-10,IN,FAB002,Fabric Store,1500.0,376.73,Perumal Knit Fabrics,GRN-2026-0186 against PO-1795
+2026-08-10,IN,FG004,Finished Goods Store,900,252.12,In-house Production - Unit 2,Finished lot received from production - GRN-2026-0187
+2026-08-10,OUT,FAB004,Fabric Store,2.5,,,Issued to Cutting - ISS-2026-0546
+2026-08-10,OUT,FAB012,Fabric Store,177.5,,,Issued to Cutting - ISS-2026-0547
+2026-08-10,OUT,FAB013,Fabric Store,315.0,,,Issued to Cutting - ISS-2026-0548
+2026-08-10,OUT,FAB013,Fabric Store,547.5,,,Issued to Cutting - ISS-2026-0549
+2026-08-10,OUT,FAB017,Fabric Store,1322.5,,,Issued to Cutting - ISS-2026-0550
+2026-08-10,OUT,FG002,Finished Goods Store,110,,,Dispatch to Sunrise Fashion Hub - DC-2026-0551
+2026-08-10,OUT,FG004,Finished Goods Store,470,,,Dispatch to Urban Threads Retail - DC-2026-0552
+2026-08-10,OUT,FG005,Finished Goods Store,30,,,Dispatch to Sunrise Fashion Hub - DC-2026-0553
+2026-08-10,OUT,PKG002,Packing Store,7200,,,Issued to Packing Section - ISS-2026-0554
+2026-08-10,OUT,PKG002,Packing Store,8000,,,Issued to Packing Section - ISS-2026-0555
+2026-08-10,OUT,PKG003,Packing Store,770,,,Issued to Packing Section - ISS-2026-0556
+2026-08-10,OUT,PKG006,Packing Store,116,,,Issued to Packing Section - ISS-2026-0557
+2026-08-10,OUT,PKG009,Packing Store,162,,,Issued to Packing Section - ISS-2026-0558
+2026-08-10,OUT,TRM011,Trims Store,4025.0,,,Issued to Stitching Line 5 - ISS-2026-0559
+2026-08-11,IN,FAB015,Fabric Store,5620.0,246.20,Coimbatore Denim Works,GRN-2026-0188 against PO-1016
+2026-08-11,IN,FG005,Finished Goods Store,1700,237.07,In-house Production - Unit 1,Finished lot received from production - GRN-2026-0189
+2026-08-11,IN,PKG001,Packing Store,58000,1.45,Kaveri Packaging Industries,GRN-2026-0190 against PO-1482
+2026-08-11,OUT,FAB002,Fabric Store,427.5,,,Issued to Cutting - ISS-2026-0560
+2026-08-11,OUT,FAB002,Fabric Store,730.0,,,Issued to Cutting - ISS-2026-0561
+2026-08-11,OUT,FAB008,Fabric Store,130.0,,,Issued to Cutting - ISS-2026-0562
+2026-08-11,OUT,FAB019,Fabric Store,217.5,,,Issued to Cutting - ISS-2026-0563
+2026-08-11,OUT,FG007,Finished Goods Store,980,,,Dispatch to Kidz Corner Stores - DC-2026-0564
+2026-08-11,OUT,PKG004,Packing Store,560,,,Issued to Packing Section - ISS-2026-0565
+2026-08-11,OUT,PKG004,Packing Store,770,,,Issued to Packing Section - ISS-2026-0566
+2026-08-11,OUT,PKG007,Packing Store,2650,,,Issued to Packing Section - ISS-2026-0567
+2026-08-11,OUT,PKG008,Packing Store,1750,,,Issued to Packing Section - ISS-2026-0568
+2026-08-11,OUT,PKG009,Packing Store,65,,,Issued to Packing Section - ISS-2026-0569
+2026-08-11,OUT,TRM001,Trims Store,198,,,Issued to Stitching Line 1 - ISS-2026-0570
+2026-08-11,OUT,TRM004,Trims Store,58,,,Issued to Stitching Line 8 - ISS-2026-0571
+2026-08-11,OUT,TRM007,Trims Store,2990,,,Issued to Stitching Line 8 - ISS-2026-0572
+2026-08-11,OUT,TRM013,Trims Store,400,,,Issued to Stitching Line 3 - ISS-2026-0573
+2026-08-11,OUT,YRN010,Yarn Store,460.0,,,Issued to Knitting - ISS-2026-0574
+2026-08-12,IN,YRN010,Yarn Store,1010.0,351.32,Vel Organic Fibres,GRN-2026-0191 against PO-1527
+2026-08-12,OUT,FAB003,Fabric Store,657.5,,,Issued to Cutting - ISS-2026-0575
+2026-08-12,OUT,FAB009,Fabric Store,205.0,,,Issued to Cutting - ISS-2026-0576
+2026-08-12,OUT,FAB013,Fabric Store,467.5,,,Issued to Cutting - ISS-2026-0577
+2026-08-12,OUT,FG002,Finished Goods Store,20,,,Dispatch to Northwind Apparel Exports - DC-2026-0578
+2026-08-12,OUT,PKG001,Packing Store,24600,,,Issued to Packing Section - ISS-2026-0579
+2026-08-12,OUT,PKG002,Packing Store,4800,,,Issued to Packing Section - ISS-2026-0580
+2026-08-12,OUT,TRM003,Trims Store,212,,,Issued to Stitching Line 6 - ISS-2026-0581
+2026-08-12,OUT,TRM008,Trims Store,29000,,,Issued to Stitching Line 8 - ISS-2026-0582
+2026-08-12,OUT,TRM008,Trims Store,43450,,,Issued to Stitching Line 3 - ISS-2026-0583
+2026-08-12,OUT,TRM010,Trims Store,4400,,,Issued to Stitching Line 4 - ISS-2026-0584
+2026-08-12,OUT,TRM011,Trims Store,4492.5,,,Issued to Stitching Line 8 - ISS-2026-0585
+2026-08-12,OUT,TRM016,Trims Store,1717.5,,,Issued to Stitching Line 4 - ISS-2026-0586
+2026-08-12,OUT,TRM018,Trims Store,3400,,,Issued to Stitching Line 4 - ISS-2026-0587
+2026-08-13,IN,TRM005,Trims Store,8100,11.20,Universal Zipper Co,GRN-2026-0192 against PO-1084
+2026-08-13,IN,TRM014,Trims Store,65500,0.34,Sri Vinayaga Labels,GRN-2026-0193 against PO-1152
+2026-08-13,OUT,FAB003,Fabric Store,285.0,,,Issued to Cutting - ISS-2026-0588
+2026-08-13,OUT,FAB003,Fabric Store,412.5,,,Issued to Cutting - ISS-2026-0589
+2026-08-13,OUT,FAB008,Fabric Store,107.5,,,Issued to Cutting - ISS-2026-0590
+2026-08-13,OUT,FAB008,Fabric Store,205.0,,,Issued to Cutting - ISS-2026-0591
+2026-08-13,OUT,FAB008,Fabric Store,87.5,,,Issued to Cutting - ISS-2026-0592
+2026-08-13,OUT,FAB011,Fabric Store,172.5,,,Issued to Cutting - ISS-2026-0593
+2026-08-13,OUT,FAB012,Fabric Store,240.0,,,Issued to Cutting - ISS-2026-0594
+2026-08-13,OUT,FAB017,Fabric Store,1407.5,,,Issued to Cutting - ISS-2026-0595
+2026-08-13,OUT,FG008,Finished Goods Store,240,,,Dispatch to Urban Threads Retail - DC-2026-0596
+2026-08-13,OUT,PKG001,Finished Goods Store,17150,,,Issued to Packing Section - ISS-2026-0597
+2026-08-13,OUT,PKG002,Packing Store,9000,,,Issued to Packing Section - ISS-2026-0598
+2026-08-13,OUT,PKG003,Packing Store,910,,,Issued to Packing Section - ISS-2026-0599
+2026-08-13,OUT,PKG008,Packing Store,2300,,,Issued to Packing Section - ISS-2026-0600
+2026-08-13,OUT,TRM002,Trims Store,381,,,Issued to Stitching Line 7 - ISS-2026-0601
+2026-08-13,OUT,TRM002,Trims Store,249,,,Issued to Stitching Line 1 - ISS-2026-0602
+2026-08-13,OUT,TRM006,Trims Store,580,,,Issued to Stitching Line 2 - ISS-2026-0603
+2026-08-13,OUT,TRM009,Trims Store,19700,,,Issued to Stitching Line 4 - ISS-2026-0604
+2026-08-13,OUT,TRM015,Trims Store,4950,,,Issued to Stitching Line 5 - ISS-2026-0605
+2026-08-13,OUT,TRM018,Trims Store,1800,,,Issued to Stitching Line 1 - ISS-2026-0606
+2026-08-13,OUT,YRN004,Yarn Store,52.5,,,Issued to Knitting - ISS-2026-0607
+2026-08-13,OUT,YRN005,Yarn Store,572.5,,,Issued to Knitting - ISS-2026-0608
+2026-08-14,IN,FAB004,Fabric Store,3010.0,357.41,Perumal Knit Fabrics,GRN-2026-0194 against PO-1288
+2026-08-14,IN,FG002,Finished Goods Store,2700,199.98,In-house Production - Unit 1,Finished lot received from production - GRN-2026-0195
+2026-08-14,IN,PKG004,Packing Store,2180,65.96,Kaveri Packaging Industries,GRN-2026-0196 against PO-1918
+2026-08-14,IN,YRN002,Yarn Store,2880.0,308.11,Kongu Cotton Yarn Traders,GRN-2026-0197 against PO-1976
+2026-08-14,IN,YRN009,Yarn Store,1440.0,222.95,Kongu Cotton Yarn Traders,GRN-2026-0198 against PO-1364
+2026-08-14,OUT,FAB006,Fabric Store,272.5,,,Issued to Cutting - ISS-2026-0609
+2026-08-14,OUT,FAB011,Fabric Store,272.5,,,Issued to Cutting - ISS-2026-0610
+2026-08-14,OUT,FAB012,Fabric Store,282.5,,,Issued to Cutting - ISS-2026-0611
+2026-08-14,OUT,FAB015,Fabric Store,2675.0,,,Issued to Cutting - ISS-2026-0612
+2026-08-14,OUT,FAB016,Fabric Store,20.0,,,Issued to Cutting - ISS-2026-0613
+2026-08-14,OUT,FAB020,Fabric Store,100.0,,,Issued to Cutting - ISS-2026-0614
+2026-08-14,OUT,FG006,Finished Goods Store,260,,,Dispatch to Sunrise Fashion Hub - DC-2026-0615
+2026-08-14,OUT,PKG002,Packing Store,9900,,,Issued to Packing Section - ISS-2026-0616
+2026-08-14,OUT,PKG002,Packing Store,6600,,,Issued to Packing Section - ISS-2026-0617
+2026-08-14,OUT,TRM005,Trims Store,4980,,,Issued to Stitching Line 7 - ISS-2026-0618
+2026-08-14,OUT,TRM007,Trims Store,3910,,,Issued to Stitching Line 6 - ISS-2026-0619
+2026-08-14,OUT,TRM009,Trims Store,8250,,,Issued to Stitching Line 7 - ISS-2026-0620
+2026-08-14,OUT,TRM010,Trims Store,5700,,,Issued to Stitching Line 6 - ISS-2026-0621
+2026-08-14,OUT,TRM015,Trims Store,3650,,,Issued to Stitching Line 5 - ISS-2026-0622
+2026-08-14,OUT,TRM017,Trims Store,1375.0,,,Issued to Stitching Line 8 - ISS-2026-0623
+2026-08-14,OUT,YRN002,Yarn Store,712.5,,,Issued to Knitting - ISS-2026-0624
+2026-08-14,OUT,YRN005,Yarn Store,240.0,,,Issued to Knitting - ISS-2026-0625
+2026-08-14,OUT,YRN008,Yarn Store,280.0,,,Issued to Knitting - ISS-2026-0626
+2026-08-15,IN,FAB011,Fabric Store,2120.0,378.73,Sakthi Dyeing & Processing,GRN-2026-0199 against PO-1060
+2026-08-15,IN,FAB013,Fabric Store,1500.0,417.44,Sakthi Dyeing & Processing,GRN-2026-0200 against PO-1652
+2026-08-15,IN,TRM015,Trims Store,47500,0.31,Sri Vinayaga Labels,GRN-2026-0201 against PO-1391
+2026-08-15,OUT,FAB003,Fabric Store,547.5,,,Issued to Cutting - ISS-2026-0627
+2026-08-15,OUT,FAB005,Fabric Store,225.0,,,Issued to Cutting - ISS-2026-0628
+2026-08-15,OUT,FAB006,Fabric Store,170.0,,,Issued to Cutting - ISS-2026-0629
+2026-08-15,OUT,FAB014,Fabric Store,410.0,,,Issued to Cutting - ISS-2026-0630
+2026-08-15,OUT,FAB014,Fabric Store,267.5,,,Issued to Cutting - ISS-2026-0631
+2026-08-15,OUT,FAB017,Fabric Store,730.0,,,Issued to Cutting - ISS-2026-0632
+2026-08-15,OUT,FAB019,Fabric Store,150.0,,,Issued to Cutting - ISS-2026-0633
+2026-08-15,OUT,FG002,Finished Goods Store,870,,,Dispatch to Sunrise Fashion Hub - DC-2026-0634
+2026-08-15,OUT,FG004,Finished Goods Store,310,,,Dispatch to Sunrise Fashion Hub - DC-2026-0635
+2026-08-15,OUT,FG008,Finished Goods Store,250,,,Dispatch to Urban Threads Retail - DC-2026-0636
+2026-08-15,OUT,PKG004,Packing Store,650,,,Issued to Packing Section - ISS-2026-0637
+2026-08-15,OUT,TRM002,Trims Store,339,,,Issued to Stitching Line 6 - ISS-2026-0638
+2026-08-15,OUT,TRM006,Trims Store,280,,,Issued to Stitching Line 8 - ISS-2026-0639
+2026-08-15,OUT,TRM009,Trims Store,16300,,,Issued to Stitching Line 7 - ISS-2026-0640
+2026-08-15,OUT,TRM010,Trims Store,3950,,,Issued to Stitching Line 5 - ISS-2026-0641
+2026-08-15,OUT,TRM011,Trims Store,3030.0,,,Issued to Stitching Line 2 - ISS-2026-0642
+2026-08-15,OUT,YRN005,Yarn Store,75.0,,,Issued to Knitting - ISS-2026-0643
+2026-08-16,IN,TRM004,Trims Store,380,78.29,Ganesh Thread House,GRN-2026-0202 against PO-1545
+2026-08-16,IN,TRM014,Trims Store,60000,0.35,Sri Vinayaga Labels,GRN-2026-0203 against PO-1046
+2026-08-16,IN,TRM016,Trims Store,7490.0,37.64,Tirupur Trims & Accessories,GRN-2026-0204 against PO-1048
+2026-08-16,IN,YRN001,Yarn Store,4790.0,275.91,Annai Spinning Mills,GRN-2026-0205 against PO-1202
+2026-08-16,IN,YRN007,Yarn Store,390.0,732.02,Annai Spinning Mills,GRN-2026-0206 against PO-1317
+2026-08-16,OUT,FAB001,Fabric Store,492.5,,,Issued to Cutting - ISS-2026-0644
+2026-08-16,OUT,FAB012,Fabric Store,200.0,,,Issued to Cutting - ISS-2026-0645
+2026-08-16,OUT,FAB016,Fabric Store,5.0,,,Issued to Cutting - ISS-2026-0646
+2026-08-16,OUT,FG001,Finished Goods Store,2220,,,Dispatch to Sunrise Fashion Hub - DC-2026-0647
+2026-08-16,OUT,FG006,Finished Goods Store,630,,,Dispatch to Sunrise Fashion Hub - DC-2026-0648
+2026-08-16,OUT,PKG006,Packing Store,150,,,Issued to Packing Section - ISS-2026-0649
+2026-08-16,OUT,PKG007,Packing Store,2500,,,Issued to Packing Section - ISS-2026-0650
+2026-08-16,OUT,PKG008,Packing Store,2900,,,Issued to Packing Section - ISS-2026-0651
+2026-08-16,OUT,TRM003,Trims Store,292,,,Issued to Stitching Line 3 - ISS-2026-0652
+2026-08-16,OUT,TRM004,Trims Store,126,,,Issued to Stitching Line 6 - ISS-2026-0653
+2026-08-16,OUT,TRM010,Trims Store,3150,,,Issued to Stitching Line 7 - ISS-2026-0654
+2026-08-16,OUT,TRM010,Trims Store,5600,,,Issued to Stitching Line 2 - ISS-2026-0655
+2026-08-16,OUT,TRM011,Trims Store,2010.0,,,Issued to Stitching Line 6 - ISS-2026-0656
+2026-08-16,OUT,YRN008,Yarn Store,487.5,,,Issued to Knitting - ISS-2026-0657
+2026-08-16,OUT,YRN008,Yarn Store,25.0,,,Issued to Knitting - ISS-2026-0658
+2026-08-16,OUT,YRN009,Yarn Store,385.0,,,Issued to Knitting - ISS-2026-0659
+2026-08-17,IN,FG001,Finished Goods Store,2800,114.19,In-house Production - Unit 2,Finished lot received from production - GRN-2026-0207
+2026-08-17,IN,PKG001,Finished Goods Store,18500,1.45,Kaveri Packaging Industries,GRN-2026-0208 against PO-1097
+2026-08-17,IN,TRM007,Trims Store,9300,16.37,Universal Zipper Co,GRN-2026-0209 against PO-1482
+2026-08-17,IN,YRN002,Yarn Store,2910.0,301.49,Kongu Cotton Yarn Traders,GRN-2026-0210 against PO-1953
+2026-08-17,IN,YRN007,Yarn Store,380.0,714.24,Kongu Cotton Yarn Traders,GRN-2026-0211 against PO-1326
+2026-08-17,OUT,FAB006,Fabric Store,297.5,,,Issued to Cutting - ISS-2026-0660
+2026-08-17,OUT,FAB008,Fabric Store,170.0,,,Issued to Cutting - ISS-2026-0661
+2026-08-17,OUT,FAB011,Fabric Store,152.5,,,Issued to Cutting - ISS-2026-0662
+2026-08-17,OUT,FAB011,Fabric Store,130.0,,,Issued to Cutting - ISS-2026-0663
+2026-08-17,OUT,FAB015,Fabric Store,1367.5,,,Issued to Cutting - ISS-2026-0664
+2026-08-17,OUT,FAB017,Fabric Store,932.5,,,Issued to Cutting - ISS-2026-0665
+2026-08-17,OUT,FAB018,Fabric Store,1197.5,,,Issued to Cutting - ISS-2026-0666
+2026-08-17,OUT,PKG001,Packing Store,11350,,,Issued to Packing Section - ISS-2026-0667
+2026-08-17,OUT,PKG004,Packing Store,690,,,Issued to Packing Section - ISS-2026-0668
+2026-08-17,OUT,PKG005,Packing Store,2600,,,Issued to Packing Section - ISS-2026-0669
+2026-08-17,OUT,TRM003,Trims Store,299,,,Issued to Stitching Line 1 - ISS-2026-0670
+2026-08-17,OUT,TRM016,Trims Store,1415.0,,,Issued to Stitching Line 8 - ISS-2026-0671
+2026-08-17,OUT,TRM018,Trims Store,1650,,,Issued to Stitching Line 6 - ISS-2026-0672
+2026-08-17,OUT,YRN010,Yarn Store,270.0,,,Issued to Knitting - ISS-2026-0673
+2026-08-18,IN,FG008,Finished Goods Store,1300,281.81,In-house Production - Unit 1,Finished lot received from production - GRN-2026-0212
+2026-08-18,IN,TRM009,Trims Store,61000,0.77,Tirupur Trims & Accessories,GRN-2026-0213 against PO-1453
+2026-08-18,OUT,FAB005,Fabric Store,140.0,,,Issued to Cutting - ISS-2026-0674
+2026-08-18,OUT,FAB006,Fabric Store,150.0,,,Issued to Cutting - ISS-2026-0675
+2026-08-18,OUT,FAB007,Fabric Store,370.0,,,Issued to Cutting - ISS-2026-0676
+2026-08-18,OUT,FAB018,Fabric Store,477.5,,,Issued to Cutting - ISS-2026-0677
+2026-08-18,OUT,FG001,Finished Goods Store,3840,,,Dispatch to Northwind Apparel Exports - DC-2026-0678
+2026-08-18,OUT,PKG004,Packing Store,680,,,Issued to Packing Section - ISS-2026-0679
+2026-08-18,OUT,PKG006,Packing Store,66,,,Issued to Packing Section - ISS-2026-0680
+2026-08-18,OUT,PKG007,Packing Store,2950,,,Issued to Packing Section - ISS-2026-0681
+2026-08-18,OUT,PKG007,Packing Store,2450,,,Issued to Packing Section - ISS-2026-0682
+2026-08-18,OUT,PKG010,Packing Store,350,,,Issued to Packing Section - ISS-2026-0683
+2026-08-18,OUT,TRM001,Trims Store,337,,,Issued to Stitching Line 2 - ISS-2026-0684
+2026-08-18,OUT,TRM002,Trims Store,512,,,Issued to Stitching Line 7 - ISS-2026-0685
+2026-08-18,OUT,TRM003,Trims Store,346,,,Issued to Stitching Line 3 - ISS-2026-0686
+2026-08-18,OUT,TRM006,Trims Store,90,,,Issued to Stitching Line 5 - ISS-2026-0687
+2026-08-18,OUT,TRM009,Trims Store,20700,,,Issued to Stitching Line 4 - ISS-2026-0688
+2026-08-18,OUT,TRM018,Trims Store,3450,,,Issued to Stitching Line 7 - ISS-2026-0689
+2026-08-18,OUT,YRN001,Yarn Store,1147.5,,,Issued to Knitting - ISS-2026-0690
+2026-08-18,OUT,YRN006,Yarn Store,460.0,,,Issued to Knitting - ISS-2026-0691
+2026-08-18,OUT,YRN007,Yarn Store,90.0,,,Issued to Knitting - ISS-2026-0692
+2026-08-19,OUT,FAB008,Fabric Store,187.5,,,Issued to Cutting - ISS-2026-0693
+2026-08-19,OUT,PKG004,Packing Store,340,,,Issued to Packing Section - ISS-2026-0694
+2026-08-19,OUT,PKG005,Packing Store,750,,,Issued to Packing Section - ISS-2026-0695
+2026-08-19,OUT,PKG006,Packing Store,156,,,Issued to Packing Section - ISS-2026-0696
+2026-08-19,OUT,TRM002,Trims Store,426,,,Issued to Stitching Line 7 - ISS-2026-0697
+2026-08-19,OUT,TRM003,Trims Store,145,,,Issued to Stitching Line 8 - ISS-2026-0698
+2026-08-19,OUT,TRM016,Trims Store,3485.0,,,Issued to Stitching Line 5 - ISS-2026-0699
+2026-08-19,OUT,TRM016,Trims Store,2145.0,,,Issued to Stitching Line 6 - ISS-2026-0700
+2026-08-19,OUT,YRN002,Yarn Store,400.0,,,Issued to Knitting - ISS-2026-0701
+2026-08-19,OUT,YRN009,Yarn Store,295.0,,,Issued to Knitting - ISS-2026-0702
+2026-08-20,IN,FAB004,Fabric Store,2940.0,366.54,Perumal Knit Fabrics,GRN-2026-0214 against PO-1209
+2026-08-20,IN,FG002,Finished Goods Store,3000,209.78,In-house Production - Unit 1,Finished lot received from production - GRN-2026-0215
+2026-08-20,IN,TRM006,Trims Store,4200,13.44,Universal Zipper Co,GRN-2026-0216 against PO-1486
+2026-08-20,IN,TRM013,Trims Store,37000,0.87,Sri Vinayaga Labels,GRN-2026-0217 against PO-1033
+2026-08-20,IN,YRN005,Yarn Store,1650.0,117.26,Balaji Polyester Yarns,GRN-2026-0218 against PO-1681
+2026-08-20,OUT,FAB001,Fabric Store,830.0,,,Issued to Cutting - ISS-2026-0703
+2026-08-20,OUT,FAB007,Fabric Store,500.0,,,Issued to Cutting - ISS-2026-0704
+2026-08-20,OUT,FAB011,Fabric Store,297.5,,,Issued to Cutting - ISS-2026-0705
+2026-08-20,OUT,FG003,Finished Goods Store,600,,,Dispatch to Sunrise Fashion Hub - DC-2026-0706
+2026-08-20,OUT,FG005,Finished Goods Store,1340,,,Dispatch to Sunrise Fashion Hub - DC-2026-0707
+2026-08-20,OUT,PKG005,Packing Store,300,,,Issued to Packing Section - ISS-2026-0708
+2026-08-20,OUT,PKG010,Packing Store,300,,,Issued to Packing Section - ISS-2026-0709
+2026-08-20,OUT,TRM009,Trims Store,14950,,,Issued to Stitching Line 3 - ISS-2026-0710
+2026-08-20,OUT,TRM012,Trims Store,1972.5,,,Issued to Stitching Line 3 - ISS-2026-0711
+2026-08-20,OUT,TRM015,Trims Store,3150,,,Issued to Stitching Line 1 - ISS-2026-0712
+2026-08-20,OUT,TRM018,Trims Store,3300,,,Issued to Stitching Line 5 - ISS-2026-0713
+2026-08-20,OUT,YRN005,Yarn Store,332.5,,,Issued to Knitting - ISS-2026-0714
+2026-08-20,OUT,YRN006,Yarn Store,330.0,,,Issued to Knitting - ISS-2026-0715
+2026-08-20,OUT,YRN010,Yarn Store,447.5,,,Issued to Knitting - ISS-2026-0716
+2026-08-21,IN,FAB009,Fabric Store,2600.0,379.56,Sakthi Dyeing & Processing,GRN-2026-0219 against PO-1496
+2026-08-21,IN,FG002,Finished Goods Store,1900,201.84,In-house Production - Unit 1,Finished lot received from production - GRN-2026-0220
+2026-08-21,IN,FG004,Finished Goods Store,1100,264.16,In-house Production - Unit 2,Finished lot received from production - GRN-2026-0221
+2026-08-21,IN,TRM012,Trims Store,18850.0,4.39,Tirupur Trims & Accessories,GRN-2026-0222 against PO-1174
+2026-08-21,IN,YRN009,Yarn Store,1120.0,243.02,Annai Spinning Mills,GRN-2026-0223 against PO-1529
+2026-08-21,OUT,FAB006,Fabric Store,307.5,,,Issued to Cutting - ISS-2026-0717
+2026-08-21,OUT,FAB007,Fabric Store,520.0,,,Issued to Cutting - ISS-2026-0718
+2026-08-21,OUT,FAB010,Fabric Store,397.5,,,Issued to Cutting - ISS-2026-0719
+2026-08-21,OUT,FG003,Finished Goods Store,820,,,Dispatch to Urban Threads Retail - DC-2026-0720
+2026-08-21,OUT,FG004,Finished Goods Store,510,,,Dispatch to Sunrise Fashion Hub - DC-2026-0721
+2026-08-21,OUT,FG004,Finished Goods Store,400,,,Dispatch to Sunrise Fashion Hub - DC-2026-0722
+2026-08-21,OUT,PKG009,Packing Store,115,,,Issued to Packing Section - ISS-2026-0723
+2026-08-21,OUT,TRM001,Trims Store,330,,,Issued to Stitching Line 7 - ISS-2026-0724
+2026-08-21,OUT,TRM012,Trims Store,3950.0,,,Issued to Stitching Line 1 - ISS-2026-0725
+2026-08-21,OUT,TRM013,Trims Store,13500,,,Issued to Stitching Line 4 - ISS-2026-0726
+2026-08-21,OUT,TRM015,Trims Store,7550,,,Issued to Stitching Line 8 - ISS-2026-0727
+2026-08-21,OUT,YRN001,Yarn Store,1882.5,,,Issued to Knitting - ISS-2026-0728
+2026-08-21,OUT,YRN002,Yarn Store,365.0,,,Issued to Knitting - ISS-2026-0729
+2026-08-22,IN,FAB016,Fabric Store,4180.0,125.13,Om Sai Fabrics,GRN-2026-0224 against PO-1155
+2026-08-22,IN,PKG001,Packing Store,70500,1.45,Srinivasa Carton Works,GRN-2026-0225 against PO-1258
+2026-08-22,IN,YRN008,Yarn Store,1980.0,261.54,Annai Spinning Mills,GRN-2026-0226 against PO-1651
+2026-08-22,OUT,FAB002,Fabric Store,520.0,,,Issued to Cutting - ISS-2026-0730
+2026-08-22,OUT,FAB005,Fabric Store,120.0,,,Issued to Cutting - ISS-2026-0731
+2026-08-22,OUT,FAB009,Fabric Store,775.0,,,Issued to Cutting - ISS-2026-0732
+2026-08-22,OUT,FAB012,Fabric Store,257.5,,,Issued to Cutting - ISS-2026-0733
+2026-08-22,OUT,FAB020,Fabric Store,95.0,,,Issued to Cutting - ISS-2026-0734
+2026-08-22,OUT,FG001,Finished Goods Store,3580,,,Dispatch to Sunrise Fashion Hub - DC-2026-0735
+2026-08-22,OUT,FG008,Finished Goods Store,290,,,Dispatch to Northwind Apparel Exports - DC-2026-0736
+2026-08-22,OUT,PKG005,Finished Goods Store,4550,,,Issued to Packing Section - ISS-2026-0737
+2026-08-22,OUT,PKG007,Packing Store,2650,,,Issued to Packing Section - ISS-2026-0738
+2026-08-22,OUT,TRM006,Trims Store,780,,,Issued to Stitching Line 8 - ISS-2026-0739
+2026-08-22,OUT,TRM009,Trims Store,20100,,,Issued to Stitching Line 7 - ISS-2026-0740
+2026-08-22,OUT,TRM017,Trims Store,1292.5,,,Issued to Stitching Line 8 - ISS-2026-0741
+2026-08-22,OUT,YRN005,Yarn Store,267.5,,,Issued to Knitting - ISS-2026-0742
+2026-08-23,IN,FAB013,Fabric Store,1210.0,414.95,Perumal Knit Fabrics,GRN-2026-0227 against PO-1242
+2026-08-23,IN,FG003,Finished Goods Store,1800,134.88,In-house Production - Unit 2,Finished lot received from production - GRN-2026-0228
+2026-08-23,IN,FG007,Finished Goods Store,1000,184.36,In-house Production - Unit 2,Finished lot received from production - GRN-2026-0229
+2026-08-23,IN,PKG005,Packing Store,30500,0.93,Bharath Poly Products,GRN-2026-0230 against PO-1454
+2026-08-23,IN,PKG006,Packing Store,395,67.53,Bharath Poly Products,GRN-2026-0231 against PO-1722
+2026-08-23,OUT,FAB002,Fabric Store,490.0,,,Issued to Cutting - ISS-2026-0743
+2026-08-23,OUT,FAB009,Fabric Store,570.0,,,Issued to Cutting - ISS-2026-0744
+2026-08-23,OUT,FAB010,Fabric Store,212.5,,,Issued to Cutting - ISS-2026-0745
+2026-08-23,OUT,FAB016,Fabric Store,650.0,,,Issued to Cutting - ISS-2026-0746
+2026-08-23,OUT,FAB017,Fabric Store,1237.5,,,Issued to Cutting - ISS-2026-0747
+2026-08-23,OUT,FAB018,Fabric Store,1105.0,,,Issued to Cutting - ISS-2026-0748
+2026-08-23,OUT,FAB019,Fabric Store,155.0,,,Issued to Cutting - ISS-2026-0749
+2026-08-23,OUT,FAB020,Fabric Store,165.0,,,Issued to Cutting - ISS-2026-0750
+2026-08-23,OUT,FAB020,Fabric Store,110.0,,,Issued to Cutting - ISS-2026-0751
+2026-08-23,OUT,PKG001,Finished Goods Store,12550,,,Issued to Packing Section - ISS-2026-0752
+2026-08-23,OUT,PKG005,Finished Goods Store,6500,,,Issued to Packing Section - ISS-2026-0753
+2026-08-23,OUT,TRM002,Trims Store,274,,,Issued to Stitching Line 6 - ISS-2026-0754
+2026-08-23,OUT,TRM004,Trims Store,78,,,Issued to Stitching Line 4 - ISS-2026-0755
+2026-08-23,OUT,TRM009,Trims Store,9300,,,Issued to Stitching Line 1 - ISS-2026-0756
+2026-08-24,IN,TRM005,Trims Store,11100,11.10,Universal Zipper Co,GRN-2026-0232 against PO-1265
+2026-08-24,OUT,FAB003,Fabric Store,332.5,,,Issued to Cutting - ISS-2026-0757
+2026-08-24,OUT,FAB004,Fabric Store,567.5,,,Issued to Cutting - ISS-2026-0758
+2026-08-24,OUT,FAB007,Fabric Store,242.5,,,Issued to Cutting - ISS-2026-0759
+2026-08-24,OUT,FG001,Finished Goods Store,1980,,,Dispatch to Northwind Apparel Exports - DC-2026-0760
+2026-08-24,OUT,FG003,Finished Goods Store,1510,,,Dispatch to Sunrise Fashion Hub - DC-2026-0761
+2026-08-24,OUT,FG003,Finished Goods Store,940,,,Dispatch to Sunrise Fashion Hub - DC-2026-0762
+2026-08-24,OUT,PKG005,Packing Store,8600,,,Issued to Packing Section - ISS-2026-0763
+2026-08-24,OUT,PKG008,Packing Store,2900,,,Issued to Packing Section - ISS-2026-0764
+2026-08-24,OUT,TRM001,Trims Store,232,,,Issued to Stitching Line 3 - ISS-2026-0765
+2026-08-24,OUT,TRM014,Trims Store,53200,,,Issued to Stitching Line 1 - ISS-2026-0766
+2026-08-24,OUT,TRM015,Trims Store,7100,,,Issued to Stitching Line 3 - ISS-2026-0767
+2026-08-24,OUT,TRM018,Trims Store,3150,,,Issued to Stitching Line 3 - ISS-2026-0768
+2026-08-25,IN,FAB005,Fabric Store,1470.0,371.89,Perumal Knit Fabrics,GRN-2026-0233 against PO-1828
+2026-08-25,IN,FG001,Finished Goods Store,4400,121.96,In-house Production - Unit 2,Finished lot received from production - GRN-2026-0234
+2026-08-25,IN,YRN004,Yarn Store,3070.0,301.19,Kongu Cotton Yarn Traders,GRN-2026-0235 against PO-1435
+2026-08-25,OUT,FAB005,Fabric Store,282.5,,,Issued to Cutting - ISS-2026-0769
+2026-08-25,OUT,FAB006,Fabric Store,50.0,,,Issued to Cutting - ISS-2026-0770
+2026-08-25,OUT,FAB009,Fabric Store,432.5,,,Issued to Cutting - ISS-2026-0771
+2026-08-25,OUT,FAB009,Fabric Store,290.0,,,Issued to Cutting - ISS-2026-0772
+2026-08-25,OUT,FAB018,Fabric Store,750.0,,,Issued to Cutting - ISS-2026-0773
+2026-08-25,OUT,PKG001,Packing Store,24000,,,Issued to Packing Section - ISS-2026-0774
+2026-08-25,OUT,TRM009,Trims Store,12850,,,Issued to Stitching Line 5 - ISS-2026-0775
+2026-08-25,OUT,YRN001,Yarn Store,785.0,,,Issued to Knitting - ISS-2026-0776
+2026-08-25,OUT,YRN001,Yarn Store,1290.0,,,Issued to Knitting - ISS-2026-0777
+2026-08-25,OUT,YRN004,Yarn Store,1247.5,,,Issued to Knitting - ISS-2026-0778
+2026-08-25,OUT,YRN008,Yarn Store,327.5,,,Issued to Knitting - ISS-2026-0779
+2026-08-25,OUT,YRN008,Yarn Store,445.0,,,Issued to Knitting - ISS-2026-0780
+2026-08-26,IN,FAB017,Fabric Store,3300.0,172.38,Om Sai Fabrics,GRN-2026-0236 against PO-1100
+2026-08-26,IN,TRM007,Trims Store,7900,15.44,Universal Zipper Co,GRN-2026-0237 against PO-1888
+2026-08-26,IN,TRM017,Trims Store,6570.0,14.60,Tirupur Trims & Accessories,GRN-2026-0238 against PO-1008
+2026-08-26,IN,YRN010,Yarn Store,1170.0,348.60,Vel Organic Fibres,GRN-2026-0239 against PO-1199
+2026-08-26,OUT,FAB006,Fabric Store,17.5,,,Issued to Cutting - ISS-2026-0781
+2026-08-26,OUT,FAB009,Fabric Store,657.5,,,Issued to Cutting - ISS-2026-0782
+2026-08-26,OUT,FAB020,Fabric Store,135.0,,,Issued to Cutting - ISS-2026-0783
+2026-08-26,OUT,FAB020,Fabric Store,117.5,,,Issued to Cutting - ISS-2026-0784
+2026-08-26,OUT,PKG002,Packing Store,6000,,,Issued to Packing Section - ISS-2026-0785
+2026-08-26,OUT,TRM005,Trims Store,4620,,,Issued to Stitching Line 6 - ISS-2026-0786
+2026-08-26,OUT,TRM009,Trims Store,9750,,,Issued to Stitching Line 2 - ISS-2026-0787
+2026-08-26,OUT,TRM012,Trims Store,3617.5,,,Issued to Stitching Line 8 - ISS-2026-0788
+2026-08-26,OUT,YRN002,Yarn Store,395.0,,,Issued to Knitting - ISS-2026-0789
+2026-08-26,OUT,YRN008,Yarn Store,305.0,,,Issued to Knitting - ISS-2026-0790
+2026-08-27,IN,FAB009,Fabric Store,2180.0,400.65,Sakthi Dyeing & Processing,GRN-2026-0240 against PO-1686
+2026-08-27,IN,FG008,Finished Goods Store,1700,275.02,In-house Production - Unit 1,Finished lot received from production - GRN-2026-0241
+2026-08-27,IN,PKG006,Packing Store,560,63.00,Bharath Poly Products,GRN-2026-0242 against PO-1053
+2026-08-27,IN,PKG009,Packing Store,610,49.57,Srinivasa Carton Works,GRN-2026-0243 against PO-1314
+2026-08-27,IN,TRM007,Trims Store,8500,16.07,Universal Zipper Co,GRN-2026-0244 against PO-1206
+2026-08-27,OUT,FAB001,Fabric Store,872.5,,,Issued to Cutting - ISS-2026-0791
+2026-08-27,OUT,FAB001,Fabric Store,500.0,,,Issued to Cutting - ISS-2026-0792
+2026-08-27,OUT,FAB013,Fabric Store,765.0,,,Issued to Cutting - ISS-2026-0793
+2026-08-27,OUT,FAB014,Fabric Store,540.0,,,Issued to Cutting - ISS-2026-0794
+2026-08-27,OUT,PKG006,Packing Store,165,,,Issued to Packing Section - ISS-2026-0795
+2026-08-27,OUT,PKG006,Packing Store,129,,,Issued to Packing Section - ISS-2026-0796
+2026-08-27,OUT,PKG009,Packing Store,67,,,Issued to Packing Section - ISS-2026-0797
+2026-08-27,OUT,TRM006,Trims Store,1020,,,Issued to Stitching Line 6 - ISS-2026-0798
+2026-08-27,OUT,TRM009,Trims Store,12500,,,Issued to Stitching Line 6 - ISS-2026-0799
+2026-08-27,OUT,TRM011,Trims Store,3082.5,,,Issued to Stitching Line 7 - ISS-2026-0800
+2026-08-27,OUT,TRM011,Trims Store,1682.5,,,Issued to Stitching Line 4 - ISS-2026-0801
+2026-08-27,OUT,TRM014,Trims Store,50750,,,Issued to Stitching Line 3 - ISS-2026-0802
+2026-08-27,OUT,TRM016,Trims Store,3390.0,,,Issued to Stitching Line 1 - ISS-2026-0803
+2026-08-27,OUT,YRN002,Yarn Store,715.0,,,Issued to Knitting - ISS-2026-0804
+2026-08-27,OUT,YRN003,Yarn Store,707.5,,,Issued to Knitting - ISS-2026-0805
+2026-08-28,IN,FAB019,Fabric Store,1260.0,414.64,Sakthi Dyeing & Processing,GRN-2026-0245 against PO-1557
+2026-08-28,IN,PKG004,Packing Store,1730,68.14,Kaveri Packaging Industries,GRN-2026-0246 against PO-1013
+2026-08-28,IN,TRM001,Trims Store,920,91.84,Ganesh Thread House,GRN-2026-0247 against PO-1073
+2026-08-28,OUT,FAB004,Fabric Store,1432.5,,,Issued to Cutting - ISS-2026-0806
+2026-08-28,OUT,FAB005,Fabric Store,160.0,,,Issued to Cutting - ISS-2026-0807
+2026-08-28,OUT,FAB006,Fabric Store,5.0,,,Issued to Cutting - ISS-2026-0808
+2026-08-28,OUT,FAB008,Fabric Store,87.5,,,Issued to Cutting - ISS-2026-0809
+2026-08-28,OUT,FAB008,Fabric Store,192.5,,,Issued to Cutting - ISS-2026-0810
+2026-08-28,OUT,FAB011,Fabric Store,225.0,,,Issued to Cutting - ISS-2026-0811
+2026-08-28,OUT,FAB012,Fabric Store,140.0,,,Issued to Cutting - ISS-2026-0812
+2026-08-28,OUT,FG006,Finished Goods Store,630,,,Dispatch to Urban Threads Retail - DC-2026-0813
+2026-08-28,OUT,PKG001,Finished Goods Store,7700,,,Issued to Packing Section - ISS-2026-0814
+2026-08-28,OUT,PKG005,Packing Store,11400,,,Issued to Packing Section - ISS-2026-0815
+2026-08-28,OUT,PKG005,Packing Store,9100,,,Issued to Packing Section - ISS-2026-0816
+2026-08-28,OUT,PKG006,Packing Store,72,,,Issued to Packing Section - ISS-2026-0817
+2026-08-28,OUT,PKG009,Packing Store,133,,,Issued to Packing Section - ISS-2026-0818
+2026-08-28,OUT,TRM006,Trims Store,1400,,,Issued to Stitching Line 3 - ISS-2026-0819
+2026-08-28,OUT,TRM011,Trims Store,3460.0,,,Issued to Stitching Line 6 - ISS-2026-0820
+2026-08-28,OUT,TRM012,Trims Store,3517.5,,,Issued to Stitching Line 1 - ISS-2026-0821
+2026-08-28,OUT,TRM012,Trims Store,3947.5,,,Issued to Stitching Line 1 - ISS-2026-0822
+2026-08-28,OUT,YRN003,Yarn Store,925.0,,,Issued to Knitting - ISS-2026-0823
+2026-08-28,OUT,YRN008,Yarn Store,310.0,,,Issued to Knitting - ISS-2026-0824
+2026-08-29,IN,FAB007,Fabric Store,1610.0,377.07,Sakthi Dyeing & Processing,GRN-2026-0248 against PO-1446
+2026-08-29,IN,FAB017,Fabric Store,3970.0,172.00,Om Sai Fabrics,GRN-2026-0249 against PO-1762
+2026-08-29,IN,FAB020,Fabric Store,650.0,458.40,Sakthi Dyeing & Processing,GRN-2026-0250 against PO-1365
+2026-08-29,IN,FG004,Finished Goods Store,1400,266.60,In-house Production - Unit 2,Finished lot received from production - GRN-2026-0251
+2026-08-29,IN,FG005,Finished Goods Store,2000,239.86,In-house Production - Unit 2,Finished lot received from production - GRN-2026-0252
+2026-08-29,IN,FG006,Finished Goods Store,1100,414.88,In-house Production - Unit 2,Finished lot received from production - GRN-2026-0253
+2026-08-29,IN,PKG003,Packing Store,5700,40.40,Srinivasa Carton Works,GRN-2026-0254 against PO-1253
+2026-08-29,IN,TRM013,Trims Store,38500,0.85,Sri Vinayaga Labels,GRN-2026-0255 against PO-1696
+2026-08-29,IN,TRM016,Trims Store,6450.0,38.78,Tirupur Trims & Accessories,GRN-2026-0256 against PO-1027
+2026-08-29,IN,YRN003,Yarn Store,4050.0,240.67,Annai Spinning Mills,GRN-2026-0257 against PO-1963
+2026-08-29,OUT,FAB006,Fabric Store,2.5,,,Issued to Cutting - ISS-2026-0825
+2026-08-29,OUT,FAB007,Fabric Store,275.0,,,Issued to Cutting - ISS-2026-0826
+2026-08-29,OUT,FAB008,Fabric Store,182.5,,,Issued to Cutting - ISS-2026-0827
+2026-08-29,OUT,FAB011,Fabric Store,257.5,,,Issued to Cutting - ISS-2026-0828
+2026-08-29,OUT,FAB012,Fabric Store,202.5,,,Issued to Cutting - ISS-2026-0829
+2026-08-29,OUT,FAB016,Fabric Store,1072.5,,,Issued to Cutting - ISS-2026-0830
+2026-08-29,OUT,FAB019,Fabric Store,267.5,,,Issued to Cutting - ISS-2026-0831
+2026-08-29,OUT,FG001,Finished Goods Store,1540,,,Dispatch to Northwind Apparel Exports - DC-2026-0832
+2026-08-29,OUT,FG008,Finished Goods Store,330,,,Dispatch to Urban Threads Retail - DC-2026-0833
+2026-08-29,OUT,PKG003,Packing Store,390,,,Issued to Packing Section - ISS-2026-0834
+2026-08-29,OUT,TRM010,Trims Store,1650,,,Issued to Stitching Line 7 - ISS-2026-0835
+2026-08-29,OUT,TRM012,Trims Store,4352.5,,,Issued to Stitching Line 5 - ISS-2026-0836
+2026-08-29,OUT,TRM017,Trims Store,660.0,,,Issued to Stitching Line 3 - ISS-2026-0837
+2026-08-29,OUT,YRN009,Yarn Store,190.0,,,Issued to Knitting - ISS-2026-0838
+2026-08-30,IN,FAB016,Fabric Store,4110.0,123.93,Om Sai Fabrics,GRN-2026-0258 against PO-1127
+2026-08-30,IN,PKG008,Packing Store,21500,0.47,Srinivasa Carton Works,GRN-2026-0259 against PO-1099
+2026-08-30,IN,PKG010,Packing Store,52000,0.34,Bharath Poly Products,GRN-2026-0260 against PO-1993
+2026-08-30,OUT,FAB019,Fabric Store,147.5,,,Issued to Cutting - ISS-2026-0839
+2026-08-30,OUT,PKG001,Packing Store,12050,,,Issued to Packing Section - ISS-2026-0840
+2026-08-30,OUT,TRM004,Trims Store,113,,,Issued to Stitching Line 6 - ISS-2026-0841
+2026-08-30,OUT,TRM006,Trims Store,820,,,Issued to Stitching Line 3 - ISS-2026-0842
+2026-08-30,OUT,TRM008,Trims Store,22750,,,Issued to Stitching Line 7 - ISS-2026-0843
+2026-08-30,OUT,TRM015,Trims Store,4150,,,Issued to Stitching Line 4 - ISS-2026-0844
+2026-08-30,OUT,YRN002,Yarn Store,725.0,,,Issued to Knitting - ISS-2026-0845
+2026-08-30,OUT,YRN005,Yarn Store,392.5,,,Issued to Knitting - ISS-2026-0846
+2026-08-30,OUT,YRN005,Yarn Store,422.5,,,Issued to Knitting - ISS-2026-0847
+2026-08-30,OUT,YRN006,Yarn Store,362.5,,,Issued to Knitting - ISS-2026-0848
+2026-08-30,OUT,YRN008,Yarn Store,277.5,,,Issued to Knitting - ISS-2026-0849
+2026-08-31,IN,FG005,Finished Goods Store,1600,238.54,In-house Production - Unit 2,Finished lot received from production - GRN-2026-0261
+2026-08-31,IN,YRN005,Yarn Store,2130.0,123.63,Balaji Polyester Yarns,GRN-2026-0262 against PO-1826
+2026-08-31,OUT,FAB002,Fabric Store,290.0,,,Issued to Cutting - ISS-2026-0850
+2026-08-31,OUT,FAB017,Fabric Store,560.0,,,Issued to Cutting - ISS-2026-0851
+2026-08-31,OUT,FAB019,Fabric Store,170.0,,,Issued to Cutting - ISS-2026-0852
+2026-08-31,OUT,PKG003,Packing Store,420,,,Issued to Packing Section - ISS-2026-0853
+2026-08-31,OUT,PKG007,Packing Store,2900,,,Issued to Packing Section - ISS-2026-0854
+2026-08-31,OUT,TRM001,Trims Store,271,,,Issued to Stitching Line 6 - ISS-2026-0855
+2026-08-31,OUT,TRM014,Trims Store,43950,,,Issued to Stitching Line 3 - ISS-2026-0856
+2026-08-31,OUT,TRM016,Trims Store,3567.5,,,Issued to Stitching Line 4 - ISS-2026-0857
+2026-08-31,OUT,YRN002,Yarn Store,660.0,,,Issued to Knitting - ISS-2026-0858
+2026-09-01,IN,PKG003,Finished Goods Store,2300,41.21,Kaveri Packaging Industries,GRN-2026-0263 against PO-1109
+2026-09-01,IN,PKG005,Packing Store,46000,0.90,Srinivasa Carton Works,GRN-2026-0264 against PO-1786
+2026-09-01,OUT,FAB002,Fabric Store,375.0,,,Issued to Cutting - ISS-2026-0859
+2026-09-01,OUT,FAB003,Fabric Store,535.0,,,Issued to Cutting - ISS-2026-0860
+2026-09-01,OUT,FAB007,Fabric Store,462.5,,,Issued to Cutting - ISS-2026-0861
+2026-09-01,OUT,FAB009,Fabric Store,795.0,,,Issued to Cutting - ISS-2026-0862
+2026-09-01,OUT,FAB009,Fabric Store,372.5,,,Issued to Cutting - ISS-2026-0863
+2026-09-01,OUT,FAB020,Fabric Store,75.0,,,Issued to Cutting - ISS-2026-0864
+2026-09-01,OUT,FG007,Finished Goods Store,1010,,,Dispatch to Urban Threads Retail - DC-2026-0865
+2026-09-01,OUT,TRM005,Trims Store,3790,,,Issued to Stitching Line 7 - ISS-2026-0866
+2026-09-01,OUT,TRM007,Trims Store,3700,,,Issued to Stitching Line 5 - ISS-2026-0867
+2026-09-01,OUT,TRM012,Trims Store,5302.5,,,Issued to Stitching Line 1 - ISS-2026-0868
+2026-09-01,OUT,TRM013,Trims Store,11800,,,Issued to Stitching Line 8 - ISS-2026-0869
+2026-09-01,OUT,YRN001,Yarn Store,1345.0,,,Issued to Knitting - ISS-2026-0870
+2026-09-01,OUT,YRN001,Yarn Store,1840.0,,,Issued to Knitting - ISS-2026-0871
+2026-09-01,OUT,YRN005,Yarn Store,660.0,,,Issued to Knitting - ISS-2026-0872
+2026-09-01,OUT,YRN010,Yarn Store,442.5,,,Issued to Knitting - ISS-2026-0873
+2026-09-02,IN,FAB016,Fabric Store,3430.0,128.13,Om Sai Fabrics,GRN-2026-0265 against PO-1236
+2026-09-02,IN,FG002,Finished Goods Store,2600,210.97,In-house Production - Unit 2,Finished lot received from production - GRN-2026-0266
+2026-09-02,IN,TRM005,Trims Store,7900,10.86,Universal Zipper Co,GRN-2026-0267 against PO-1509
+2026-09-02,IN,TRM013,Trims Store,39000,0.85,Sri Vinayaga Labels,GRN-2026-0268 against PO-1280
+2026-09-02,OUT,PKG001,Packing Store,21050,,,Issued to Packing Section - ISS-2026-0874
+2026-09-02,OUT,PKG003,Packing Store,390,,,Issued to Packing Section - ISS-2026-0875
+2026-09-02,OUT,PKG004,Packing Store,360,,,Issued to Packing Section - ISS-2026-0876
+2026-09-02,OUT,PKG006,Packing Store,109,,,Issued to Packing Section - ISS-2026-0877
+2026-09-02,OUT,TRM006,Trims Store,100,,,Issued to Stitching Line 3 - ISS-2026-0878
+2026-09-02,OUT,TRM007,Trims Store,4190,,,Issued to Stitching Line 1 - ISS-2026-0879
+2026-09-02,OUT,TRM014,Trims Store,26900,,,Issued to Stitching Line 7 - ISS-2026-0880
+2026-09-02,OUT,TRM015,Trims Store,3150,,,Issued to Stitching Line 2 - ISS-2026-0881
+2026-09-02,OUT,TRM015,Trims Store,7550,,,Issued to Stitching Line 8 - ISS-2026-0882
+2026-09-02,OUT,YRN003,Yarn Store,960.0,,,Issued to Knitting - ISS-2026-0883
+2026-09-03,IN,PKG009,Packing Store,640,47.40,Bharath Poly Products,GRN-2026-0269 against PO-1430
+2026-09-03,IN,TRM006,Trims Store,5400,13.44,Universal Zipper Co,GRN-2026-0270 against PO-1431
+2026-09-03,IN,TRM006,Trims Store,6200,13.33,Universal Zipper Co,GRN-2026-0271 against PO-1477
+2026-09-03,OUT,FAB004,Fabric Store,1017.5,,,Issued to Cutting - ISS-2026-0884
+2026-09-03,OUT,PKG004,Packing Store,780,,,Issued to Packing Section - ISS-2026-0885
+2026-09-03,OUT,TRM001,Trims Store,347,,,Issued to Stitching Line 6 - ISS-2026-0886
+2026-09-03,OUT,TRM002,Trims Store,304,,,Issued to Stitching Line 3 - ISS-2026-0887
+2026-09-03,OUT,TRM004,Trims Store,73,,,Issued to Stitching Line 6 - ISS-2026-0888
+2026-09-03,OUT,TRM005,Trims Store,4460,,,Issued to Stitching Line 1 - ISS-2026-0889
+2026-09-03,OUT,TRM006,Trims Store,630,,,Issued to Stitching Line 7 - ISS-2026-0890
+2026-09-03,OUT,TRM007,Trims Store,3130,,,Issued to Stitching Line 2 - ISS-2026-0891
+2026-09-03,OUT,TRM008,Trims Store,40500,,,Issued to Stitching Line 8 - ISS-2026-0892
+2026-09-03,OUT,TRM008,Trims Store,37550,,,Issued to Stitching Line 7 - ISS-2026-0893
+2026-09-03,OUT,TRM012,Trims Store,1907.5,,,Issued to Stitching Line 5 - ISS-2026-0894
+2026-09-03,OUT,YRN002,Yarn Store,665.0,,,Issued to Knitting - ISS-2026-0895
+2026-09-04,IN,FAB004,Fabric Store,2930.0,355.43,Perumal Knit Fabrics,GRN-2026-0272 against PO-1753
+2026-09-04,IN,FAB009,Fabric Store,2280.0,398.56,Perumal Knit Fabrics,GRN-2026-0273 against PO-1073
+2026-09-04,OUT,FAB003,Fabric Store,337.5,,,Issued to Cutting - ISS-2026-0896
+2026-09-04,OUT,FG008,Finished Goods Store,260,,,Dispatch to Urban Threads Retail - DC-2026-0897
+2026-09-04,OUT,FG008,Finished Goods Store,370,,,Dispatch to Kidz Corner Stores - DC-2026-0898
+2026-09-04,OUT,PKG002,Packing Store,6500,,,Issued to Packing Section - ISS-2026-0899
+2026-09-04,OUT,PKG007,Packing Store,3000,,,Issued to Packing Section - ISS-2026-0900
+2026-09-04,OUT,TRM008,Trims Store,28900,,,Issued to Stitching Line 8 - ISS-2026-0901
+2026-09-04,OUT,TRM011,Trims Store,2762.5,,,Issued to Stitching Line 8 - ISS-2026-0902
+2026-09-04,OUT,TRM011,Trims Store,2520.0,,,Issued to Stitching Line 7 - ISS-2026-0903
+2026-09-04,OUT,TRM011,Trims Store,1110.0,,,Issued to Stitching Line 4 - ISS-2026-0904
+2026-09-04,OUT,TRM013,Trims Store,11100,,,Issued to Stitching Line 2 - ISS-2026-0905
+2026-09-04,OUT,TRM015,Trims Store,4050,,,Issued to Stitching Line 2 - ISS-2026-0906
+2026-09-04,OUT,TRM018,Trims Store,1650,,,Issued to Stitching Line 6 - ISS-2026-0907
+2026-09-04,OUT,YRN002,Yarn Store,880.0,,,Issued to Knitting - ISS-2026-0908
+2026-09-04,OUT,YRN003,Yarn Store,847.5,,,Issued to Knitting - ISS-2026-0909
+2026-09-05,IN,FG004,Finished Goods Store,900,251.21,In-house Production - Unit 2,Finished lot received from production - GRN-2026-0274
+2026-09-05,OUT,FAB004,Fabric Store,1300.0,,,Issued to Cutting - ISS-2026-0910
+2026-09-05,OUT,FAB007,Fabric Store,662.5,,,Issued to Cutting - ISS-2026-0911
+2026-09-05,OUT,FAB012,Fabric Store,145.0,,,Issued to Cutting - ISS-2026-0912
+2026-09-05,OUT,FAB016,Fabric Store,1427.5,,,Issued to Cutting - ISS-2026-0913
+2026-09-05,OUT,FG002,Finished Goods Store,1090,,,Dispatch to Kidz Corner Stores - DC-2026-0914
+2026-09-05,OUT,FG002,Finished Goods Store,810,,,Dispatch to Urban Threads Retail - DC-2026-0915
+2026-09-05,OUT,FG006,Finished Goods Store,710,,,Dispatch to Northwind Apparel Exports - DC-2026-0916
+2026-09-05,OUT,PKG005,Finished Goods Store,4200,,,Issued to Packing Section - ISS-2026-0917
+2026-09-05,OUT,PKG009,Packing Store,89,,,Issued to Packing Section - ISS-2026-0918
+2026-09-05,OUT,TRM002,Trims Store,264,,,Issued to Stitching Line 7 - ISS-2026-0919
+2026-09-05,OUT,TRM006,Trims Store,980,,,Issued to Stitching Line 3 - ISS-2026-0920
+2026-09-05,OUT,TRM012,Trims Store,4472.5,,,Issued to Stitching Line 5 - ISS-2026-0921
+2026-09-05,OUT,TRM012,Trims Store,2670.0,,,Issued to Stitching Line 7 - ISS-2026-0922
+2026-09-05,OUT,TRM013,Trims Store,15000,,,Issued to Stitching Line 6 - ISS-2026-0923
+2026-09-05,OUT,YRN002,Yarn Store,727.5,,,Issued to Knitting - ISS-2026-0924
+2026-09-05,OUT,YRN007,Yarn Store,47.5,,,Issued to Knitting - ISS-2026-0925
+2026-09-05,OUT,YRN009,Yarn Store,402.5,,,Issued to Knitting - ISS-2026-0926
+2026-09-05,OUT,YRN010,Yarn Store,582.5,,,Issued to Knitting - ISS-2026-0927
+2026-09-06,IN,FAB008,Fabric Store,1520.0,378.41,Perumal Knit Fabrics,GRN-2026-0275 against PO-1779
+2026-09-06,IN,FAB009,Fabric Store,1710.0,390.97,Sakthi Dyeing & Processing,GRN-2026-0276 against PO-1239
+2026-09-06,IN,FG001,Finished Goods Store,3300,121.50,In-house Production - Unit 1,Finished lot received from production - GRN-2026-0277
+2026-09-06,IN,TRM017,Trims Store,5330.0,13.83,Tirupur Trims & Accessories,GRN-2026-0278 against PO-1230
+2026-09-06,IN,YRN001,Yarn Store,3680.0,277.22,Annai Spinning Mills,GRN-2026-0279 against PO-1554
+2026-09-06,OUT,FAB001,Fabric Store,1080.0,,,Issued to Cutting - ISS-2026-0928
+2026-09-06,OUT,FAB005,Fabric Store,282.5,,,Issued to Cutting - ISS-2026-0929
+2026-09-06,OUT,FAB010,Fabric Store,175.0,,,Issued to Cutting - ISS-2026-0930
+2026-09-06,OUT,FAB013,Fabric Store,475.0,,,Issued to Cutting - ISS-2026-0931
+2026-09-06,OUT,FAB015,Fabric Store,2385.0,,,Issued to Cutting - ISS-2026-0932
+2026-09-06,OUT,FAB020,Fabric Store,100.0,,,Issued to Cutting - ISS-2026-0933
+2026-09-06,OUT,FAB020,Fabric Store,57.5,,,Issued to Cutting - ISS-2026-0934
+2026-09-06,OUT,PKG005,Finished Goods Store,2450,,,Issued to Packing Section - ISS-2026-0935
+2026-09-06,OUT,PKG008,Packing Store,2600,,,Issued to Packing Section - ISS-2026-0936
+2026-09-06,OUT,PKG010,Packing Store,15300,,,Issued to Packing Section - ISS-2026-0937
+2026-09-06,OUT,TRM005,Trims Store,3100,,,Issued to Stitching Line 8 - ISS-2026-0938
+2026-09-06,OUT,TRM009,Trims Store,8250,,,Issued to Stitching Line 6 - ISS-2026-0939
+2026-09-06,OUT,TRM014,Trims Store,8550,,,Issued to Stitching Line 3 - ISS-2026-0940
+2026-09-06,OUT,TRM015,Trims Store,4300,,,Issued to Stitching Line 3 - ISS-2026-0941
+2026-09-06,OUT,YRN001,Yarn Store,1842.5,,,Issued to Knitting - ISS-2026-0942
+2026-09-06,OUT,YRN008,Yarn Store,177.5,,,Issued to Knitting - ISS-2026-0943
+2026-09-07,IN,FG005,Finished Goods Store,2000,241.37,In-house Production - Unit 2,Finished lot received from production - GRN-2026-0280
+2026-09-07,IN,PKG008,Packing Store,23500,0.46,Bharath Poly Products,GRN-2026-0281 against PO-1586
+2026-09-07,IN,YRN005,Yarn Store,1820.0,116.38,Balaji Polyester Yarns,GRN-2026-0282 against PO-1843
+2026-09-07,OUT,FAB002,Fabric Store,555.0,,,Issued to Cutting - ISS-2026-0944
+2026-09-07,OUT,FAB004,Fabric Store,530.0,,,Issued to Cutting - ISS-2026-0945
+2026-09-07,OUT,FAB017,Fabric Store,655.0,,,Issued to Cutting - ISS-2026-0946
+2026-09-07,OUT,FG003,Finished Goods Store,1160,,,Dispatch to Urban Threads Retail - DC-2026-0947
+2026-09-07,OUT,FG007,Finished Goods Store,1030,,,Dispatch to Sunrise Fashion Hub - DC-2026-0948
+2026-09-07,OUT,FG007,Finished Goods Store,930,,,Dispatch to Sunrise Fashion Hub - DC-2026-0949
+2026-09-07,OUT,PKG010,Packing Store,8200,,,Issued to Packing Section - ISS-2026-0950
+2026-09-07,OUT,TRM017,Trims Store,1377.5,,,Issued to Stitching Line 8 - ISS-2026-0951
+2026-09-07,OUT,TRM017,Trims Store,582.5,,,Issued to Stitching Line 8 - ISS-2026-0952
+2026-09-07,OUT,YRN002,Yarn Store,482.5,,,Issued to Knitting - ISS-2026-0953
+2026-09-07,OUT,YRN006,Yarn Store,287.5,,,Issued to Knitting - ISS-2026-0954
+2026-09-07,OUT,YRN007,Yarn Store,87.5,,,Issued to Knitting - ISS-2026-0955
+2026-09-07,OUT,YRN010,Yarn Store,405.0,,,Issued to Knitting - ISS-2026-0956
+2026-09-07,OUT,YRN010,Yarn Store,247.5,,,Issued to Knitting - ISS-2026-0957
+2026-09-08,IN,FAB013,Fabric Store,1330.0,425.40,Sakthi Dyeing & Processing,GRN-2026-0283 against PO-1937
+2026-09-08,IN,FG008,Finished Goods Store,1600,299.16,In-house Production - Unit 1,Finished lot received from production - GRN-2026-0284
+2026-09-08,IN,TRM002,Trims Store,960,93.60,Ganesh Thread House,GRN-2026-0285 against PO-1130
+2026-09-08,IN,YRN010,Yarn Store,1050.0,341.97,Vel Organic Fibres,GRN-2026-0286 against PO-1569
+2026-09-08,OUT,FAB002,Fabric Store,810.0,,,Issued to Cutting - ISS-2026-0958
+2026-09-08,OUT,FAB003,Fabric Store,280.0,,,Issued to Cutting - ISS-2026-0959
+2026-09-08,OUT,FAB011,Fabric Store,257.5,,,Issued to Cutting - ISS-2026-0960
+2026-09-08,OUT,FAB015,Fabric Store,2132.5,,,Issued to Cutting - ISS-2026-0961
+2026-09-08,OUT,FAB018,Fabric Store,565.0,,,Issued to Cutting - ISS-2026-0962
+2026-09-08,OUT,FAB020,Fabric Store,145.0,,,Issued to Cutting - ISS-2026-0963
+2026-09-08,OUT,FG001,Finished Goods Store,2220,,,Dispatch to Kidz Corner Stores - DC-2026-0964
+2026-09-08,OUT,FG002,Finished Goods Store,1790,,,Dispatch to Northwind Apparel Exports - DC-2026-0965
+2026-09-08,OUT,FG008,Finished Goods Store,330,,,Dispatch to Urban Threads Retail - DC-2026-0966
+2026-09-08,OUT,PKG006,Packing Store,101,,,Issued to Packing Section - ISS-2026-0967
+2026-09-08,OUT,TRM006,Trims Store,600,,,Issued to Stitching Line 7 - ISS-2026-0968
+2026-09-08,OUT,TRM010,Trims Store,700,,,Issued to Stitching Line 3 - ISS-2026-0969
+2026-09-08,OUT,TRM010,Trims Store,300,,,Issued to Stitching Line 1 - ISS-2026-0970
+2026-09-08,OUT,TRM011,Trims Store,565.0,,,Issued to Stitching Line 6 - ISS-2026-0971
+2026-09-08,OUT,TRM015,Trims Store,7600,,,Issued to Stitching Line 4 - ISS-2026-0972
+2026-09-08,OUT,TRM018,Trims Store,3450,,,Issued to Stitching Line 5 - ISS-2026-0973
+2026-09-08,OUT,YRN002,Yarn Store,462.5,,,Issued to Knitting - ISS-2026-0974
+2026-09-08,OUT,YRN007,Yarn Store,55.0,,,Issued to Knitting - ISS-2026-0975
+2026-09-09,IN,TRM008,Trims Store,75000,0.53,Tirupur Trims & Accessories,GRN-2026-0287 against PO-1345
+2026-09-09,OUT,FAB001,Fabric Store,660.0,,,Issued to Cutting - ISS-2026-0976
+2026-09-09,OUT,FAB001,Fabric Store,412.5,,,Issued to Cutting - ISS-2026-0977
+2026-09-09,OUT,FAB003,Fabric Store,232.5,,,Issued to Cutting - ISS-2026-0978
+2026-09-09,OUT,FAB005,Fabric Store,232.5,,,Issued to Cutting - ISS-2026-0979
+2026-09-09,OUT,FAB011,Fabric Store,320.0,,,Issued to Cutting - ISS-2026-0980
+2026-09-09,OUT,FAB014,Fabric Store,390.0,,,Issued to Cutting - ISS-2026-0981
+2026-09-09,OUT,FAB018,Fabric Store,1247.5,,,Issued to Cutting - ISS-2026-0982
+2026-09-09,OUT,PKG003,Finished Goods Store,1500,,,Issued to Packing Section - ISS-2026-0983
+2026-09-09,OUT,PKG009,Packing Store,64,,,Issued to Packing Section - ISS-2026-0984
+2026-09-09,OUT,TRM004,Trims Store,46,,,Issued to Stitching Line 5 - ISS-2026-0985
+2026-09-09,OUT,TRM012,Trims Store,4612.5,,,Issued to Stitching Line 8 - ISS-2026-0986
+2026-09-09,OUT,YRN003,Yarn Store,632.5,,,Issued to Knitting - ISS-2026-0987
+2026-09-09,OUT,YRN003,Yarn Store,1250.0,,,Issued to Knitting - ISS-2026-0988
+2026-09-10,IN,FAB006,Fabric Store,1450.0,374.91,Perumal Knit Fabrics,GRN-2026-0288 against PO-1109
+2026-09-10,IN,YRN010,Yarn Store,980.0,352.65,Vel Organic Fibres,GRN-2026-0289 against PO-1698
+2026-09-10,OUT,FAB005,Fabric Store,257.5,,,Issued to Cutting - ISS-2026-0989
+2026-09-10,OUT,FAB008,Fabric Store,130.0,,,Issued to Cutting - ISS-2026-0990
+2026-09-10,OUT,FAB012,Fabric Store,187.5,,,Issued to Cutting - ISS-2026-0991
+2026-09-10,OUT,FAB018,Fabric Store,460.0,,,Issued to Cutting - ISS-2026-0992
+2026-09-10,OUT,PKG001,Packing Store,20000,,,Issued to Packing Section - ISS-2026-0993
+2026-09-10,OUT,PKG007,Packing Store,2600,,,Issued to Packing Section - ISS-2026-0994
+2026-09-10,OUT,PKG008,Packing Store,3250,,,Issued to Packing Section - ISS-2026-0995
+2026-09-10,OUT,PKG008,Packing Store,2950,,,Issued to Packing Section - ISS-2026-0996
+2026-09-10,OUT,PKG008,Packing Store,3350,,,Issued to Packing Section - ISS-2026-0997
+2026-09-10,OUT,PKG009,Packing Store,84,,,Issued to Packing Section - ISS-2026-0998
+2026-09-10,OUT,TRM004,Trims Store,122,,,Issued to Stitching Line 2 - ISS-2026-0999
+2026-09-10,OUT,YRN003,Yarn Store,645.0,,,Issued to Knitting - ISS-2026-1000
+2026-09-10,OUT,YRN003,Yarn Store,1162.5,,,Issued to Knitting - ISS-2026-1001
+2026-09-10,OUT,YRN006,Yarn Store,30.0,,,Issued to Knitting - ISS-2026-1002
+2026-09-11,IN,FAB018,Fabric Store,5960.0,138.48,Om Sai Fabrics,GRN-2026-0290 against PO-1125
+2026-09-11,IN,FG006,Finished Goods Store,1100,434.70,In-house Production - Unit 1,Finished lot received from production - GRN-2026-0291
+2026-09-11,OUT,FAB004,Fabric Store,1095.0,,,Issued to Cutting - ISS-2026-1003
+2026-09-11,OUT,FAB006,Fabric Store,180.0,,,Issued to Cutting - ISS-2026-1004
+2026-09-11,OUT,FAB013,Fabric Store,762.5,,,Issued to Cutting - ISS-2026-1005
+2026-09-11,OUT,FAB015,Fabric Store,1022.5,,,Issued to Cutting - ISS-2026-1006
+2026-09-11,OUT,FAB017,Fabric Store,937.5,,,Issued to Cutting - ISS-2026-1007
+2026-09-11,OUT,FAB020,Fabric Store,152.5,,,Issued to Cutting - ISS-2026-1008
+2026-09-11,OUT,FG003,Finished Goods Store,830,,,Dispatch to Urban Threads Retail - DC-2026-1009
+2026-09-11,OUT,FG008,Finished Goods Store,410,,,Dispatch to Northwind Apparel Exports - DC-2026-1010
+2026-09-11,OUT,FG008,Finished Goods Store,500,,,Dispatch to Kidz Corner Stores - DC-2026-1011
+2026-09-11,OUT,PKG004,Packing Store,320,,,Issued to Packing Section - ISS-2026-1012
+2026-09-11,OUT,PKG009,Packing Store,105,,,Issued to Packing Section - ISS-2026-1013
+2026-09-11,OUT,TRM017,Trims Store,1055.0,,,Issued to Stitching Line 8 - ISS-2026-1014
+2026-09-11,OUT,YRN006,Yarn Store,5.0,,,Issued to Knitting - ISS-2026-1015
+2026-09-11,OUT,YRN007,Yarn Store,47.5,,,Issued to Knitting - ISS-2026-1016
+2026-09-11,OUT,YRN009,Yarn Store,412.5,,,Issued to Knitting - ISS-2026-1017
+2026-09-11,OUT,YRN010,Yarn Store,540.0,,,Issued to Knitting - ISS-2026-1018
+2026-09-12,IN,FAB002,Fabric Store,1530.0,350.09,Perumal Knit Fabrics,GRN-2026-0292 against PO-1244
+2026-09-12,IN,FAB016,Fabric Store,5150.0,130.75,Om Sai Fabrics,GRN-2026-0293 against PO-1846
+2026-09-12,OUT,FAB014,Fabric Store,477.5,,,Issued to Cutting - ISS-2026-1019
+2026-09-12,OUT,FAB018,Fabric Store,1030.0,,,Issued to Cutting - ISS-2026-1020
+2026-09-12,OUT,FAB020,Fabric Store,62.5,,,Issued to Cutting - ISS-2026-1021
+2026-09-12,OUT,FG004,Finished Goods Store,550,,,Dispatch to Sunrise Fashion Hub - DC-2026-1022
+2026-09-12,OUT,FG007,Finished Goods Store,440,,,Dispatch to Urban Threads Retail - DC-2026-1023
+2026-09-12,OUT,FG008,Finished Goods Store,480,,,Dispatch to Sunrise Fashion Hub - DC-2026-1024
+2026-09-12,OUT,PKG005,Packing Store,13150,,,Issued to Packing Section - ISS-2026-1025
+2026-09-12,OUT,PKG009,Packing Store,172,,,Issued to Packing Section - ISS-2026-1026
+2026-09-12,OUT,PKG009,Packing Store,169,,,Issued to Packing Section - ISS-2026-1027
+2026-09-12,OUT,TRM008,Trims Store,41050,,,Issued to Stitching Line 4 - ISS-2026-1028
+2026-09-12,OUT,TRM015,Trims Store,6600,,,Issued to Stitching Line 6 - ISS-2026-1029
+2026-09-12,OUT,TRM017,Trims Store,985.0,,,Issued to Stitching Line 5 - ISS-2026-1030
+2026-09-12,OUT,TRM017,Trims Store,1212.5,,,Issued to Stitching Line 3 - ISS-2026-1031
+2026-09-12,OUT,YRN001,Yarn Store,1895.0,,,Issued to Knitting - ISS-2026-1032
+2026-09-12,OUT,YRN002,Yarn Store,890.0,,,Issued to Knitting - ISS-2026-1033
+2026-09-12,OUT,YRN003,Yarn Store,1282.5,,,Issued to Knitting - ISS-2026-1034
+2026-09-12,OUT,YRN008,Yarn Store,107.5,,,Issued to Knitting - ISS-2026-1035
+2026-09-12,OUT,YRN008,Yarn Store,27.5,,,Issued to Knitting - ISS-2026-1036
+2026-09-13,IN,FAB006,Fabric Store,1390.0,386.19,Sakthi Dyeing & Processing,GRN-2026-0294 against PO-1091
+2026-09-13,IN,PKG005,Packing Store,47500,0.86,Bharath Poly Products,GRN-2026-0295 against PO-1149
+2026-09-13,IN,TRM004,Trims Store,390,79.39,Ganesh Thread House,GRN-2026-0296 against PO-1008
+2026-09-13,IN,TRM014,Trims Store,84500,0.35,Sri Vinayaga Labels,GRN-2026-0297 against PO-1541
+2026-09-13,IN,YRN008,Yarn Store,1750.0,273.90,Annai Spinning Mills,GRN-2026-0298 against PO-1046
+2026-09-13,OUT,FAB001,Fabric Store,452.5,,,Issued to Cutting - ISS-2026-1037
+2026-09-13,OUT,FAB009,Fabric Store,360.0,,,Issued to Cutting - ISS-2026-1038
+2026-09-13,OUT,FAB011,Fabric Store,182.5,,,Issued to Cutting - ISS-2026-1039
+2026-09-13,OUT,FAB018,Fabric Store,462.5,,,Issued to Cutting - ISS-2026-1040
+2026-09-13,OUT,FG006,Finished Goods Store,700,,,Dispatch to Northwind Apparel Exports - DC-2026-1041
+2026-09-13,OUT,FG008,Finished Goods Store,380,,,Dispatch to Northwind Apparel Exports - DC-2026-1042
+2026-09-13,OUT,PKG002,Packing Store,3850,,,Issued to Packing Section - ISS-2026-1043
+2026-09-13,OUT,PKG004,Packing Store,640,,,Issued to Packing Section - ISS-2026-1044
+2026-09-13,OUT,PKG007,Packing Store,1550,,,Issued to Packing Section - ISS-2026-1045
+2026-09-13,OUT,YRN008,Yarn Store,442.5,,,Issued to Knitting - ISS-2026-1046
+2026-09-14,IN,FG007,Finished Goods Store,1300,184.93,In-house Production - Unit 1,Finished lot received from production - GRN-2026-0299
+2026-09-14,IN,TRM010,Trims Store,22500,3.31,Tirupur Trims & Accessories,GRN-2026-0300 against PO-1768
+2026-09-14,OUT,FAB005,Fabric Store,105.0,,,Issued to Cutting - ISS-2026-1047
+2026-09-14,OUT,FAB006,Fabric Store,202.5,,,Issued to Cutting - ISS-2026-1048
+2026-09-14,OUT,FAB009,Fabric Store,517.5,,,Issued to Cutting - ISS-2026-1049
+2026-09-14,OUT,FAB010,Fabric Store,327.5,,,Issued to Cutting - ISS-2026-1050
+2026-09-14,OUT,FAB019,Fabric Store,257.5,,,Issued to Cutting - ISS-2026-1051
+2026-09-14,OUT,FAB020,Fabric Store,57.5,,,Issued to Cutting - ISS-2026-1052
+2026-09-14,OUT,PKG003,Finished Goods Store,890,,,Issued to Packing Section - ISS-2026-1053
+2026-09-14,OUT,PKG003,Packing Store,910,,,Issued to Packing Section - ISS-2026-1054
+2026-09-14,OUT,PKG009,Packing Store,102,,,Issued to Packing Section - ISS-2026-1055
+2026-09-14,OUT,TRM002,Trims Store,356,,,Issued to Stitching Line 4 - ISS-2026-1056
+2026-09-14,OUT,TRM011,Trims Store,275.0,,,Issued to Stitching Line 3 - ISS-2026-1057
+2026-09-14,OUT,TRM018,Trims Store,1650,,,Issued to Stitching Line 4 - ISS-2026-1058
+2026-09-14,OUT,YRN001,Yarn Store,1400.0,,,Issued to Knitting - ISS-2026-1059
+2026-09-15,IN,FAB004,Fabric Store,3350.0,366.54,Sakthi Dyeing & Processing,GRN-2026-0301 against PO-1064
+2026-09-15,IN,FAB019,Fabric Store,1660.0,400.71,Sakthi Dyeing & Processing,GRN-2026-0302 against PO-1639
+2026-09-15,IN,PKG010,Packing Store,43500,0.35,Srinivasa Carton Works,GRN-2026-0303 against PO-1786
+2026-09-15,IN,TRM001,Trims Store,1130,90.56,Ganesh Thread House,GRN-2026-0304 against PO-1387
+2026-09-15,IN,YRN003,Yarn Store,5490.0,250.15,Annai Spinning Mills,GRN-2026-0305 against PO-1781
+2026-09-15,OUT,FAB006,Fabric Store,235.0,,,Issued to Cutting - ISS-2026-1060
+2026-09-15,OUT,FAB010,Fabric Store,177.5,,,Issued to Cutting - ISS-2026-1061
+2026-09-15,OUT,FAB011,Fabric Store,270.0,,,Issued to Cutting - ISS-2026-1062
+2026-09-15,OUT,FAB020,Fabric Store,45.0,,,Issued to Cutting - ISS-2026-1063
+2026-09-15,OUT,PKG003,Packing Store,810,,,Issued to Packing Section - ISS-2026-1064
+2026-09-15,OUT,PKG005,Finished Goods Store,6550,,,Issued to Packing Section - ISS-2026-1065
+2026-09-15,OUT,PKG005,Finished Goods Store,3950,,,Issued to Packing Section - ISS-2026-1066
+2026-09-15,OUT,PKG006,Packing Store,98,,,Issued to Packing Section - ISS-2026-1067
+2026-09-15,OUT,PKG007,Packing Store,3350,,,Issued to Packing Section - ISS-2026-1068
+2026-09-15,OUT,PKG008,Packing Store,3500,,,Issued to Packing Section - ISS-2026-1069
+2026-09-15,OUT,TRM005,Trims Store,4090,,,Issued to Stitching Line 8 - ISS-2026-1070
+2026-09-15,OUT,TRM008,Trims Store,20900,,,Issued to Stitching Line 1 - ISS-2026-1071
+2026-09-15,OUT,TRM015,Trims Store,4150,,,Issued to Stitching Line 8 - ISS-2026-1072
+2026-09-15,OUT,TRM015,Trims Store,2700,,,Issued to Stitching Line 5 - ISS-2026-1073
+2026-09-15,OUT,TRM015,Trims Store,3400,,,Issued to Stitching Line 5 - ISS-2026-1074
+2026-09-15,OUT,YRN005,Yarn Store,565.0,,,Issued to Knitting - ISS-2026-1075
+2026-09-15,OUT,YRN008,Yarn Store,422.5,,,Issued to Knitting - ISS-2026-1076
+2026-09-15,OUT,YRN009,Yarn Store,430.0,,,Issued to Knitting - ISS-2026-1077
+2026-09-16,IN,FAB007,Fabric Store,2250.0,386.00,Perumal Knit Fabrics,GRN-2026-0306 against PO-1806
+2026-09-16,IN,PKG010,Packing Store,39500,0.34,Kaveri Packaging Industries,GRN-2026-0307 against PO-1043
+2026-09-16,IN,TRM002,Trims Store,1010,91.42,Ganesh Thread House,GRN-2026-0308 against PO-1096
+2026-09-16,IN,TRM007,Trims Store,7500,15.46,Universal Zipper Co,GRN-2026-0309 against PO-1553
+2026-09-16,OUT,FAB005,Fabric Store,127.5,,,Issued to Cutting - ISS-2026-1078
+2026-09-16,OUT,FAB006,Fabric Store,180.0,,,Issued to Cutting - ISS-2026-1079
+2026-09-16,OUT,FAB007,Fabric Store,622.5,,,Issued to Cutting - ISS-2026-1080
+2026-09-16,OUT,FAB007,Fabric Store,592.5,,,Issued to Cutting - ISS-2026-1081
+2026-09-16,OUT,FAB009,Fabric Store,667.5,,,Issued to Cutting - ISS-2026-1082
+2026-09-16,OUT,FAB017,Fabric Store,925.0,,,Issued to Cutting - ISS-2026-1083
+2026-09-16,OUT,PKG004,Packing Store,390,,,Issued to Packing Section - ISS-2026-1084
+2026-09-16,OUT,PKG004,Packing Store,600,,,Issued to Packing Section - ISS-2026-1085
+2026-09-16,OUT,TRM004,Trims Store,114,,,Issued to Stitching Line 8 - ISS-2026-1086
+2026-09-16,OUT,TRM004,Trims Store,74,,,Issued to Stitching Line 6 - ISS-2026-1087
+2026-09-16,OUT,YRN001,Yarn Store,1827.5,,,Issued to Knitting - ISS-2026-1088
+2026-09-16,OUT,YRN002,Yarn Store,775.0,,,Issued to Knitting - ISS-2026-1089
+2026-09-16,OUT,YRN008,Yarn Store,350.0,,,Issued to Knitting - ISS-2026-1090
+2026-09-16,OUT,YRN009,Yarn Store,220.0,,,Issued to Knitting - ISS-2026-1091
+2026-09-16,OUT,YRN010,Yarn Store,327.5,,,Issued to Knitting - ISS-2026-1092
+2026-09-17,IN,FG001,Finished Goods Store,3100,115.24,In-house Production - Unit 1,Finished lot received from production - GRN-2026-0310
+2026-09-17,IN,FG007,Finished Goods Store,1000,195.76,In-house Production - Unit 2,Finished lot received from production - GRN-2026-0311
+2026-09-17,IN,PKG002,Packing Store,43500,1.93,Srinivasa Carton Works,GRN-2026-0312 against PO-1601
+2026-09-17,OUT,FAB002,Fabric Store,395.0,,,Issued to Cutting - ISS-2026-1093
+2026-09-17,OUT,FAB002,Fabric Store,450.0,,,Issued to Cutting - ISS-2026-1094
+2026-09-17,OUT,FAB003,Fabric Store,397.5,,,Issued to Cutting - ISS-2026-1095
+2026-09-17,OUT,FAB004,Fabric Store,597.5,,,Issued to Cutting - ISS-2026-1096
+2026-09-17,OUT,FAB008,Fabric Store,115.0,,,Issued to Cutting - ISS-2026-1097
+2026-09-17,OUT,FAB013,Fabric Store,872.5,,,Issued to Cutting - ISS-2026-1098
+2026-09-17,OUT,FAB017,Fabric Store,935.0,,,Issued to Cutting - ISS-2026-1099
+2026-09-17,OUT,FAB018,Fabric Store,1027.5,,,Issued to Cutting - ISS-2026-1100
+2026-09-17,OUT,FG004,Finished Goods Store,740,,,Dispatch to Sunrise Fashion Hub - DC-2026-1101
+2026-09-17,OUT,PKG006,Packing Store,129,,,Issued to Packing Section - ISS-2026-1102
+2026-09-17,OUT,PKG006,Packing Store,97,,,Issued to Packing Section - ISS-2026-1103
+2026-09-17,OUT,PKG010,Packing Store,10350,,,Issued to Packing Section - ISS-2026-1104
+2026-09-17,OUT,TRM010,Trims Store,5100,,,Issued to Stitching Line 1 - ISS-2026-1105
+2026-09-17,OUT,TRM012,Trims Store,2147.5,,,Issued to Stitching Line 3 - ISS-2026-1106
+2026-09-17,OUT,YRN010,Yarn Store,585.0,,,Issued to Knitting - ISS-2026-1107
+2026-09-18,IN,FAB005,Fabric Store,1150.0,362.63,Perumal Knit Fabrics,GRN-2026-0313 against PO-1849
+2026-09-18,IN,FAB020,Fabric Store,890.0,448.26,Perumal Knit Fabrics,GRN-2026-0314 against PO-1714
+2026-09-18,IN,FG003,Finished Goods Store,1800,132.19,In-house Production - Unit 1,Finished lot received from production - GRN-2026-0315
+2026-09-18,IN,TRM003,Trims Store,630,94.17,Ganesh Thread House,GRN-2026-0316 against PO-1615
+2026-09-18,IN,TRM011,Trims Store,10690.0,9.43,Tirupur Trims & Accessories,GRN-2026-0317 against PO-1676
+2026-09-18,IN,YRN007,Yarn Store,340.0,693.14,Annai Spinning Mills,GRN-2026-0318 against PO-1811
+2026-09-18,OUT,FAB005,Fabric Store,280.0,,,Issued to Cutting - ISS-2026-1108
+2026-09-18,OUT,FAB005,Fabric Store,172.5,,,Issued to Cutting - ISS-2026-1109
+2026-09-18,OUT,FAB005,Fabric Store,140.0,,,Issued to Cutting - ISS-2026-1110
+2026-09-18,OUT,FAB008,Fabric Store,132.5,,,Issued to Cutting - ISS-2026-1111
+2026-09-18,OUT,PKG008,Packing Store,3350,,,Issued to Packing Section - ISS-2026-1112
+2026-09-18,OUT,TRM001,Trims Store,266,,,Issued to Stitching Line 5 - ISS-2026-1113
+2026-09-18,OUT,TRM004,Trims Store,69,,,Issued to Stitching Line 1 - ISS-2026-1114
+2026-09-18,OUT,TRM011,Trims Store,3985.0,,,Issued to Stitching Line 1 - ISS-2026-1115
+2026-09-18,OUT,TRM016,Trims Store,2275.0,,,Issued to Stitching Line 5 - ISS-2026-1116
+2026-09-18,OUT,TRM018,Trims Store,1750,,,Issued to Stitching Line 3 - ISS-2026-1117
+2026-09-18,OUT,YRN007,Yarn Store,82.5,,,Issued to Knitting - ISS-2026-1118
+2026-09-19,IN,FAB001,Fabric Store,2450.0,361.11,Sakthi Dyeing & Processing,GRN-2026-0319 against PO-1718
+2026-09-19,IN,PKG001,Packing Store,44500,1.42,Srinivasa Carton Works,GRN-2026-0320 against PO-1935
+2026-09-19,IN,TRM018,Trims Store,12000,1.87,Tirupur Trims & Accessories,GRN-2026-0321 against PO-1232
+2026-09-19,IN,YRN006,Yarn Store,1740.0,276.00,Annai Spinning Mills,GRN-2026-0322 against PO-1751
+2026-09-19,OUT,FAB005,Fabric Store,242.5,,,Issued to Cutting - ISS-2026-1119
+2026-09-19,OUT,FAB011,Fabric Store,265.0,,,Issued to Cutting - ISS-2026-1120
+2026-09-19,OUT,FAB012,Fabric Store,205.0,,,Issued to Cutting - ISS-2026-1121
+2026-09-19,OUT,FAB019,Fabric Store,210.0,,,Issued to Cutting - ISS-2026-1122
+2026-09-19,OUT,FG003,Finished Goods Store,1620,,,Dispatch to Sunrise Fashion Hub - DC-2026-1123
+2026-09-19,OUT,PKG004,Packing Store,470,,,Issued to Packing Section - ISS-2026-1124
+2026-09-19,OUT,PKG005,Packing Store,12250,,,Issued to Packing Section - ISS-2026-1125
+2026-09-19,OUT,TRM002,Trims Store,261,,,Issued to Stitching Line 7 - ISS-2026-1126
+2026-09-19,OUT,YRN002,Yarn Store,840.0,,,Issued to Knitting - ISS-2026-1127
+2026-09-19,OUT,YRN003,Yarn Store,657.5,,,Issued to Knitting - ISS-2026-1128
+2026-09-20,IN,FG005,Finished Goods Store,2000,249.67,In-house Production - Unit 2,Finished lot received from production - GRN-2026-0323
+2026-09-20,IN,YRN004,Yarn Store,2240.0,293.14,Annai Spinning Mills,GRN-2026-0324 against PO-1469
+2026-09-20,IN,YRN008,Yarn Store,2430.0,265.72,Annai Spinning Mills,GRN-2026-0325 against PO-1440
+2026-09-20,OUT,FAB008,Fabric Store,145.0,,,Issued to Cutting - ISS-2026-1129
+2026-09-20,OUT,FAB008,Fabric Store,105.0,,,Issued to Cutting - ISS-2026-1130
+2026-09-20,OUT,FAB012,Fabric Store,152.5,,,Issued to Cutting - ISS-2026-1131
+2026-09-20,OUT,FAB015,Fabric Store,2447.5,,,Issued to Cutting - ISS-2026-1132
+2026-09-20,OUT,FG006,Finished Goods Store,340,,,Dispatch to Northwind Apparel Exports - DC-2026-1133
+2026-09-20,OUT,FG007,Finished Goods Store,1150,,,Dispatch to Kidz Corner Stores - DC-2026-1134
+2026-09-20,OUT,PKG002,Packing Store,8500,,,Issued to Packing Section - ISS-2026-1135
+2026-09-20,OUT,TRM001,Trims Store,366,,,Issued to Stitching Line 1 - ISS-2026-1136
+2026-09-20,OUT,YRN005,Yarn Store,300.0,,,Issued to Knitting - ISS-2026-1137
+2026-09-20,OUT,YRN007,Yarn Store,60.0,,,Issued to Knitting - ISS-2026-1138
+2026-09-21,IN,TRM016,Trims Store,5850.0,38.74,Tirupur Trims & Accessories,GRN-2026-0326 against PO-1442
+2026-09-21,OUT,FAB005,Fabric Store,107.5,,,Issued to Cutting - ISS-2026-1139
+2026-09-21,OUT,FAB006,Fabric Store,140.0,,,Issued to Cutting - ISS-2026-1140
+2026-09-21,OUT,FAB010,Fabric Store,355.0,,,Issued to Cutting - ISS-2026-1141
+2026-09-21,OUT,FAB014,Fabric Store,262.5,,,Issued to Cutting - ISS-2026-1142
+2026-09-21,OUT,FAB018,Fabric Store,772.5,,,Issued to Cutting - ISS-2026-1143
+2026-09-21,OUT,FAB018,Fabric Store,1280.0,,,Issued to Cutting - ISS-2026-1144
+2026-09-21,OUT,FAB019,Fabric Store,400.0,,,Issued to Cutting - ISS-2026-1145
+2026-09-21,OUT,FAB019,Fabric Store,272.5,,,Issued to Cutting - ISS-2026-1146
+2026-09-21,OUT,FAB020,Fabric Store,110.0,,,Issued to Cutting - ISS-2026-1147
+2026-09-21,OUT,FG007,Finished Goods Store,810,,,Dispatch to Urban Threads Retail - DC-2026-1148
+2026-09-21,OUT,PKG002,Packing Store,4150,,,Issued to Packing Section - ISS-2026-1149
+2026-09-21,OUT,PKG004,Packing Store,400,,,Issued to Packing Section - ISS-2026-1150
+2026-09-21,OUT,PKG009,Packing Store,61,,,Issued to Packing Section - ISS-2026-1151
+2026-09-21,OUT,PKG010,Packing Store,6150,,,Issued to Packing Section - ISS-2026-1152
+2026-09-21,OUT,TRM003,Trims Store,222,,,Issued to Stitching Line 2 - ISS-2026-1153
+2026-09-21,OUT,TRM004,Trims Store,90,,,Issued to Stitching Line 7 - ISS-2026-1154
+2026-09-21,OUT,TRM015,Trims Store,7050,,,Issued to Stitching Line 5 - ISS-2026-1155
+2026-09-22,IN,FG003,Finished Goods Store,1700,134.81,In-house Production - Unit 1,Finished lot received from production - GRN-2026-0327
+2026-09-22,IN,FG004,Finished Goods Store,1200,254.44,In-house Production - Unit 1,Finished lot received from production - GRN-2026-0328
+2026-09-22,IN,TRM013,Trims Store,34500,0.89,Sri Vinayaga Labels,GRN-2026-0329 against PO-1560
+2026-09-22,OUT,FAB008,Fabric Store,107.5,,,Issued to Cutting - ISS-2026-1156
+2026-09-22,OUT,FAB015,Fabric Store,1980.0,,,Issued to Cutting - ISS-2026-1157
+2026-09-22,OUT,FAB016,Fabric Store,1357.5,,,Issued to Cutting - ISS-2026-1158
+2026-09-22,OUT,PKG006,Packing Store,136,,,Issued to Packing Section - ISS-2026-1159
+2026-09-22,OUT,PKG010,Packing Store,13400,,,Issued to Packing Section - ISS-2026-1160
+2026-09-22,OUT,TRM015,Trims Store,4350,,,Issued to Stitching Line 8 - ISS-2026-1161
+2026-09-22,OUT,TRM017,Trims Store,1445.0,,,Issued to Stitching Line 3 - ISS-2026-1162
+2026-09-22,OUT,YRN002,Yarn Store,332.5,,,Issued to Knitting - ISS-2026-1163
+2026-09-22,OUT,YRN003,Yarn Store,750.0,,,Issued to Knitting - ISS-2026-1164
+2026-09-22,OUT,YRN005,Yarn Store,550.0,,,Issued to Knitting - ISS-2026-1165
+2026-09-23,OUT,FAB002,Fabric Store,617.5,,,Issued to Cutting - ISS-2026-1166
+2026-09-23,OUT,FAB009,Fabric Store,560.0,,,Issued to Cutting - ISS-2026-1167
+2026-09-23,OUT,FG001,Finished Goods Store,1630,,,Dispatch to Sunrise Fashion Hub - DC-2026-1168
+2026-09-23,OUT,FG005,Finished Goods Store,1050,,,Dispatch to Urban Threads Retail - DC-2026-1169
+2026-09-23,OUT,FG005,Finished Goods Store,1510,,,Dispatch to Urban Threads Retail - DC-2026-1170
+2026-09-23,OUT,PKG003,Packing Store,380,,,Issued to Packing Section - ISS-2026-1171
+2026-09-23,OUT,PKG006,Packing Store,90,,,Issued to Packing Section - ISS-2026-1172
+2026-09-23,OUT,PKG008,Packing Store,3500,,,Issued to Packing Section - ISS-2026-1173
+2026-09-23,OUT,TRM003,Trims Store,153,,,Issued to Stitching Line 6 - ISS-2026-1174
+2026-09-23,OUT,TRM008,Trims Store,29950,,,Issued to Stitching Line 3 - ISS-2026-1175
+2026-09-24,OUT,FAB003,Fabric Store,240.0,,,Issued to Cutting - ISS-2026-1176
+2026-09-24,OUT,FAB007,Fabric Store,5.0,,,Issued to Cutting - ISS-2026-1177
+2026-09-24,OUT,FAB007,Fabric Store,5.0,,,Issued to Cutting - ISS-2026-1178
+2026-09-24,OUT,FAB008,Fabric Store,67.5,,,Issued to Cutting - ISS-2026-1179
+2026-09-24,OUT,FAB013,Fabric Store,95.0,,,Issued to Cutting - ISS-2026-1180
+2026-09-24,OUT,FAB013,Fabric Store,90.0,,,Issued to Cutting - ISS-2026-1181
+2026-09-24,OUT,FG002,Finished Goods Store,1900,,,Dispatch to Kidz Corner Stores - DC-2026-1182
+2026-09-24,OUT,FG004,Finished Goods Store,610,,,Dispatch to Sunrise Fashion Hub - DC-2026-1183
+2026-09-24,OUT,PKG001,Packing Store,25050,,,Issued to Packing Section - ISS-2026-1184
+2026-09-24,OUT,PKG003,Finished Goods Store,20,,,Issued to Packing Section - ISS-2026-1185
+2026-09-24,OUT,PKG005,Finished Goods Store,2350,,,Issued to Packing Section - ISS-2026-1186
+2026-09-24,OUT,PKG010,Packing Store,28200,,,Issued to Packing Section - ISS-2026-1187
+2026-09-24,OUT,TRM002,Trims Store,353,,,Issued to Stitching Line 6 - ISS-2026-1188
+2026-09-24,OUT,TRM010,Trims Store,3950,,,Issued to Stitching Line 8 - ISS-2026-1189
+2026-09-24,OUT,TRM011,Trims Store,3752.5,,,Issued to Stitching Line 1 - ISS-2026-1190
+2026-09-24,OUT,TRM014,Trims Store,25650,,,Issued to Stitching Line 6 - ISS-2026-1191
+2026-09-24,OUT,TRM016,Trims Store,372.5,,,Issued to Stitching Line 3 - ISS-2026-1192
+2026-09-24,OUT,TRM017,Trims Store,1297.5,,,Issued to Stitching Line 6 - ISS-2026-1193
+2026-09-24,OUT,YRN004,Yarn Store,357.5,,,Issued to Knitting - ISS-2026-1194
+2026-09-24,OUT,YRN005,Yarn Store,310.0,,,Issued to Knitting - ISS-2026-1195
+2026-09-24,OUT,YRN005,Yarn Store,592.5,,,Issued to Knitting - ISS-2026-1196
+2026-09-25,OUT,FAB001,Fabric Store,817.5,,,Issued to Cutting - ISS-2026-1197
+2026-09-25,OUT,FAB004,Fabric Store,2510.0,,,Issued to Cutting - ISS-2026-1198
+2026-09-25,OUT,FAB010,Fabric Store,172.5,,,Issued to Cutting - ISS-2026-1199
+2026-09-25,OUT,FAB017,Fabric Store,552.5,,,Issued to Cutting - ISS-2026-1200
+2026-09-25,OUT,FAB018,Fabric Store,655.0,,,Issued to Cutting - ISS-2026-1201
+2026-09-25,OUT,FAB020,Fabric Store,20.0,,,Issued to Cutting - ISS-2026-1202
+2026-09-25,OUT,FG001,Finished Goods Store,2390,,,Dispatch to Kidz Corner Stores - DC-2026-1203
+2026-09-25,OUT,FG001,Finished Goods Store,2450,,,Dispatch to Urban Threads Retail - DC-2026-1204
+2026-09-25,OUT,FG002,Finished Goods Store,2210,,,Dispatch to Kidz Corner Stores - DC-2026-1205
+2026-09-25,OUT,FG005,Finished Goods Store,3030,,,Dispatch to Northwind Apparel Exports - DC-2026-1206
+2026-09-25,OUT,PKG002,Packing Store,4250,,,Issued to Packing Section - ISS-2026-1207
+2026-09-25,OUT,PKG004,Packing Store,470,,,Issued to Packing Section - ISS-2026-1208
+2026-09-25,OUT,PKG005,Packing Store,29850,,,Issued to Packing Section - ISS-2026-1209
+2026-09-25,OUT,PKG009,Packing Store,9,,,Issued to Packing Section - ISS-2026-1210
+2026-09-25,OUT,PKG010,Packing Store,28500,,,Issued to Packing Section - ISS-2026-1211
+2026-09-25,OUT,TRM004,Trims Store,18,,,Issued to Stitching Line 8 - ISS-2026-1212
+2026-09-25,OUT,TRM013,Trims Store,8900,,,Issued to Stitching Line 5 - ISS-2026-1213
+2026-09-25,OUT,TRM013,Trims Store,17750,,,Issued to Stitching Line 2 - ISS-2026-1214
+2026-09-25,OUT,TRM014,Trims Store,25250,,,Issued to Stitching Line 4 - ISS-2026-1215
+2026-09-25,OUT,TRM016,Trims Store,452.5,,,Issued to Stitching Line 8 - ISS-2026-1216
+2026-09-25,OUT,TRM018,Trims Store,50,,,Issued to Stitching Line 2 - ISS-2026-1217
+2026-09-26,OUT,FAB008,Fabric Store,65.0,,,Issued to Cutting - ISS-2026-1218
+2026-09-26,OUT,FAB017,Fabric Store,1235.0,,,Issued to Cutting - ISS-2026-1219
+2026-09-26,OUT,FAB018,Fabric Store,1397.5,,,Issued to Cutting - ISS-2026-1220
+2026-09-26,OUT,FAB019,Fabric Store,242.5,,,Issued to Cutting - ISS-2026-1221
+2026-09-26,OUT,FG004,Finished Goods Store,350,,,Dispatch to Urban Threads Retail - DC-2026-1222
+2026-09-26,OUT,PKG001,Packing Store,16900,,,Issued to Packing Section - ISS-2026-1223
+2026-09-26,OUT,PKG002,Packing Store,8750,,,Issued to Packing Section - ISS-2026-1224
+2026-09-26,OUT,PKG003,Packing Store,1070,,,Issued to Packing Section - ISS-2026-1225
+2026-09-26,OUT,PKG005,Finished Goods Store,2250,,,Issued to Packing Section - ISS-2026-1226
+2026-09-26,OUT,PKG005,Packing Store,23000,,,Issued to Packing Section - ISS-2026-1227
+2026-09-26,OUT,PKG006,Packing Store,5,,,Issued to Packing Section - ISS-2026-1228
+2026-09-26,OUT,PKG007,Packing Store,200,,,Issued to Packing Section - ISS-2026-1229
+2026-09-26,OUT,TRM002,Trims Store,299,,,Issued to Stitching Line 3 - ISS-2026-1230
+2026-09-26,OUT,TRM003,Trims Store,17,,,Issued to Stitching Line 4 - ISS-2026-1231
+2026-09-26,OUT,TRM004,Trims Store,20,,,Issued to Stitching Line 4 - ISS-2026-1232
+2026-09-26,OUT,TRM006,Trims Store,1440,,,Issued to Stitching Line 3 - ISS-2026-1233
+2026-09-26,OUT,TRM009,Trims Store,14050,,,Issued to Stitching Line 1 - ISS-2026-1234
+2026-09-26,OUT,TRM010,Trims Store,2500,,,Issued to Stitching Line 8 - ISS-2026-1235
+2026-09-26,OUT,TRM018,Trims Store,100,,,Issued to Stitching Line 2 - ISS-2026-1236
+2026-09-26,OUT,YRN004,Yarn Store,735.0,,,Issued to Knitting - ISS-2026-1237
+2026-09-26,OUT,YRN006,Yarn Store,392.5,,,Issued to Knitting - ISS-2026-1238
+2026-09-26,OUT,YRN007,Yarn Store,180.0,,,Issued to Knitting - ISS-2026-1239
+2026-09-26,OUT,YRN010,Yarn Store,10.0,,,Issued to Knitting - ISS-2026-1240
+2026-09-27,OUT,FAB003,Fabric Store,335.0,,,Issued to Cutting - ISS-2026-1241
+2026-09-27,OUT,FAB009,Fabric Store,447.5,,,Issued to Cutting - ISS-2026-1242
+2026-09-27,OUT,FAB009,Fabric Store,315.0,,,Issued to Cutting - ISS-2026-1243
+2026-09-27,OUT,FAB012,Fabric Store,5.0,,,Issued to Cutting - ISS-2026-1244
+2026-09-27,OUT,FAB012,Fabric Store,10.0,,,Issued to Cutting - ISS-2026-1245
+2026-09-27,OUT,FAB016,Fabric Store,1632.5,,,Issued to Cutting - ISS-2026-1246
+2026-09-27,OUT,FAB019,Fabric Store,330.0,,,Issued to Cutting - ISS-2026-1247
+2026-09-27,OUT,FG005,Finished Goods Store,2070,,,Dispatch to Urban Threads Retail - DC-2026-1248
+2026-09-27,OUT,PKG003,Finished Goods Store,40,,,Issued to Packing Section - ISS-2026-1249
+2026-09-27,OUT,PKG004,Packing Store,390,,,Issued to Packing Section - ISS-2026-1250
+2026-09-27,OUT,PKG006,Packing Store,4,,,Issued to Packing Section - ISS-2026-1251
+2026-09-27,OUT,PKG008,Packing Store,2600,,,Issued to Packing Section - ISS-2026-1252
+2026-09-27,OUT,PKG009,Packing Store,20,,,Issued to Packing Section - ISS-2026-1253
+2026-09-27,OUT,TRM007,Trims Store,7170,,,Issued to Stitching Line 7 - ISS-2026-1254
+2026-09-27,OUT,TRM007,Trims Store,15740,,,Issued to Stitching Line 7 - ISS-2026-1255
+2026-09-27,OUT,TRM008,Trims Store,11500,,,Issued to Stitching Line 5 - ISS-2026-1256
+2026-09-27,OUT,TRM009,Trims Store,17250,,,Issued to Stitching Line 5 - ISS-2026-1257
+2026-09-27,OUT,TRM011,Trims Store,3032.5,,,Issued to Stitching Line 8 - ISS-2026-1258
+2026-09-27,OUT,TRM015,Trims Store,1500,,,Issued to Stitching Line 3 - ISS-2026-1259
+2026-09-27,OUT,TRM017,Trims Store,920.0,,,Issued to Stitching Line 7 - ISS-2026-1260
+2026-09-27,OUT,YRN001,Yarn Store,737.5,,,Issued to Knitting - ISS-2026-1261
+2026-09-27,OUT,YRN003,Yarn Store,1705.0,,,Issued to Knitting - ISS-2026-1262
+2026-09-27,OUT,YRN006,Yarn Store,202.5,,,Issued to Knitting - ISS-2026-1263
+2026-09-27,OUT,YRN007,Yarn Store,85.0,,,Issued to Knitting - ISS-2026-1264
+2026-09-27,OUT,YRN008,Yarn Store,807.5,,,Issued to Knitting - ISS-2026-1265
+2026-09-27,OUT,YRN008,Yarn Store,662.5,,,Issued to Knitting - ISS-2026-1266
+2026-09-28,OUT,FAB001,Fabric Store,362.5,,,Issued to Cutting - ISS-2026-1267
+2026-09-28,OUT,FAB004,Fabric Store,2607.5,,,Issued to Cutting - ISS-2026-1268
+2026-09-28,OUT,FAB006,Fabric Store,807.5,,,Issued to Cutting - ISS-2026-1269
+2026-09-28,OUT,FAB006,Fabric Store,1097.5,,,Issued to Cutting - ISS-2026-1270
+2026-09-28,OUT,FAB010,Fabric Store,182.5,,,Issued to Cutting - ISS-2026-1271
+2026-09-28,OUT,FAB016,Fabric Store,2512.5,,,Issued to Cutting - ISS-2026-1272
+2026-09-28,OUT,FAB020,Fabric Store,12.5,,,Issued to Cutting - ISS-2026-1273
+2026-09-28,OUT,PKG003,Packing Store,890,,,Issued to Packing Section - ISS-2026-1274
+2026-09-28,OUT,PKG007,Packing Store,350,,,Issued to Packing Section - ISS-2026-1275
+2026-09-28,OUT,PKG008,Packing Store,3000,,,Issued to Packing Section - ISS-2026-1276
+2026-09-28,OUT,TRM003,Trims Store,34,,,Issued to Stitching Line 7 - ISS-2026-1277
+2026-09-28,OUT,TRM006,Trims Store,1300,,,Issued to Stitching Line 1 - ISS-2026-1278
+2026-09-28,OUT,TRM008,Trims Store,13850,,,Issued to Stitching Line 4 - ISS-2026-1279
+2026-09-28,OUT,TRM015,Trims Store,1350,,,Issued to Stitching Line 5 - ISS-2026-1280
+2026-09-28,OUT,YRN001,Yarn Store,635.0,,,Issued to Knitting - ISS-2026-1281
+2026-09-28,OUT,YRN003,Yarn Store,1747.5,,,Issued to Knitting - ISS-2026-1282
+2026-09-28,OUT,YRN010,Yarn Store,5.0,,,Issued to Knitting - ISS-2026-1283
